@@ -1,0 +1,461 @@
+[
+  {
+    "licence": "Contains public sector information licensed under the Open Government Licence",
+    "data_information": " Three-hourly five-day forecast",
+    "location": {
+      "locationName": "BALTASOUND",
+      "country": "SCOTLAND",
+      "continent": "EUROPE",
+      "longitude": "-0.854",
+      "latitude": "60.749",
+      "elevation": "15.0"
+    },
+    "weather": [
+      {
+        "day": "2018-10-16Z",
+        "weather_details": [
+          {
+            "temperatureC": 11,
+            "feelsLikeC": 6,
+            "weatherCategory": "Cloudy",
+            "UV_index": "Moderate exposure.Seek shade during midday hours, cover up and wear sunscreen",
+            "visibility": "Good(10 - 20km)",
+            "humidityPercent": 92,
+            "windSpeedMph": 27,
+            "windGustMph": 40,
+            "windDirectionDeg": "S",
+            "precipitation_probabilityPercent": 56
+          },
+          {
+            "temperatureC": 11,
+            "feelsLikeC": 7,
+            "weatherCategory": "Cloudy",
+            "UV_index": "Moderate exposure.Seek shade during midday hours, cover up and wear sunscreen",
+            "visibility": "Good(10 - 20km)",
+            "humidityPercent": 89,
+            "windSpeedMph": 22,
+            "windGustMph": 29,
+            "windDirectionDeg": "S",
+            "precipitation_probabilityPercent": 5
+          },
+          {
+            "temperatureC": 11,
+            "feelsLikeC": 7,
+            "weatherCategory": "Cloudy",
+            "UV_index": "Moderate exposure.Seek shade during midday hours, cover up and wear sunscreen",
+            "visibility": "Good(10 - 20km)",
+            "humidityPercent": 85,
+            "windSpeedMph": 25,
+            "windGustMph": 36,
+            "windDirectionDeg": "SSW",
+            "precipitation_probabilityPercent": 11
+          }
+        ]
+      },
+      {
+        "day": "2018-10-17Z",
+        "weather_details": [
+          {
+            "temperatureC": 10,
+            "feelsLikeC": 7,
+            "weatherCategory": "Clear night",
+            "UV_index": "Moderate exposure.Seek shade during midday hours, cover up and wear sunscreen",
+            "visibility": "Very Good(20- 40km)",
+            "humidityPercent": 88,
+            "windSpeedMph": 16,
+            "windGustMph": 29,
+            "windDirectionDeg": "SW",
+            "precipitation_probabilityPercent": 1
+          },
+          {
+            "temperatureC": 9,
+            "feelsLikeC": 6,
+            "weatherCategory": "Clear night",
+            "UV_index": "Moderate exposure.Seek shade during midday hours, cover up and wear sunscreen",
+            "visibility": "Excellent(more than 40km)",
+            "humidityPercent": 87,
+            "windSpeedMph": 16,
+            "windGustMph": 31,
+            "windDirectionDeg": "SW",
+            "precipitation_probabilityPercent": 36
+          },
+          {
+            "temperatureC": 9,
+            "feelsLikeC": 6,
+            "weatherCategory": "Partly cloudy(night)",
+            "UV_index": "Moderate exposure.Seek shade during midday hours, cover up and wear sunscreen",
+            "visibility": "Excellent(more than 40km)",
+            "humidityPercent": 80,
+            "windSpeedMph": 18,
+            "windGustMph": 31,
+            "windDirectionDeg": "SW",
+            "precipitation_probabilityPercent": 3
+          },
+          {
+            "temperatureC": 10,
+            "feelsLikeC": 6,
+            "weatherCategory": "Partly cloudy(day)",
+            "UV_index": "Moderate exposure.Seek shade during midday hours, cover up and wear sunscreen",
+            "visibility": "Excellent(more than 40km)",
+            "humidityPercent": 72,
+            "windSpeedMph": 18,
+            "windGustMph": 31,
+            "windDirectionDeg": "SW",
+            "precipitation_probabilityPercent": 37
+          },
+          {
+            "temperatureC": 10,
+            "feelsLikeC": 7,
+            "weatherCategory": "Cloudy",
+            "UV_index": "Moderate exposure.Seek shade during midday hours, cover up and wear sunscreen",
+            "visibility": "Excellent(more than 40km)",
+            "humidityPercent": 70,
+            "windSpeedMph": 20,
+            "windGustMph": 34,
+            "windDirectionDeg": "WSW",
+            "precipitation_probabilityPercent": 13
+          },
+          {
+            "temperatureC": 10,
+            "feelsLikeC": 6,
+            "weatherCategory": "Cloudy",
+            "UV_index": "Moderate exposure.Seek shade during midday hours, cover up and wear sunscreen",
+            "visibility": "Excellent(more than 40km)",
+            "humidityPercent": 70,
+            "windSpeedMph": 18,
+            "windGustMph": 31,
+            "windDirectionDeg": "WSW",
+            "precipitation_probabilityPercent": 31
+          },
+          {
+            "temperatureC": 8,
+            "feelsLikeC": 5,
+            "weatherCategory": "Light rain shower(night)",
+            "UV_index": "Moderate exposure.Seek shade during midday hours, cover up and wear sunscreen",
+            "visibility": "Very Good(20- 40km)",
+            "humidityPercent": 73,
+            "windSpeedMph": 18,
+            "windGustMph": 31,
+            "windDirectionDeg": "WSW",
+            "precipitation_probabilityPercent": 40
+          },
+          {
+            "temperatureC": 8,
+            "feelsLikeC": 5,
+            "weatherCategory": "Light rain shower(night)",
+            "UV_index": "Moderate exposure.Seek shade during midday hours, cover up and wear sunscreen",
+            "visibility": "Excellent(more than 40km)",
+            "humidityPercent": 72,
+            "windSpeedMph": 20,
+            "windGustMph": 34,
+            "windDirectionDeg": "WSW",
+            "precipitation_probabilityPercent": 39
+          }
+        ]
+      },
+      {
+        "day": "2018-10-18Z",
+        "weather_details": [
+          {
+            "temperatureC": 8,
+            "feelsLikeC": 4,
+            "weatherCategory": "Clear night",
+            "UV_index": "Moderate exposure.Seek shade during midday hours, cover up and wear sunscreen",
+            "visibility": "Excellent(more than 40km)",
+            "humidityPercent": 70,
+            "windSpeedMph": 20,
+            "windGustMph": 34,
+            "windDirectionDeg": "W",
+            "precipitation_probabilityPercent": 4
+          },
+          {
+            "temperatureC": 8,
+            "feelsLikeC": 4,
+            "weatherCategory": "Partly cloudy(night)",
+            "UV_index": "Moderate exposure.Seek shade during midday hours, cover up and wear sunscreen",
+            "visibility": "Excellent(more than 40km)",
+            "humidityPercent": 75,
+            "windSpeedMph": 20,
+            "windGustMph": 31,
+            "windDirectionDeg": "W",
+            "precipitation_probabilityPercent": 33
+          },
+          {
+            "temperatureC": 8,
+            "feelsLikeC": 4,
+            "weatherCategory": "Partly cloudy(night)",
+            "UV_index": "Moderate exposure.Seek shade during midday hours, cover up and wear sunscreen",
+            "visibility": "Very Good(20- 40km)",
+            "humidityPercent": 77,
+            "windSpeedMph": 18,
+            "windGustMph": 29,
+            "windDirectionDeg": "W",
+            "precipitation_probabilityPercent": 42
+          },
+          {
+            "temperatureC": 9,
+            "feelsLikeC": 5,
+            "weatherCategory": "Sunny day",
+            "UV_index": "Moderate exposure.Seek shade during midday hours, cover up and wear sunscreen",
+            "visibility": "Excellent(more than 40km)",
+            "humidityPercent": 70,
+            "windSpeedMph": 16,
+            "windGustMph": 27,
+            "windDirectionDeg": "W",
+            "precipitation_probabilityPercent": 1
+          },
+          {
+            "temperatureC": 10,
+            "feelsLikeC": 7,
+            "weatherCategory": "Partly cloudy(day)",
+            "UV_index": "Moderate exposure.Seek shade during midday hours, cover up and wear sunscreen",
+            "visibility": "Excellent(more than 40km)",
+            "humidityPercent": 69,
+            "windSpeedMph": 16,
+            "windGustMph": 22,
+            "windDirectionDeg": "W",
+            "precipitation_probabilityPercent": 3
+          },
+          {
+            "temperatureC": 10,
+            "feelsLikeC": 8,
+            "weatherCategory": "Cloudy",
+            "UV_index": "Moderate exposure.Seek shade during midday hours, cover up and wear sunscreen",
+            "visibility": "Excellent(more than 40km)",
+            "humidityPercent": 75,
+            "windSpeedMph": 11,
+            "windGustMph": 20,
+            "windDirectionDeg": "WSW",
+            "precipitation_probabilityPercent": 5
+          },
+          {
+            "temperatureC": 9,
+            "feelsLikeC": 6,
+            "weatherCategory": "Cloudy",
+            "UV_index": "Moderate exposure.Seek shade during midday hours, cover up and wear sunscreen",
+            "visibility": "Very Good(20- 40km)",
+            "humidityPercent": 83,
+            "windSpeedMph": 11,
+            "windGustMph": 20,
+            "windDirectionDeg": "SSW",
+            "precipitation_probabilityPercent": 5
+          },
+          {
+            "temperatureC": 9,
+            "feelsLikeC": 6,
+            "weatherCategory": "Cloudy",
+            "UV_index": "Moderate exposure.Seek shade during midday hours, cover up and wear sunscreen",
+            "visibility": "Very Good(20- 40km)",
+            "humidityPercent": 84,
+            "windSpeedMph": 13,
+            "windGustMph": 22,
+            "windDirectionDeg": "SSW",
+            "precipitation_probabilityPercent": 9
+          }
+        ]
+      },
+      {
+        "day": "2018-10-19Z",
+        "weather_details": [
+          {
+            "temperatureC": 9,
+            "feelsLikeC": 6,
+            "weatherCategory": "Cloudy",
+            "UV_index": "Moderate exposure.Seek shade during midday hours, cover up and wear sunscreen",
+            "visibility": "Very Good(20- 40km)",
+            "humidityPercent": 82,
+            "windSpeedMph": 16,
+            "windGustMph": 25,
+            "windDirectionDeg": "SSW",
+            "precipitation_probabilityPercent": 6
+          },
+          {
+            "temperatureC": 9,
+            "feelsLikeC": 6,
+            "weatherCategory": "Cloudy",
+            "UV_index": "Moderate exposure.Seek shade during midday hours, cover up and wear sunscreen",
+            "visibility": "Very Good(20- 40km)",
+            "humidityPercent": 80,
+            "windSpeedMph": 18,
+            "windGustMph": 27,
+            "windDirectionDeg": "SSW",
+            "precipitation_probabilityPercent": 8
+          },
+          {
+            "temperatureC": 9,
+            "feelsLikeC": 6,
+            "weatherCategory": "Cloudy",
+            "UV_index": "Moderate exposure.Seek shade during midday hours, cover up and wear sunscreen",
+            "visibility": "Very Good(20- 40km)",
+            "humidityPercent": 78,
+            "windSpeedMph": 20,
+            "windGustMph": 31,
+            "windDirectionDeg": "S",
+            "precipitation_probabilityPercent": 8
+          },
+          {
+            "temperatureC": 9,
+            "feelsLikeC": 5,
+            "weatherCategory": "Overcast",
+            "UV_index": "Moderate exposure.Seek shade during midday hours, cover up and wear sunscreen",
+            "visibility": "Very Good(20- 40km)",
+            "humidityPercent": 81,
+            "windSpeedMph": 22,
+            "windGustMph": 36,
+            "windDirectionDeg": "SSW",
+            "precipitation_probabilityPercent": 24
+          },
+          {
+            "temperatureC": 10,
+            "feelsLikeC": 5,
+            "weatherCategory": "Heavy rain",
+            "UV_index": "Moderate exposure.Seek shade during midday hours, cover up and wear sunscreen",
+            "visibility": "Moderate(4 - 10km)",
+            "humidityPercent": 90,
+            "windSpeedMph": 22,
+            "windGustMph": 36,
+            "windDirectionDeg": "SSW",
+            "precipitation_probabilityPercent": 86
+          },
+          {
+            "temperatureC": 10,
+            "feelsLikeC": 6,
+            "weatherCategory": "Light rain shower(day)",
+            "UV_index": "Moderate exposure.Seek shade during midday hours, cover up and wear sunscreen",
+            "visibility": "Very Good(20- 40km)",
+            "humidityPercent": 82,
+            "windSpeedMph": 18,
+            "windGustMph": 29,
+            "windDirectionDeg": "WSW",
+            "precipitation_probabilityPercent": 44
+          },
+          {
+            "temperatureC": 9,
+            "feelsLikeC": 5,
+            "weatherCategory": "Clear night",
+            "UV_index": "Moderate exposure.Seek shade during midday hours, cover up and wear sunscreen",
+            "visibility": "Very Good(20- 40km)",
+            "humidityPercent": 80,
+            "windSpeedMph": 16,
+            "windGustMph": 25,
+            "windDirectionDeg": "W",
+            "precipitation_probabilityPercent": 10
+          },
+          {
+            "temperatureC": 8,
+            "feelsLikeC": 4,
+            "weatherCategory": "Clear night",
+            "UV_index": "Moderate exposure.Seek shade during midday hours, cover up and wear sunscreen",
+            "visibility": "Very Good(20- 40km)",
+            "humidityPercent": 82,
+            "windSpeedMph": 13,
+            "windGustMph": 20,
+            "windDirectionDeg": "W",
+            "precipitation_probabilityPercent": 2
+          }
+        ]
+      },
+      {
+        "day": "2018-10-20Z",
+        "weather_details": [
+          {
+            "temperatureC": 7,
+            "feelsLikeC": 4,
+            "weatherCategory": "Cloudy",
+            "UV_index": "Moderate exposure.Seek shade during midday hours, cover up and wear sunscreen",
+            "visibility": "Very Good(20- 40km)",
+            "humidityPercent": 83,
+            "windSpeedMph": 11,
+            "windGustMph": 16,
+            "windDirectionDeg": "WSW",
+            "precipitation_probabilityPercent": 4
+          },
+          {
+            "temperatureC": 8,
+            "feelsLikeC": 5,
+            "weatherCategory": "Cloudy",
+            "UV_index": "Moderate exposure.Seek shade during midday hours, cover up and wear sunscreen",
+            "visibility": "Very Good(20- 40km)",
+            "humidityPercent": 84,
+            "windSpeedMph": 11,
+            "windGustMph": 16,
+            "windDirectionDeg": "SW",
+            "precipitation_probabilityPercent": 5
+          },
+          {
+            "temperatureC": 9,
+            "feelsLikeC": 6,
+            "weatherCategory": "Overcast",
+            "UV_index": "Moderate exposure.Seek shade during midday hours, cover up and wear sunscreen",
+            "visibility": "Very Good(20- 40km)",
+            "humidityPercent": 84,
+            "windSpeedMph": 13,
+            "windGustMph": 22,
+            "windDirectionDeg": "SSW",
+            "precipitation_probabilityPercent": 15
+          },
+          {
+            "temperatureC": 10,
+            "feelsLikeC": 6,
+            "weatherCategory": "Cloudy",
+            "UV_index": "Moderate exposure.Seek shade during midday hours, cover up and wear sunscreen",
+            "visibility": "Very Good(20- 40km)",
+            "humidityPercent": 86,
+            "windSpeedMph": 20,
+            "windGustMph": 31,
+            "windDirectionDeg": "S",
+            "precipitation_probabilityPercent": 15
+          },
+          {
+            "temperatureC": 11,
+            "feelsLikeC": 7,
+            "weatherCategory": "Overcast",
+            "UV_index": "Moderate exposure.Seek shade during midday hours, cover up and wear sunscreen",
+            "visibility": "Good(10 - 20km)",
+            "humidityPercent": 89,
+            "windSpeedMph": 22,
+            "windGustMph": 36,
+            "windDirectionDeg": "SSW",
+            "precipitation_probabilityPercent": 21
+          },
+          {
+            "temperatureC": 11,
+            "feelsLikeC": 7,
+            "weatherCategory": "Light rain shower(day)",
+            "UV_index": "Moderate exposure.Seek shade during midday hours, cover up and wear sunscreen",
+            "visibility": "Good(10 - 20km)",
+            "humidityPercent": 91,
+            "windSpeedMph": 22,
+            "windGustMph": 34,
+            "windDirectionDeg": "SSW",
+            "precipitation_probabilityPercent": 44
+          },
+          {
+            "temperatureC": 11,
+            "feelsLikeC": 7,
+            "weatherCategory": "Heavy rain",
+            "UV_index": "Moderate exposure.Seek shade during midday hours, cover up and wear sunscreen",
+            "visibility": "Moderate(4 - 10km)",
+            "humidityPercent": 93,
+            "windSpeedMph": 20,
+            "windGustMph": 31,
+            "windDirectionDeg": "SW",
+            "precipitation_probabilityPercent": 79
+          },
+          {
+            "temperatureC": 11,
+            "feelsLikeC": 7,
+            "weatherCategory": "Light rain",
+            "UV_index": "Moderate exposure.Seek shade during midday hours, cover up and wear sunscreen",
+            "visibility": "Very Good(20- 40km)",
+            "humidityPercent": 92,
+            "windSpeedMph": 20,
+            "windGustMph": 34,
+            "windDirectionDeg": "WSW",
+            "precipitation_probabilityPercent": 53
+          }
+        ]
+      }
+    ]
+  }
+]
