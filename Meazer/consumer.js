@@ -43,7 +43,7 @@ dbConnection.connect(function (err) {
             
             locationElement.weather.forEach(elem => {
 
-                for (let i = 0; i < Date(elem.toHour).getUTCHours() - Date(elem.fromHour).getUTCHours(); i ++) {
+                for (let i = 0; i < (elem.toHour - elem.fromHour / 3600); i ++) {
                     const fromHour = elem.fromHour + (i * 3600);
                 values.push([geohash5, geohash3, lat, sourceApi, lng, elem.symbol, fromHour,
                     elem.altitude, elem.fogPercent, elem.pressureHPA, elem.cloudinessPercent, elem.windDirectionDeg,
