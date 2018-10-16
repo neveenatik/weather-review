@@ -1,0 +1,27 @@
+{
+  "name": "weather-review",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neveenatik/weather-review.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neveenatik/weather-review/issues"
+  },
+  "homepage": "https://github.com/neveenatik/weather-review#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "cheerio": "^1.0.0-rc.2",
+    "fs": "0.0.1-security",
+    "npm": "^6.4.1",
+    "windrose": "^2.1.0",
+    "xml2js": "^0.4.19"
+  }
+}
