@@ -52,7 +52,7 @@ async function main() {
                     return {
                         updatedTimestamp: Date.parse((arr.tsUpdated_RFC822).toString()) / 1000,
                         fromHour: Date.parse((arr.tsValid_issued_RFC822).toString()) / 1000,
-                        toHour: (Date.parse((arr.tsValid_issued_RFC822).toString()) / 1000) + 3600,
+                        toHour: (Date.parse((arr.tsValid_issued_RFC822).toString()) / 1000) + 7200,
                         temperatureC: parseFloat((arr.t).toString()),
                         pressureHPA: parseFloat((arr.p).toString()),
                         windSpeedMps: parseFloat((arr.ff_val).toString()),
@@ -65,7 +65,7 @@ async function main() {
                     return {
                         updatedTimestamp: Date.parse((arr.tsUpdated_RFC822).toString()) / 1000,
                         fromHour: Date.parse((arr.tsValid_issued_RFC822).toString()) / 1000,
-                        toHour: (Date.parse((arr.tsValid_issued_RFC822).toString()) / 1000) + 3600,
+                        toHour: (Date.parse((arr.tsValid_issued_RFC822).toString()) / 1000) + 7200,
                         temperatureC: parseFloat((arr.t).toString()),
                         pressureHPA: parseFloat((arr.p).toString()),
                         windSpeedMps: parseFloat((arr.ff_val).toString()),

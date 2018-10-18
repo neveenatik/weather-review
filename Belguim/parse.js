@@ -50,7 +50,7 @@ async function main() {
                 return {
                     updatedTimestamp: date,
                     fromHour: date,
-                    toHour: date + 3600,
+                    toHour: date + 7200,
                     temperatureC: parseFloat(arr[0]),
                     humidityPercent: parseFloat(arr[1]),
                     pressureHPA: parseFloat(arr[2]),

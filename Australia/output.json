@@ -1,0 +1,3110 @@
+[
+  {
+    "location": {
+      "name": "Melbourne (Olympic Park)",
+      "lat": -37.814,
+      "lng": 144.96332
+    },
+    "weather": [
+      {
+        "fromHour": 1539864000,
+        "toHour": 1539871200,
+        "updatedTimestamp": 1539865800,
+        "temperatureC": 18,
+        "dewpointTemperatureC": 11.1,
+        "humidityPercent": 64,
+        "windDirectionDeg": 0,
+        "windSpeedMps": 1.9444444459999999,
+        "windGustMps": 3.0555555579999996,
+        "pressureHPA": 1016.7
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Melbourne Airport",
+      "lat": -37.814,
+      "lng": 144.96332
+    },
+    "weather": [
+      {
+        "fromHour": 1539864000,
+        "toHour": 1539871200,
+        "updatedTimestamp": 1539865800,
+        "temperatureC": 15.5,
+        "dewpointTemperatureC": 11,
+        "humidityPercent": 74,
+        "windDirectionDeg": 0,
+        "windSpeedMps": 2.5000000019999997,
+        "windGustMps": 3.0555555579999996,
+        "pressureHPA": 1017
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Bundoora",
+      "lat": -37.72,
+      "lng": 145.05,
+      "altM": 83
+    },
+    "weather": [
+      {
+        "fromHour": 1539813600,
+        "toHour": 1539820800,
+        "updatedTimestamp": 1539813600,
+        "temperatureC": 14.5,
+        "dewpointTemperatureC": 12.7,
+        "humidityPercent": 89,
+        "windDirectionDeg": 0,
+        "windSpeedMps": 1.111111112,
+        "windGustMps": null,
+        "pressureHPA": null
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Cerberus",
+      "lat": -38.36,
+      "lng": 145.18,
+      "altM": 12.69
+    },
+    "weather": [
+      {
+        "fromHour": 1539864000,
+        "toHour": 1539871200,
+        "updatedTimestamp": 1539865800,
+        "temperatureC": 14.2,
+        "dewpointTemperatureC": 12.4,
+        "humidityPercent": 89,
+        "windDirectionDeg": 202.5,
+        "windSpeedMps": 0.555555556,
+        "windGustMps": 1.111111112,
+        "pressureHPA": 1016.7
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Coldstream",
+      "lat": -37.72,
+      "lng": 145.41,
+      "altM": 83
+    },
+    "weather": [
+      {
+        "fromHour": 1539864000,
+        "toHour": 1539871200,
+        "updatedTimestamp": 1539865800,
+        "temperatureC": 13.8,
+        "dewpointTemperatureC": 13.3,
+        "humidityPercent": 97,
+        "windSpeedMps": 0,
+        "windGustMps": 0,
+        "pressureHPA": 1017
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Essendon Airport",
+      "lat": -37.73,
+      "lng": 144.91,
+      "altM": 78.4
+    },
+    "weather": [
+      {
+        "fromHour": 1539864000,
+        "toHour": 1539871200,
+        "updatedTimestamp": 1539865800,
+        "temperatureC": 16.6,
+        "dewpointTemperatureC": 11.7,
+        "humidityPercent": 73,
+        "windDirectionDeg": 315,
+        "windSpeedMps": 2.5000000019999997,
+        "windGustMps": 3.0555555579999996,
+        "pressureHPA": 1016.7
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Fawkner Beacon",
+      "lat": -37.95,
+      "lng": 144.93,
+      "altM": 17
+    },
+    "weather": [
+      {
+        "fromHour": 1539864000,
+        "toHour": 1539871200,
+        "updatedTimestamp": 1539865800,
+        "temperatureC": null,
+        "dewpointTemperatureC": null,
+        "humidityPercent": null,
+        "windDirectionDeg": 112.5,
+        "windSpeedMps": 2.5000000019999997,
+        "windGustMps": 3.0555555579999996,
+        "pressureHPA": null
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Ferny Creek",
+      "lat": -37.87,
+      "lng": 145.35,
+      "altM": 512.9
+    },
+    "weather": [
+      {
+        "fromHour": 1539864000,
+        "toHour": 1539871200,
+        "updatedTimestamp": 1539865800,
+        "temperatureC": 13.1,
+        "dewpointTemperatureC": 9.5,
+        "humidityPercent": 79,
+        "windDirectionDeg": 315,
+        "windSpeedMps": 1.111111112,
+        "windGustMps": 2.5000000019999997,
+        "pressureHPA": 1017.4
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Frankston",
+      "lat": -38.15,
+      "lng": 145.12,
+      "altM": 6
+    },
+    "weather": [
+      {
+        "fromHour": 1539864000,
+        "toHour": 1539871200,
+        "updatedTimestamp": 1539865800,
+        "temperatureC": null,
+        "dewpointTemperatureC": null,
+        "humidityPercent": null,
+        "windDirectionDeg": 157.5,
+        "windSpeedMps": 1.666666668,
+        "windGustMps": 2.5000000019999997,
+        "pressureHPA": null
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Geelong Racecourse",
+      "lat": -38.17,
+      "lng": 144.38,
+      "altM": 12.9
+    },
+    "weather": [
+      {
+        "fromHour": 1539864000,
+        "toHour": 1539871200,
+        "updatedTimestamp": 1539865800,
+        "temperatureC": 15.9,
+        "dewpointTemperatureC": 14.8,
+        "humidityPercent": 93,
+        "windDirectionDeg": 270,
+        "windSpeedMps": 1.9444444459999999,
+        "windGustMps": 3.611111114,
+        "pressureHPA": 1016.4
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Laverton",
+      "lat": -37.86,
+      "lng": 144.76,
+      "altM": 20.1
+    },
+    "weather": [
+      {
+        "fromHour": 1539864000,
+        "toHour": 1539871200,
+        "updatedTimestamp": 1539865800,
+        "temperatureC": 16.2,
+        "dewpointTemperatureC": 13.1,
+        "humidityPercent": 82,
+        "windDirectionDeg": 135,
+        "windSpeedMps": 2.5000000019999997,
+        "windGustMps": 3.611111114,
+        "pressureHPA": 1016.8
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Moorabbin Airport",
+      "lat": -37.98,
+      "lng": 145.1,
+      "altM": 12.1
+    },
+    "weather": [
+      {
+        "fromHour": 1539864000,
+        "toHour": 1539871200,
+        "updatedTimestamp": 1539865800,
+        "temperatureC": 15.5,
+        "dewpointTemperatureC": 14,
+        "humidityPercent": 91,
+        "windDirectionDeg": 135,
+        "windSpeedMps": 1.111111112,
+        "windGustMps": 1.666666668,
+        "pressureHPA": 1016.7
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Point Wilson",
+      "lat": -38.1,
+      "lng": 144.54,
+      "altM": 18
+    },
+    "weather": [
+      {
+        "fromHour": 1539864000,
+        "toHour": 1539871200,
+        "updatedTimestamp": 1539865800,
+        "temperatureC": null,
+        "dewpointTemperatureC": null,
+        "humidityPercent": null,
+        "windDirectionDeg": 247.5,
+        "windSpeedMps": 3.0555555579999996,
+        "windGustMps": 3.611111114,
+        "pressureHPA": null
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Rhyll",
+      "lat": -38.46,
+      "lng": 145.31,
+      "altM": 13.4
+    },
+    "weather": [
+      {
+        "fromHour": 1539864000,
+        "toHour": 1539871200,
+        "updatedTimestamp": 1539865800,
+        "temperatureC": 14.4,
+        "dewpointTemperatureC": 13.4,
+        "humidityPercent": 94,
+        "windSpeedMps": 0,
+        "windGustMps": 1.666666668,
+        "pressureHPA": 1016.8
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Scoresby",
+      "lat": -37.87,
+      "lng": 145.26,
+      "altM": 80
+    },
+    "weather": [
+      {
+        "fromHour": 1539864000,
+        "toHour": 1539871200,
+        "updatedTimestamp": 1539865800,
+        "temperatureC": 16.6,
+        "dewpointTemperatureC": 10.9,
+        "humidityPercent": 69,
+        "windDirectionDeg": 22.5,
+        "windSpeedMps": 1.111111112,
+        "windGustMps": 1.666666668,
+        "pressureHPA": null
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Sheoaks",
+      "lat": -37.91,
+      "lng": 144.13,
+      "altM": 236.7
+    },
+    "weather": [
+      {
+        "fromHour": 1539864000,
+        "toHour": 1539871200,
+        "updatedTimestamp": 1539865800,
+        "temperatureC": 14.2,
+        "dewpointTemperatureC": 12.2,
+        "humidityPercent": 88,
+        "windDirectionDeg": 337.5,
+        "windSpeedMps": 1.111111112,
+        "windGustMps": 1.666666668,
+        "pressureHPA": 1016.7
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "South Channel Island",
+      "lat": -38.31,
+      "lng": 144.8,
+      "altM": 9
+    },
+    "weather": [
+      {
+        "fromHour": 1539864000,
+        "toHour": 1539871200,
+        "updatedTimestamp": 1539865800,
+        "temperatureC": null,
+        "dewpointTemperatureC": null,
+        "humidityPercent": null,
+        "windDirectionDeg": 270,
+        "windSpeedMps": 1.9444444459999999,
+        "windGustMps": 2.5000000019999997,
+        "pressureHPA": null
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "St Kilda Harbour RMYS",
+      "lat": -37.86,
+      "lng": 144.96,
+      "altM": 6.4
+    },
+    "weather": [
+      {
+        "fromHour": 1539864000,
+        "toHour": 1539871200,
+        "updatedTimestamp": 1539865800,
+        "temperatureC": null,
+        "dewpointTemperatureC": null,
+        "humidityPercent": null,
+        "windDirectionDeg": 180,
+        "windSpeedMps": 1.9444444459999999,
+        "windGustMps": 2.5000000019999997,
+        "pressureHPA": null
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Viewbank",
+      "lat": -37.74,
+      "lng": 145.1,
+      "altM": 66.1
+    },
+    "weather": [
+      {
+        "fromHour": 1539864000,
+        "toHour": 1539871200,
+        "updatedTimestamp": 1539865800,
+        "temperatureC": 17,
+        "dewpointTemperatureC": 11.1,
+        "humidityPercent": 68,
+        "windDirectionDeg": 337.5,
+        "windSpeedMps": 0.555555556,
+        "windGustMps": 1.9444444459999999,
+        "pressureHPA": 1016.8
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Sydney - Observatory Hill",
+      "lat": -33.86785,
+      "lng": 151.20732
+    },
+    "weather": [
+      {
+        "fromHour": 1539864000,
+        "toHour": 1539871200,
+        "updatedTimestamp": 1539865200,
+        "temperatureC": 18.9,
+        "dewpointTemperatureC": 15.9,
+        "humidityPercent": 83,
+        "windDirectionDeg": 90,
+        "windSpeedMps": 1.111111112,
+        "windGustMps": null,
+        "pressureHPA": 1017.9
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Sydney Airport",
+      "lat": -33.86785,
+      "lng": 151.20732
+    },
+    "weather": [
+      {
+        "fromHour": 1539864000,
+        "toHour": 1539871200,
+        "updatedTimestamp": 1539865200,
+        "temperatureC": 18,
+        "dewpointTemperatureC": 16.9,
+        "humidityPercent": 93,
+        "windDirectionDeg": 67.5,
+        "windSpeedMps": 4.16666667,
+        "windGustMps": 4.7222222259999995,
+        "pressureHPA": 1017.7
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Sydney Harbour",
+      "lat": -33.86785,
+      "lng": 151.20732
+    },
+    "weather": [
+      {
+        "fromHour": 1539864000,
+        "toHour": 1539871200,
+        "updatedTimestamp": 1539865200,
+        "temperatureC": 18.6,
+        "dewpointTemperatureC": null,
+        "humidityPercent": null,
+        "windDirectionDeg": 22.5,
+        "windSpeedMps": 1.666666668,
+        "windGustMps": 1.666666668,
+        "pressureHPA": null
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Sydney Olympic Park",
+      "lat": -33.86785,
+      "lng": 151.20732
+    },
+    "weather": [
+      {
+        "fromHour": 1539864000,
+        "toHour": 1539871200,
+        "updatedTimestamp": 1539865200,
+        "temperatureC": 18.6,
+        "dewpointTemperatureC": 18.1,
+        "humidityPercent": 97,
+        "windDirectionDeg": 90,
+        "windSpeedMps": 1.9444444459999999,
+        "windGustMps": 3.0555555579999996,
+        "pressureHPA": null
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Badgerys Creek",
+      "lat": -33.9,
+      "lng": 150.73,
+      "altM": 81.2
+    },
+    "weather": [
+      {
+        "fromHour": 1539864000,
+        "toHour": 1539871200,
+        "updatedTimestamp": 1539865200,
+        "temperatureC": 17.3,
+        "dewpointTemperatureC": 17.1,
+        "humidityPercent": 99,
+        "windDirectionDeg": 45,
+        "windSpeedMps": 0.555555556,
+        "windGustMps": 0.555555556,
+        "pressureHPA": null
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Bankstown",
+      "lat": -33.92,
+      "lng": 150.99,
+      "altM": 6.5
+    },
+    "weather": [
+      {
+        "fromHour": 1539864000,
+        "toHour": 1539871200,
+        "updatedTimestamp": 1539865200,
+        "temperatureC": 17.8,
+        "dewpointTemperatureC": 16.1,
+        "humidityPercent": 90,
+        "windSpeedMps": 0,
+        "windGustMps": 0,
+        "pressureHPA": 1017.7
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Bellambi",
+      "lat": -34.37,
+      "lng": 150.93,
+      "altM": 10
+    },
+    "weather": [
+      {
+        "fromHour": 1539864000,
+        "toHour": 1539871200,
+        "updatedTimestamp": 1539865200,
+        "temperatureC": 17.5,
+        "dewpointTemperatureC": 15.8,
+        "humidityPercent": 90,
+        "windDirectionDeg": 22.5,
+        "windSpeedMps": 2.5000000019999997,
+        "windGustMps": 3.0555555579999996,
+        "pressureHPA": null
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Campbelltown",
+      "lat": -34.06,
+      "lng": 150.77,
+      "altM": 112
+    },
+    "weather": [
+      {
+        "fromHour": 1539864000,
+        "toHour": 1539871200,
+        "updatedTimestamp": 1539865200,
+        "temperatureC": 16.7,
+        "dewpointTemperatureC": 15.7,
+        "humidityPercent": 94,
+        "windDirectionDeg": 45,
+        "windSpeedMps": 1.666666668,
+        "windGustMps": 1.666666668,
+        "pressureHPA": null
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Canterbury",
+      "lat": -33.91,
+      "lng": 151.11,
+      "altM": 3
+    },
+    "weather": [
+      {
+        "fromHour": 1539864000,
+        "toHour": 1539871200,
+        "updatedTimestamp": 1539865200,
+        "temperatureC": 17.9,
+        "dewpointTemperatureC": 17.1,
+        "humidityPercent": 95,
+        "windDirectionDeg": 90,
+        "windSpeedMps": 1.9444444459999999,
+        "windGustMps": 2.5000000019999997,
+        "pressureHPA": null
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Fort Denison",
+      "lat": -33.86,
+      "lng": 151.23,
+      "altM": 5
+    },
+    "weather": [
+      {
+        "fromHour": 1539864000,
+        "toHour": 1539871200,
+        "updatedTimestamp": 1539865200,
+        "temperatureC": null,
+        "dewpointTemperatureC": null,
+        "humidityPercent": null,
+        "windDirectionDeg": 90,
+        "windSpeedMps": 1.111111112,
+        "windGustMps": 1.111111112,
+        "pressureHPA": null
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Gosford",
+      "lat": -33.44,
+      "lng": 151.36,
+      "altM": 7
+    },
+    "weather": [
+      {
+        "fromHour": 1539864000,
+        "toHour": 1539871200,
+        "updatedTimestamp": 1539865200,
+        "temperatureC": 18.5,
+        "dewpointTemperatureC": 17.6,
+        "humidityPercent": 94,
+        "windSpeedMps": 0,
+        "windGustMps": 0,
+        "pressureHPA": null
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Holsworthy",
+      "lat": -33.99,
+      "lng": 150.95,
+      "altM": 68.16
+    },
+    "weather": [
+      {
+        "fromHour": 1539864000,
+        "toHour": 1539871200,
+        "updatedTimestamp": 1539865200,
+        "temperatureC": 17.9,
+        "dewpointTemperatureC": 16.8,
+        "humidityPercent": 93,
+        "windDirectionDeg": 67.5,
+        "windSpeedMps": 1.9444444459999999,
+        "windGustMps": 2.5000000019999997,
+        "pressureHPA": 1017.8
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Holsworthy (Defence)",
+      "lat": -33.99,
+      "lng": 150.95,
+      "altM": 68.16
+    },
+    "weather": [
+      {
+        "fromHour": 1539864000,
+        "toHour": 1539871200,
+        "updatedTimestamp": 1539865200,
+        "temperatureC": 16.7,
+        "dewpointTemperatureC": 16,
+        "humidityPercent": 96,
+        "windDirectionDeg": 90,
+        "windSpeedMps": 0.555555556,
+        "windGustMps": 0.555555556,
+        "pressureHPA": null
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Horsley Park",
+      "lat": -33.85,
+      "lng": 150.86,
+      "altM": 100
+    },
+    "weather": [
+      {
+        "fromHour": 1539864000,
+        "toHour": 1539871200,
+        "updatedTimestamp": 1539865200,
+        "temperatureC": 16.6,
+        "dewpointTemperatureC": 16.2,
+        "humidityPercent": 97,
+        "windSpeedMps": 0,
+        "windGustMps": 0,
+        "pressureHPA": null
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Katoomba",
+      "lat": -33.71,
+      "lng": 150.31,
+      "altM": 1015
+    },
+    "weather": [
+      {
+        "fromHour": 1539813600,
+        "toHour": 1539820800,
+        "updatedTimestamp": 1539813600,
+        "temperatureC": 14,
+        "dewpointTemperatureC": 11.9,
+        "humidityPercent": 87,
+        "windSpeedMps": 0,
+        "windGustMps": null,
+        "pressureHPA": null
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Kurnell",
+      "lat": -34,
+      "lng": 151.21,
+      "altM": 4
+    },
+    "weather": [
+      {
+        "fromHour": 1539864000,
+        "toHour": 1539871200,
+        "updatedTimestamp": 1539865200,
+        "temperatureC": null,
+        "dewpointTemperatureC": null,
+        "humidityPercent": null,
+        "windDirectionDeg": 45,
+        "windSpeedMps": 4.16666667,
+        "windGustMps": 4.16666667,
+        "pressureHPA": null
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Lake Macquarie - Cooranbong",
+      "lat": -33.09,
+      "lng": 151.46,
+      "altM": 6
+    },
+    "weather": [
+      {
+        "fromHour": 1539864000,
+        "toHour": 1539871200,
+        "updatedTimestamp": 1539865200,
+        "temperatureC": 17.3,
+        "dewpointTemperatureC": 16.6,
+        "humidityPercent": 96,
+        "windSpeedMps": 0,
+        "windGustMps": 0,
+        "pressureHPA": null
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Little Bay",
+      "lat": -33.98,
+      "lng": 151.25,
+      "altM": 22
+    },
+    "weather": [
+      {
+        "fromHour": 1539864000,
+        "toHour": 1539871200,
+        "updatedTimestamp": 1539865200,
+        "temperatureC": null,
+        "dewpointTemperatureC": null,
+        "humidityPercent": null,
+        "windDirectionDeg": 22.5,
+        "windSpeedMps": 1.666666668,
+        "windGustMps": 1.666666668,
+        "pressureHPA": null
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Lucas Heights (ANSTO)",
+      "lat": -34.05,
+      "lng": 150.98,
+      "altM": 140
+    },
+    "weather": [
+      {
+        "fromHour": 1539864000,
+        "toHour": 1539871200,
+        "updatedTimestamp": 1539864000,
+        "temperatureC": 17.5,
+        "dewpointTemperatureC": 16,
+        "humidityPercent": 91,
+        "windDirectionDeg": 0,
+        "windSpeedMps": 1.9444444459999999,
+        "windGustMps": 3.0555555579999996,
+        "pressureHPA": 1017.8
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Mangrove Mountain",
+      "lat": -33.29,
+      "lng": 151.21,
+      "altM": 305
+    },
+    "weather": [
+      {
+        "fromHour": 1539864000,
+        "toHour": 1539871200,
+        "updatedTimestamp": 1539865200,
+        "temperatureC": 17,
+        "dewpointTemperatureC": 16.8,
+        "humidityPercent": 99,
+        "windSpeedMps": 0,
+        "windGustMps": 0,
+        "pressureHPA": null
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Mount Boyce",
+      "lat": -33.62,
+      "lng": 150.27,
+      "altM": 1080
+    },
+    "weather": [
+      {
+        "fromHour": 1539864000,
+        "toHour": 1539871200,
+        "updatedTimestamp": 1539865200,
+        "temperatureC": 14.2,
+        "dewpointTemperatureC": 12.4,
+        "humidityPercent": 89,
+        "windDirectionDeg": 0,
+        "windSpeedMps": 3.0555555579999996,
+        "windGustMps": 3.611111114,
+        "pressureHPA": null
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Newcastle Nobbys",
+      "lat": -27.75796,
+      "lng": 29.9318
+    },
+    "weather": [
+      {
+        "fromHour": 1539864000,
+        "toHour": 1539871200,
+        "updatedTimestamp": 1539865200,
+        "temperatureC": 18.6,
+        "dewpointTemperatureC": 12.8,
+        "humidityPercent": 69,
+        "windDirectionDeg": 45,
+        "windSpeedMps": 3.611111114,
+        "windGustMps": 4.7222222259999995,
+        "pressureHPA": null
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Newcastle University",
+      "lat": -27.75796,
+      "lng": 29.9318
+    },
+    "weather": [
+      {
+        "fromHour": 1539813600,
+        "toHour": 1539820800,
+        "updatedTimestamp": 1539813600,
+        "temperatureC": 20.8,
+        "dewpointTemperatureC": 16.2,
+        "humidityPercent": 75,
+        "windDirectionDeg": 0,
+        "windSpeedMps": 2.5000000019999997,
+        "windGustMps": null,
+        "pressureHPA": null
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Norah Head",
+      "lat": -33.28,
+      "lng": 151.58,
+      "altM": 18.8
+    },
+    "weather": [
+      {
+        "fromHour": 1539864000,
+        "toHour": 1539871200,
+        "updatedTimestamp": 1539865200,
+        "temperatureC": 17.6,
+        "dewpointTemperatureC": 17.6,
+        "humidityPercent": 100,
+        "windDirectionDeg": 45,
+        "windSpeedMps": 7.222222228,
+        "windGustMps": 7.7777777839999995,
+        "pressureHPA": null
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "North Head",
+      "lat": -33.82,
+      "lng": 151.3,
+      "altM": 90
+    },
+    "weather": [
+      {
+        "fromHour": 1539864000,
+        "toHour": 1539871200,
+        "updatedTimestamp": 1539865200,
+        "temperatureC": null,
+        "dewpointTemperatureC": null,
+        "humidityPercent": null,
+        "windDirectionDeg": 22.5,
+        "windSpeedMps": 4.16666667,
+        "windGustMps": 4.7222222259999995,
+        "pressureHPA": null
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Springwood",
+      "lat": -33.71,
+      "lng": 150.58,
+      "altM": 320
+    },
+    "weather": [
+      {
+        "fromHour": 1539813600,
+        "toHour": 1539820800,
+        "updatedTimestamp": 1539813600,
+        "temperatureC": 16.5,
+        "dewpointTemperatureC": 15.3,
+        "humidityPercent": 93,
+        "windSpeedMps": 0,
+        "windGustMps": null,
+        "pressureHPA": null
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Terrey Hills",
+      "lat": -33.69,
+      "lng": 151.23,
+      "altM": 199
+    },
+    "weather": [
+      {
+        "fromHour": 1539864000,
+        "toHour": 1539871200,
+        "updatedTimestamp": 1539865200,
+        "temperatureC": 17.5,
+        "dewpointTemperatureC": 17.5,
+        "humidityPercent": 100,
+        "windDirectionDeg": 45,
+        "windSpeedMps": 1.111111112,
+        "windGustMps": 1.111111112,
+        "pressureHPA": null
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Brisbane",
+      "lat": -27.46794,
+      "lng": 153.02809
+    },
+    "weather": [
+      {
+        "fromHour": 1539864000,
+        "toHour": 1539871200,
+        "updatedTimestamp": 1539865800,
+        "temperatureC": 20.5,
+        "dewpointTemperatureC": 17.3,
+        "humidityPercent": 82,
+        "windDirectionDeg": 90,
+        "windSpeedMps": 1.666666668,
+        "windGustMps": 3.0555555579999996,
+        "pressureHPA": 1020.2
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Brisbane Airport",
+      "lat": -27.46794,
+      "lng": 153.02809
+    },
+    "weather": [
+      {
+        "fromHour": 1539864000,
+        "toHour": 1539871200,
+        "updatedTimestamp": 1539865800,
+        "temperatureC": 20.9,
+        "dewpointTemperatureC": 18.2,
+        "humidityPercent": 84,
+        "windDirectionDeg": 67.5,
+        "windSpeedMps": 3.611111114,
+        "windGustMps": 3.611111114,
+        "pressureHPA": 1020.2
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Amberley",
+      "lat": -27.63,
+      "lng": 152.71,
+      "altM": 24.2
+    },
+    "weather": [
+      {
+        "fromHour": 1539864000,
+        "toHour": 1539871200,
+        "updatedTimestamp": 1539865800,
+        "temperatureC": 20.2,
+        "dewpointTemperatureC": 17.4,
+        "humidityPercent": 84,
+        "windDirectionDeg": 90,
+        "windSpeedMps": 2.5000000019999997,
+        "windGustMps": 3.0555555579999996,
+        "pressureHPA": 1019.9
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Archerfield",
+      "lat": -27.57,
+      "lng": 153.01,
+      "altM": 12.5
+    },
+    "weather": [
+      {
+        "fromHour": 1539864000,
+        "toHour": 1539871200,
+        "updatedTimestamp": 1539865800,
+        "temperatureC": 19.9,
+        "dewpointTemperatureC": 17.1,
+        "humidityPercent": 84,
+        "windDirectionDeg": 90,
+        "windSpeedMps": 3.0555555579999996,
+        "windGustMps": 4.7222222259999995,
+        "pressureHPA": 1020
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Banana Bank",
+      "lat": -27.53,
+      "lng": 153.33,
+      "altM": 7
+    },
+    "weather": [
+      {
+        "fromHour": 1539864000,
+        "toHour": 1539871200,
+        "updatedTimestamp": 1539865800,
+        "temperatureC": null,
+        "dewpointTemperatureC": null,
+        "humidityPercent": null,
+        "windDirectionDeg": 90,
+        "windSpeedMps": 3.611111114,
+        "windGustMps": 5.277777781999999,
+        "pressureHPA": null
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Beerburrum",
+      "lat": -26.96,
+      "lng": 152.96,
+      "altM": 48
+    },
+    "weather": [
+      {
+        "fromHour": 1539864000,
+        "toHour": 1539871200,
+        "updatedTimestamp": 1539865800,
+        "temperatureC": 19,
+        "dewpointTemperatureC": 17.5,
+        "humidityPercent": 91,
+        "windSpeedMps": 0,
+        "windGustMps": 0,
+        "pressureHPA": null
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Beaudesert AWS",
+      "lat": -27.97,
+      "lng": 152.99,
+      "altM": 47.81
+    },
+    "weather": [
+      {
+        "fromHour": 1539864000,
+        "toHour": 1539871200,
+        "updatedTimestamp": 1539865800,
+        "temperatureC": 20,
+        "dewpointTemperatureC": 17.4,
+        "humidityPercent": 85,
+        "windDirectionDeg": 90,
+        "windSpeedMps": 1.666666668,
+        "windGustMps": 2.5000000019999997,
+        "pressureHPA": 1020.3
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Cape Moreton",
+      "lat": -27.03,
+      "lng": 153.47,
+      "altM": 99.9
+    },
+    "weather": [
+      {
+        "fromHour": 1539864000,
+        "toHour": 1539871200,
+        "updatedTimestamp": 1539865800,
+        "temperatureC": 20.4,
+        "dewpointTemperatureC": 18.9,
+        "humidityPercent": 91,
+        "windDirectionDeg": 112.5,
+        "windSpeedMps": 7.222222228,
+        "windGustMps": 8.888888896,
+        "pressureHPA": 1020
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Coolangatta",
+      "lat": -28.17,
+      "lng": 153.51,
+      "altM": 4
+    },
+    "weather": [
+      {
+        "fromHour": 1539864000,
+        "toHour": 1539871200,
+        "updatedTimestamp": 1539865800,
+        "temperatureC": 21.1,
+        "dewpointTemperatureC": 16.7,
+        "humidityPercent": 76,
+        "windDirectionDeg": 67.5,
+        "windSpeedMps": 4.7222222259999995,
+        "windGustMps": 5.555555559999999,
+        "pressureHPA": 1020.9
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Gatton",
+      "lat": -27.54,
+      "lng": 152.34,
+      "altM": 89
+    },
+    "weather": [
+      {
+        "fromHour": 1539864000,
+        "toHour": 1539871200,
+        "updatedTimestamp": 1539865800,
+        "temperatureC": 19.9,
+        "dewpointTemperatureC": 17.1,
+        "humidityPercent": 84,
+        "windDirectionDeg": 112.5,
+        "windSpeedMps": 2.5000000019999997,
+        "windGustMps": 3.611111114,
+        "pressureHPA": null
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Gold Coast Seaway",
+      "lat": -28.00029,
+      "lng": 153.43088
+    },
+    "weather": [
+      {
+        "fromHour": 1539864000,
+        "toHour": 1539871200,
+        "updatedTimestamp": 1539865800,
+        "temperatureC": 20.9,
+        "dewpointTemperatureC": 19.7,
+        "humidityPercent": 93,
+        "windDirectionDeg": 67.5,
+        "windSpeedMps": 5.277777781999999,
+        "windGustMps": 7.222222228,
+        "pressureHPA": 1020.7
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Gympie",
+      "lat": -26.18,
+      "lng": 152.64,
+      "altM": 64.5
+    },
+    "weather": [
+      {
+        "fromHour": 1539864000,
+        "toHour": 1539871200,
+        "updatedTimestamp": 1539865800,
+        "temperatureC": 19.4,
+        "dewpointTemperatureC": 18.6,
+        "humidityPercent": 95,
+        "windDirectionDeg": 135,
+        "windSpeedMps": 1.111111112,
+        "windGustMps": 1.666666668,
+        "pressureHPA": 1019.5
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Inner Beacon",
+      "lat": -27.26,
+      "lng": 153.24,
+      "altM": 20
+    },
+    "weather": [
+      {
+        "fromHour": 1539864000,
+        "toHour": 1539871200,
+        "updatedTimestamp": 1539865800,
+        "temperatureC": null,
+        "dewpointTemperatureC": null,
+        "humidityPercent": null,
+        "windDirectionDeg": 90,
+        "windSpeedMps": 6.111111115999999,
+        "windGustMps": 6.666666672,
+        "pressureHPA": null
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Kingaroy",
+      "lat": -26.57,
+      "lng": 151.84,
+      "altM": 433.67
+    },
+    "weather": [
+      {
+        "fromHour": 1539864000,
+        "toHour": 1539871200,
+        "updatedTimestamp": 1539865800,
+        "temperatureC": 18.1,
+        "dewpointTemperatureC": 15.7,
+        "humidityPercent": 86,
+        "windDirectionDeg": 67.5,
+        "windSpeedMps": 4.16666667,
+        "windGustMps": 6.111111115999999,
+        "pressureHPA": 1018.9
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Logan City",
+      "lat": -27.68,
+      "lng": 153.19,
+      "altM": 14
+    },
+    "weather": [
+      {
+        "fromHour": 1539838800,
+        "toHour": 1539846000,
+        "updatedTimestamp": 1539838800,
+        "temperatureC": 23.4,
+        "dewpointTemperatureC": 17.1,
+        "humidityPercent": 67,
+        "windDirectionDeg": 90,
+        "windSpeedMps": 3.0555555579999996,
+        "windGustMps": null,
+        "pressureHPA": null
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Nambour",
+      "lat": -26.64,
+      "lng": 152.94,
+      "altM": 53.24
+    },
+    "weather": [
+      {
+        "fromHour": 1539864000,
+        "toHour": 1539871200,
+        "updatedTimestamp": 1539865800,
+        "temperatureC": 18.5,
+        "dewpointTemperatureC": 17.3,
+        "humidityPercent": 93,
+        "windSpeedMps": 0,
+        "windGustMps": 0,
+        "pressureHPA": 1020.1
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Oakey",
+      "lat": -27.4,
+      "lng": 151.74,
+      "altM": 405.69
+    },
+    "weather": [
+      {
+        "fromHour": 1539864000,
+        "toHour": 1539871200,
+        "updatedTimestamp": 1539865800,
+        "temperatureC": 18.1,
+        "dewpointTemperatureC": 15.7,
+        "humidityPercent": 86,
+        "windDirectionDeg": 90,
+        "windSpeedMps": 6.666666672,
+        "windGustMps": 8.33333334,
+        "pressureHPA": 1018.5
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Rainbow Beach",
+      "lat": -25.9,
+      "lng": 153.09,
+      "altM": 14.4
+    },
+    "weather": [
+      {
+        "fromHour": 1539817200,
+        "toHour": 1539824400,
+        "updatedTimestamp": 1539817200,
+        "temperatureC": 24.7,
+        "dewpointTemperatureC": 19.9,
+        "humidityPercent": 74,
+        "windDirectionDeg": 135,
+        "windSpeedMps": 7.7777777839999995,
+        "windGustMps": null,
+        "pressureHPA": 1018.3
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Redcliffe",
+      "lat": -27.22,
+      "lng": 153.09,
+      "altM": 12.6
+    },
+    "weather": [
+      {
+        "fromHour": 1539864000,
+        "toHour": 1539871200,
+        "updatedTimestamp": 1539865800,
+        "temperatureC": 21.4,
+        "dewpointTemperatureC": 17.6,
+        "humidityPercent": 79,
+        "windDirectionDeg": 90,
+        "windSpeedMps": 5.277777781999999,
+        "windGustMps": 6.666666672,
+        "pressureHPA": 1020.2
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Spitfire Channel",
+      "lat": -27.05,
+      "lng": 153.27,
+      "altM": 7
+    },
+    "weather": [
+      {
+        "fromHour": 1539864000,
+        "toHour": 1539871200,
+        "updatedTimestamp": 1539865800,
+        "temperatureC": null,
+        "dewpointTemperatureC": null,
+        "humidityPercent": null,
+        "windDirectionDeg": 90,
+        "windSpeedMps": 3.611111114,
+        "windGustMps": 4.7222222259999995,
+        "pressureHPA": null
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Sunshine Coast Airport",
+      "lat": -26.6,
+      "lng": 153.09,
+      "altM": 3.3
+    },
+    "weather": [
+      {
+        "fromHour": 1539864000,
+        "toHour": 1539871200,
+        "updatedTimestamp": 1539865800,
+        "temperatureC": 21.2,
+        "dewpointTemperatureC": 18.2,
+        "humidityPercent": 83,
+        "windDirectionDeg": 90,
+        "windSpeedMps": 4.7222222259999995,
+        "windGustMps": 6.111111115999999,
+        "pressureHPA": 1019.7
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Tewantin",
+      "lat": -26.39,
+      "lng": 153.04,
+      "altM": 6.4
+    },
+    "weather": [
+      {
+        "fromHour": 1539864000,
+        "toHour": 1539871200,
+        "updatedTimestamp": 1539865800,
+        "temperatureC": 21.5,
+        "dewpointTemperatureC": 19.1,
+        "humidityPercent": 86,
+        "windDirectionDeg": 112.5,
+        "windSpeedMps": 2.5000000019999997,
+        "windGustMps": 4.16666667,
+        "pressureHPA": 1019.8
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Tin Can Bay (Defence)",
+      "lat": -25.94,
+      "lng": 152.96,
+      "altM": 31.26
+    },
+    "weather": [
+      {
+        "fromHour": 1539864000,
+        "toHour": 1539871200,
+        "updatedTimestamp": 1539865800,
+        "temperatureC": 19.4,
+        "dewpointTemperatureC": 18.1,
+        "humidityPercent": 92,
+        "windDirectionDeg": 135,
+        "windSpeedMps": 1.111111112,
+        "windGustMps": 1.666666668,
+        "pressureHPA": null
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Toowoomba",
+      "lat": -27.54,
+      "lng": 151.91,
+      "altM": 640.9
+    },
+    "weather": [
+      {
+        "fromHour": 1539864000,
+        "toHour": 1539871200,
+        "updatedTimestamp": 1539865800,
+        "temperatureC": 16.2,
+        "dewpointTemperatureC": 16,
+        "humidityPercent": 99,
+        "windDirectionDeg": 90,
+        "windSpeedMps": 8.888888896,
+        "windGustMps": 11.388888898,
+        "pressureHPA": 1018.9
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Warwick",
+      "lat": -28.21,
+      "lng": 152.1,
+      "altM": 475.4
+    },
+    "weather": [
+      {
+        "fromHour": 1539864000,
+        "toHour": 1539871200,
+        "updatedTimestamp": 1539865800,
+        "temperatureC": 17.3,
+        "dewpointTemperatureC": 14.8,
+        "humidityPercent": 85,
+        "windDirectionDeg": 90,
+        "windSpeedMps": 3.611111114,
+        "windGustMps": 5.555555559999999,
+        "pressureHPA": 1018.6
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Wellcamp Airport",
+      "lat": -27.55,
+      "lng": 151.78,
+      "altM": 436.98
+    },
+    "weather": [
+      {
+        "fromHour": 1539864000,
+        "toHour": 1539871200,
+        "updatedTimestamp": 1539865800,
+        "temperatureC": 18.1,
+        "dewpointTemperatureC": 16.4,
+        "humidityPercent": 90,
+        "windDirectionDeg": 90,
+        "windSpeedMps": 9.72222223,
+        "windGustMps": 13.8888889,
+        "pressureHPA": 1017.4
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Perth",
+      "lat": -31.95224,
+      "lng": 115.8614
+    },
+    "weather": [
+      {
+        "fromHour": 1539864000,
+        "toHour": 1539871200,
+        "updatedTimestamp": 1539865800,
+        "temperatureC": 12.9,
+        "dewpointTemperatureC": 8.2,
+        "humidityPercent": 73,
+        "windDirectionDeg": 202.5,
+        "windSpeedMps": 1.9444444459999999,
+        "windGustMps": 3.611111114,
+        "pressureHPA": 1014.9
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Perth Airport",
+      "lat": -31.95224,
+      "lng": 115.8614
+    },
+    "weather": [
+      {
+        "fromHour": 1539864000,
+        "toHour": 1539871200,
+        "updatedTimestamp": 1539865800,
+        "temperatureC": 11.5,
+        "dewpointTemperatureC": 9.3,
+        "humidityPercent": 86,
+        "windDirectionDeg": 225,
+        "windSpeedMps": 2.5000000019999997,
+        "windGustMps": 3.0555555579999996,
+        "pressureHPA": 1015
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Bickley",
+      "lat": -32.01,
+      "lng": 116.14,
+      "altM": 384
+    },
+    "weather": [
+      {
+        "fromHour": 1539864000,
+        "toHour": 1539871200,
+        "updatedTimestamp": 1539865800,
+        "temperatureC": 7.9,
+        "dewpointTemperatureC": 7.5,
+        "humidityPercent": 97,
+        "windDirectionDeg": 270,
+        "windSpeedMps": 3.611111114,
+        "windGustMps": 4.7222222259999995,
+        "pressureHPA": null
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Garden Island",
+      "lat": -32.24,
+      "lng": 115.68,
+      "altM": 6
+    },
+    "weather": [
+      {
+        "fromHour": 1539864000,
+        "toHour": 1539871200,
+        "updatedTimestamp": 1539865800,
+        "temperatureC": 14.7,
+        "dewpointTemperatureC": 7.7,
+        "humidityPercent": 63,
+        "windDirectionDeg": 225,
+        "windSpeedMps": 9.166666674,
+        "windGustMps": 11.944444454,
+        "pressureHPA": 1014.9
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Gooseberry Hill",
+      "lat": -31.94,
+      "lng": 116.05,
+      "altM": 220
+    },
+    "weather": [
+      {
+        "fromHour": 1539864000,
+        "toHour": 1539871200,
+        "updatedTimestamp": 1539865800,
+        "temperatureC": 9.4,
+        "dewpointTemperatureC": 8.8,
+        "humidityPercent": 96,
+        "windDirectionDeg": 225,
+        "windSpeedMps": 3.0555555579999996,
+        "windGustMps": 4.7222222259999995,
+        "pressureHPA": null
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Gosnells",
+      "lat": -32.05,
+      "lng": 115.98,
+      "altM": 10
+    },
+    "weather": [
+      {
+        "fromHour": 1539824400,
+        "toHour": 1539831600,
+        "updatedTimestamp": 1539824400,
+        "temperatureC": 17,
+        "dewpointTemperatureC": 13.5,
+        "humidityPercent": 80,
+        "windDirectionDeg": 315,
+        "windSpeedMps": 11.388888898,
+        "windGustMps": null,
+        "pressureHPA": null
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Jandakot",
+      "lat": -32.1,
+      "lng": 115.88,
+      "altM": 30
+    },
+    "weather": [
+      {
+        "fromHour": 1539864000,
+        "toHour": 1539871200,
+        "updatedTimestamp": 1539865800,
+        "temperatureC": 12.7,
+        "dewpointTemperatureC": 8.8,
+        "humidityPercent": 77,
+        "windDirectionDeg": 225,
+        "windSpeedMps": 3.611111114,
+        "windGustMps": 5.277777781999999,
+        "pressureHPA": 1014.8
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Mandurah",
+      "lat": -32.52,
+      "lng": 115.71,
+      "altM": 3
+    },
+    "weather": [
+      {
+        "fromHour": 1539864000,
+        "toHour": 1539871200,
+        "updatedTimestamp": 1539865800,
+        "temperatureC": 12.6,
+        "dewpointTemperatureC": 10.1,
+        "humidityPercent": 85,
+        "windDirectionDeg": 202.5,
+        "windSpeedMps": 3.0555555579999996,
+        "windGustMps": 4.16666667,
+        "pressureHPA": 1014.6
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Melville Water",
+      "lat": -31.99,
+      "lng": 115.83,
+      "altM": 0
+    },
+    "weather": [
+      {
+        "fromHour": 1539864000,
+        "toHour": 1539871200,
+        "updatedTimestamp": 1539865800,
+        "temperatureC": null,
+        "dewpointTemperatureC": null,
+        "humidityPercent": null,
+        "windDirectionDeg": 202.5,
+        "windSpeedMps": 5.277777781999999,
+        "windGustMps": 8.33333334,
+        "pressureHPA": null
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Ocean Reef",
+      "lat": -31.76,
+      "lng": 115.73,
+      "altM": 10
+    },
+    "weather": [
+      {
+        "fromHour": 1539864000,
+        "toHour": 1539871200,
+        "updatedTimestamp": 1539865800,
+        "temperatureC": null,
+        "dewpointTemperatureC": null,
+        "humidityPercent": null,
+        "windDirectionDeg": 225,
+        "windSpeedMps": 9.72222223,
+        "windGustMps": 11.944444454,
+        "pressureHPA": null
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Pearce",
+      "lat": -31.67,
+      "lng": 116.02,
+      "altM": 40
+    },
+    "weather": [
+      {
+        "fromHour": 1539864000,
+        "toHour": 1539871200,
+        "updatedTimestamp": 1539865800,
+        "temperatureC": 9.9,
+        "dewpointTemperatureC": 8.2,
+        "humidityPercent": 89,
+        "windDirectionDeg": 0,
+        "windSpeedMps": 1.9444444459999999,
+        "windGustMps": 2.5000000019999997,
+        "pressureHPA": 1015
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Rottnest Island",
+      "lat": -32.01,
+      "lng": 115.5,
+      "altM": 43.1
+    },
+    "weather": [
+      {
+        "fromHour": 1539864000,
+        "toHour": 1539871200,
+        "updatedTimestamp": 1539865800,
+        "temperatureC": 13.8,
+        "dewpointTemperatureC": 6.7,
+        "humidityPercent": 62,
+        "windDirectionDeg": 225,
+        "windSpeedMps": 9.166666674,
+        "windGustMps": 12.777777787999998,
+        "pressureHPA": 1014.4
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Swanbourne",
+      "lat": -31.96,
+      "lng": 115.76,
+      "altM": 40.96
+    },
+    "weather": [
+      {
+        "fromHour": 1539864000,
+        "toHour": 1539871200,
+        "updatedTimestamp": 1539865800,
+        "temperatureC": 13.9,
+        "dewpointTemperatureC": 6.5,
+        "humidityPercent": 61,
+        "windDirectionDeg": 202.5,
+        "windSpeedMps": 7.222222228,
+        "windGustMps": 11.388888898,
+        "pressureHPA": null
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Adelaide (West Terrace /  ngayirdapira)",
+      "lat": -34.92866,
+      "lng": 138.59863
+    },
+    "weather": [
+      {
+        "fromHour": 1539864000,
+        "toHour": 1539871200,
+        "updatedTimestamp": 1539865800,
+        "temperatureC": 16.7,
+        "dewpointTemperatureC": 7.4,
+        "humidityPercent": 54,
+        "windDirectionDeg": 67.5,
+        "windSpeedMps": 3.0555555579999996,
+        "windGustMps": 4.16666667,
+        "pressureHPA": 1013.1
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Adelaide (Kent Town)",
+      "lat": -34.92866,
+      "lng": 138.59863
+    },
+    "weather": [
+      {
+        "fromHour": 1539864000,
+        "toHour": 1539871200,
+        "updatedTimestamp": 1539865800,
+        "temperatureC": 13.3,
+        "dewpointTemperatureC": 8.9,
+        "humidityPercent": 74,
+        "windSpeedMps": 0,
+        "windGustMps": 0,
+        "pressureHPA": 1013.8
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Adelaide Airport",
+      "lat": -34.92866,
+      "lng": 138.59863
+    },
+    "weather": [
+      {
+        "fromHour": 1539864000,
+        "toHour": 1539871200,
+        "updatedTimestamp": 1539865800,
+        "temperatureC": 14.4,
+        "dewpointTemperatureC": 8.2,
+        "humidityPercent": 66,
+        "windSpeedMps": 0,
+        "windGustMps": 0,
+        "pressureHPA": 1013.3
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Edinburgh",
+      "lat": -34.71,
+      "lng": 138.62,
+      "altM": 16.54
+    },
+    "weather": [
+      {
+        "fromHour": 1539864000,
+        "toHour": 1539871200,
+        "updatedTimestamp": 1539865800,
+        "temperatureC": 18.3,
+        "dewpointTemperatureC": 6.8,
+        "humidityPercent": 47,
+        "windDirectionDeg": 67.5,
+        "windSpeedMps": 3.611111114,
+        "windGustMps": 5.555555559999999,
+        "pressureHPA": 1013.2
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Hindmarsh Island",
+      "lat": -35.52,
+      "lng": 138.82,
+      "altM": 11
+    },
+    "weather": [
+      {
+        "fromHour": 1539864000,
+        "toHour": 1539871200,
+        "updatedTimestamp": 1539865800,
+        "temperatureC": 11.7,
+        "dewpointTemperatureC": 9.4,
+        "humidityPercent": 86,
+        "windDirectionDeg": 22.5,
+        "windSpeedMps": 3.0555555579999996,
+        "windGustMps": 3.611111114,
+        "pressureHPA": 1014.6
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Kuitpo",
+      "lat": -35.17,
+      "lng": 138.68,
+      "altM": 365
+    },
+    "weather": [
+      {
+        "fromHour": 1539864000,
+        "toHour": 1539871200,
+        "updatedTimestamp": 1539865800,
+        "temperatureC": 11.5,
+        "dewpointTemperatureC": 9.6,
+        "humidityPercent": 88,
+        "windDirectionDeg": 67.5,
+        "windSpeedMps": 5.555555559999999,
+        "windGustMps": 7.7777777839999995,
+        "pressureHPA": 1012.9
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Mount Barker",
+      "lat": -35.07,
+      "lng": 138.85,
+      "altM": 359
+    },
+    "weather": [
+      {
+        "fromHour": 1539813600,
+        "toHour": 1539820800,
+        "updatedTimestamp": 1539815400,
+        "temperatureC": 10.4,
+        "dewpointTemperatureC": 9.8,
+        "humidityPercent": 96,
+        "windDirectionDeg": 225,
+        "windSpeedMps": 1.111111112,
+        "windGustMps": null,
+        "pressureHPA": null
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Mount Crawford",
+      "lat": -34.73,
+      "lng": 138.93,
+      "altM": 525
+    },
+    "weather": [
+      {
+        "fromHour": 1539864000,
+        "toHour": 1539871200,
+        "updatedTimestamp": 1539865800,
+        "temperatureC": 12.5,
+        "dewpointTemperatureC": 7.8,
+        "humidityPercent": 73,
+        "windDirectionDeg": 90,
+        "windSpeedMps": 5.277777781999999,
+        "windGustMps": 6.111111115999999,
+        "pressureHPA": 1014.5
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Mount Lofty",
+      "lat": -34.98,
+      "lng": 138.71,
+      "altM": 685
+    },
+    "weather": [
+      {
+        "fromHour": 1539864000,
+        "toHour": 1539871200,
+        "updatedTimestamp": 1539865800,
+        "temperatureC": 15.6,
+        "dewpointTemperatureC": 3.1,
+        "humidityPercent": 43,
+        "windDirectionDeg": 45,
+        "windSpeedMps": 1.9444444459999999,
+        "windGustMps": 4.7222222259999995,
+        "pressureHPA": null
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Murray Bridge",
+      "lat": -35.12,
+      "lng": 139.26,
+      "altM": 33
+    },
+    "weather": [
+      {
+        "fromHour": 1539813600,
+        "toHour": 1539820800,
+        "updatedTimestamp": 1539815400,
+        "temperatureC": 13.9,
+        "dewpointTemperatureC": 11.7,
+        "humidityPercent": 86,
+        "windSpeedMps": 0,
+        "windGustMps": null,
+        "pressureHPA": null
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Noarlunga",
+      "lat": -35.16,
+      "lng": 138.51,
+      "altM": 55
+    },
+    "weather": [
+      {
+        "fromHour": 1539864000,
+        "toHour": 1539871200,
+        "updatedTimestamp": 1539865800,
+        "temperatureC": 16.3,
+        "dewpointTemperatureC": 7.3,
+        "humidityPercent": 55,
+        "windDirectionDeg": 90,
+        "windSpeedMps": 4.16666667,
+        "windGustMps": 5.555555559999999,
+        "pressureHPA": null
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Nuriootpa",
+      "lat": -34.48,
+      "lng": 139.01,
+      "altM": 275
+    },
+    "weather": [
+      {
+        "fromHour": 1539864000,
+        "toHour": 1539871200,
+        "updatedTimestamp": 1539865800,
+        "temperatureC": 14.2,
+        "dewpointTemperatureC": 8.5,
+        "humidityPercent": 68,
+        "windDirectionDeg": 67.5,
+        "windSpeedMps": 2.5000000019999997,
+        "windGustMps": 4.16666667,
+        "pressureHPA": 1014.9
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Pallamana",
+      "lat": -35.06,
+      "lng": 139.23,
+      "altM": 45
+    },
+    "weather": [
+      {
+        "fromHour": 1539864000,
+        "toHour": 1539871200,
+        "updatedTimestamp": 1539865800,
+        "temperatureC": 12.4,
+        "dewpointTemperatureC": 10.1,
+        "humidityPercent": 86,
+        "windDirectionDeg": 270,
+        "windSpeedMps": 3.611111114,
+        "windGustMps": 4.16666667,
+        "pressureHPA": 1015.4
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Parafield",
+      "lat": -34.8,
+      "lng": 138.63,
+      "altM": 9.5
+    },
+    "weather": [
+      {
+        "fromHour": 1539864000,
+        "toHour": 1539871200,
+        "updatedTimestamp": 1539865800,
+        "temperatureC": 17.3,
+        "dewpointTemperatureC": 8.2,
+        "humidityPercent": 55,
+        "windDirectionDeg": 67.5,
+        "windSpeedMps": 4.7222222259999995,
+        "windGustMps": 5.555555559999999,
+        "pressureHPA": 1013.1
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Parawa West",
+      "lat": -35.57,
+      "lng": 138.29,
+      "altM": 341
+    },
+    "weather": [
+      {
+        "fromHour": 1539864000,
+        "toHour": 1539871200,
+        "updatedTimestamp": 1539865800,
+        "temperatureC": 11.9,
+        "dewpointTemperatureC": 7.8,
+        "humidityPercent": 76,
+        "windDirectionDeg": 45,
+        "windSpeedMps": 2.5000000019999997,
+        "windGustMps": 4.7222222259999995,
+        "pressureHPA": 1014
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Roseworthy",
+      "lat": -34.51,
+      "lng": 138.68,
+      "altM": 65
+    },
+    "weather": [
+      {
+        "fromHour": 1539864000,
+        "toHour": 1539871200,
+        "updatedTimestamp": 1539865800,
+        "temperatureC": 15.1,
+        "dewpointTemperatureC": 10.3,
+        "humidityPercent": 73,
+        "windDirectionDeg": 67.5,
+        "windSpeedMps": 6.111111115999999,
+        "windGustMps": 7.7777777839999995,
+        "pressureHPA": 1013.1
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Sellicks Hill",
+      "lat": -35.33,
+      "lng": 138.5,
+      "altM": 385.7
+    },
+    "weather": [
+      {
+        "fromHour": 1539864000,
+        "toHour": 1539871200,
+        "updatedTimestamp": 1539865800,
+        "temperatureC": null,
+        "dewpointTemperatureC": null,
+        "humidityPercent": null,
+        "windDirectionDeg": 90,
+        "windSpeedMps": 3.0555555579999996,
+        "windGustMps": 4.7222222259999995,
+        "pressureHPA": null
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Strathalbyn",
+      "lat": -35.28,
+      "lng": 138.89,
+      "altM": 58
+    },
+    "weather": [
+      {
+        "fromHour": 1539864000,
+        "toHour": 1539871200,
+        "updatedTimestamp": 1539865800,
+        "temperatureC": 9.9,
+        "dewpointTemperatureC": 8,
+        "humidityPercent": 88,
+        "windDirectionDeg": 0,
+        "windSpeedMps": 3.611111114,
+        "windGustMps": 4.16666667,
+        "pressureHPA": 1014.9
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Turretfield",
+      "lat": -34.55,
+      "lng": 138.83,
+      "altM": 116
+    },
+    "weather": [
+      {
+        "fromHour": 1539813600,
+        "toHour": 1539820800,
+        "updatedTimestamp": 1539815400,
+        "temperatureC": 11.8,
+        "dewpointTemperatureC": 11.8,
+        "humidityPercent": 100,
+        "windDirectionDeg": 270,
+        "windSpeedMps": 1.111111112,
+        "windGustMps": null,
+        "pressureHPA": null
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Victor Harbor",
+      "lat": -35.55,
+      "lng": 138.6,
+      "altM": 8
+    },
+    "weather": [
+      {
+        "fromHour": 1539813600,
+        "toHour": 1539820800,
+        "updatedTimestamp": 1539815400,
+        "temperatureC": 12.4,
+        "dewpointTemperatureC": 10.3,
+        "humidityPercent": 87,
+        "windDirectionDeg": 270,
+        "windSpeedMps": 2.5000000019999997,
+        "windGustMps": null,
+        "pressureHPA": null
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Hobart",
+      "lat": -42.89,
+      "lng": 147.33,
+      "altM": 50.5
+    },
+    "weather": [
+      {
+        "fromHour": 1539864000,
+        "toHour": 1539871200,
+        "updatedTimestamp": 1539865800,
+        "temperatureC": 14.8,
+        "dewpointTemperatureC": 13.5,
+        "humidityPercent": 92,
+        "windDirectionDeg": 315,
+        "windSpeedMps": 1.9444444459999999,
+        "windGustMps": 2.5000000019999997,
+        "pressureHPA": 1011.5
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Hobart Airport",
+      "lat": -42.89,
+      "lng": 147.33,
+      "altM": 50.5
+    },
+    "weather": [
+      {
+        "fromHour": 1539864000,
+        "toHour": 1539871200,
+        "updatedTimestamp": 1539865800,
+        "temperatureC": 14.7,
+        "dewpointTemperatureC": 12.7,
+        "humidityPercent": 88,
+        "windDirectionDeg": 315,
+        "windSpeedMps": 2.5000000019999997,
+        "windGustMps": 3.611111114,
+        "pressureHPA": 1011.6
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Bushy Park",
+      "lat": -42.71,
+      "lng": 146.9,
+      "altM": 27
+    },
+    "weather": [
+      {
+        "fromHour": 1539864000,
+        "toHour": 1539871200,
+        "updatedTimestamp": 1539865800,
+        "temperatureC": 14.3,
+        "dewpointTemperatureC": 13.6,
+        "humidityPercent": 96,
+        "windSpeedMps": 0,
+        "windGustMps": 0,
+        "pressureHPA": null
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Campania",
+      "lat": -42.69,
+      "lng": 147.43,
+      "altM": 45
+    },
+    "weather": [
+      {
+        "fromHour": 1539864000,
+        "toHour": 1539871200,
+        "updatedTimestamp": 1539865800,
+        "temperatureC": 14.3,
+        "dewpointTemperatureC": 12.9,
+        "humidityPercent": 91,
+        "windDirectionDeg": 0,
+        "windSpeedMps": 1.9444444459999999,
+        "windGustMps": 3.0555555579999996,
+        "pressureHPA": null
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Cape Bruny AWS",
+      "lat": -43.49,
+      "lng": 147.15,
+      "altM": 55
+    },
+    "weather": [
+      {
+        "fromHour": 1539864000,
+        "toHour": 1539871200,
+        "updatedTimestamp": 1539865800,
+        "temperatureC": 12.9,
+        "dewpointTemperatureC": 12.1,
+        "humidityPercent": 95,
+        "windDirectionDeg": 247.5,
+        "windSpeedMps": 4.7222222259999995,
+        "windGustMps": 5.555555559999999,
+        "pressureHPA": 1011.2
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Dennes Point",
+      "lat": -43.06,
+      "lng": 147.36,
+      "altM": 5.67
+    },
+    "weather": [
+      {
+        "fromHour": 1539864000,
+        "toHour": 1539871200,
+        "updatedTimestamp": 1539865800,
+        "temperatureC": 14.6,
+        "dewpointTemperatureC": 14,
+        "humidityPercent": 96,
+        "windDirectionDeg": 90,
+        "windSpeedMps": 1.666666668,
+        "windGustMps": 1.666666668,
+        "pressureHPA": 1011.4
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Dover",
+      "lat": -43.33,
+      "lng": 147,
+      "altM": 20
+    },
+    "weather": [
+      {
+        "fromHour": 1539813600,
+        "toHour": 1539820800,
+        "updatedTimestamp": 1539813600,
+        "temperatureC": 13.5,
+        "dewpointTemperatureC": 13.5,
+        "humidityPercent": 100,
+        "windSpeedMps": 0,
+        "windGustMps": null,
+        "pressureHPA": null
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Dunalley",
+      "lat": -42.9,
+      "lng": 147.79,
+      "altM": 12.43
+    },
+    "weather": [
+      {
+        "fromHour": 1539864000,
+        "toHour": 1539871200,
+        "updatedTimestamp": 1539865800,
+        "temperatureC": 14.4,
+        "dewpointTemperatureC": 13.1,
+        "humidityPercent": 92,
+        "windDirectionDeg": 270,
+        "windSpeedMps": 1.111111112,
+        "windGustMps": 1.666666668,
+        "pressureHPA": 1011.4
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Grove",
+      "lat": -42.99,
+      "lng": 147.07,
+      "altM": 65
+    },
+    "weather": [
+      {
+        "fromHour": 1539864000,
+        "toHour": 1539871200,
+        "updatedTimestamp": 1539865800,
+        "temperatureC": 14.2,
+        "dewpointTemperatureC": 13.8,
+        "humidityPercent": 97,
+        "windSpeedMps": 0,
+        "windGustMps": 0,
+        "pressureHPA": null
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Maria Island",
+      "lat": -42.66,
+      "lng": 148.02,
+      "altM": 28
+    },
+    "weather": [
+      {
+        "fromHour": 1539864000,
+        "toHour": 1539871200,
+        "updatedTimestamp": 1539865800,
+        "temperatureC": 14.6,
+        "dewpointTemperatureC": 11.9,
+        "humidityPercent": 84,
+        "windDirectionDeg": 315,
+        "windSpeedMps": 1.9444444459999999,
+        "windGustMps": 3.0555555579999996,
+        "pressureHPA": 1011.4
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Orford",
+      "lat": -42.55,
+      "lng": 147.88,
+      "altM": 14
+    },
+    "weather": [
+      {
+        "fromHour": 1539813600,
+        "toHour": 1539820800,
+        "updatedTimestamp": 1539813600,
+        "temperatureC": 15.6,
+        "dewpointTemperatureC": 14,
+        "humidityPercent": 90,
+        "windDirectionDeg": 0,
+        "windSpeedMps": 1.111111112,
+        "windGustMps": null,
+        "pressureHPA": null
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Tasman Island",
+      "lat": -43.24,
+      "lng": 148,
+      "altM": 240
+    },
+    "weather": [
+      {
+        "fromHour": 1539864000,
+        "toHour": 1539871200,
+        "updatedTimestamp": 1539865800,
+        "temperatureC": 12.2,
+        "dewpointTemperatureC": 12,
+        "humidityPercent": 99,
+        "windDirectionDeg": 247.5,
+        "windSpeedMps": 3.0555555579999996,
+        "windGustMps": 5.555555559999999,
+        "pressureHPA": 1011.7
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Canberra",
+      "lat": -35.31,
+      "lng": 149.2,
+      "altM": 577.05
+    },
+    "weather": [
+      {
+        "fromHour": 1539864000,
+        "toHour": 1539871200,
+        "updatedTimestamp": 1539865800,
+        "temperatureC": 11.8,
+        "dewpointTemperatureC": 7.9,
+        "humidityPercent": 77,
+        "windSpeedMps": 0,
+        "windGustMps": 0,
+        "pressureHPA": 1018.4
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Batemans Bay",
+      "lat": -35.72,
+      "lng": 150.19,
+      "altM": 11
+    },
+    "weather": [
+      {
+        "fromHour": 1539813600,
+        "toHour": 1539820800,
+        "updatedTimestamp": 1539813600,
+        "temperatureC": 17.4,
+        "dewpointTemperatureC": 16.7,
+        "humidityPercent": 96,
+        "windDirectionDeg": 0,
+        "windSpeedMps": 0.555555556,
+        "windGustMps": null,
+        "pressureHPA": null
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Braidwood",
+      "lat": -35.43,
+      "lng": 149.78,
+      "altM": 665.2
+    },
+    "weather": [
+      {
+        "fromHour": 1539864000,
+        "toHour": 1539871200,
+        "updatedTimestamp": 1539865800,
+        "temperatureC": 12.7,
+        "dewpointTemperatureC": 7.6,
+        "humidityPercent": 71,
+        "windSpeedMps": 0,
+        "windGustMps": 0,
+        "pressureHPA": 1018
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Cabramurra",
+      "lat": -35.94,
+      "lng": 148.38,
+      "altM": 1482.4
+    },
+    "weather": [
+      {
+        "fromHour": 1539864000,
+        "toHour": 1539871200,
+        "updatedTimestamp": 1539865800,
+        "temperatureC": 8.3,
+        "dewpointTemperatureC": 8.2,
+        "humidityPercent": 99,
+        "windDirectionDeg": 0,
+        "windSpeedMps": 1.9444444459999999,
+        "windGustMps": 2.5000000019999997,
+        "pressureHPA": null
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Cooma Airport",
+      "lat": -36.29,
+      "lng": 148.97,
+      "altM": 930
+    },
+    "weather": [
+      {
+        "fromHour": 1539864000,
+        "toHour": 1539871200,
+        "updatedTimestamp": 1539865800,
+        "temperatureC": 9,
+        "dewpointTemperatureC": 5.6,
+        "humidityPercent": 79,
+        "windDirectionDeg": 270,
+        "windSpeedMps": 1.666666668,
+        "windGustMps": 2.5000000019999997,
+        "pressureHPA": 1018.4
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Goulburn Airport",
+      "lat": -34.81,
+      "lng": 149.73,
+      "altM": 640
+    },
+    "weather": [
+      {
+        "fromHour": 1539864000,
+        "toHour": 1539871200,
+        "updatedTimestamp": 1539865800,
+        "temperatureC": 11.4,
+        "dewpointTemperatureC": 9.5,
+        "humidityPercent": 88,
+        "windDirectionDeg": 247.5,
+        "windSpeedMps": 1.666666668,
+        "windGustMps": 1.9444444459999999,
+        "pressureHPA": 1018.5
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Montague Island",
+      "lat": -36.25,
+      "lng": 150.23,
+      "altM": 52
+    },
+    "weather": [
+      {
+        "fromHour": 1539864000,
+        "toHour": 1539871200,
+        "updatedTimestamp": 1539865800,
+        "temperatureC": 16.8,
+        "dewpointTemperatureC": 16.6,
+        "humidityPercent": 99,
+        "windDirectionDeg": 0,
+        "windSpeedMps": 7.222222228,
+        "windGustMps": 7.7777777839999995,
+        "pressureHPA": 1015.4
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Moruya Airport",
+      "lat": -35.9,
+      "lng": 150.14,
+      "altM": 4
+    },
+    "weather": [
+      {
+        "fromHour": 1539864000,
+        "toHour": 1539871200,
+        "updatedTimestamp": 1539865800,
+        "temperatureC": 14.1,
+        "dewpointTemperatureC": 13.1,
+        "humidityPercent": 94,
+        "windDirectionDeg": 112.5,
+        "windSpeedMps": 1.111111112,
+        "windGustMps": 1.666666668,
+        "pressureHPA": 1015.6
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Mount Ginini",
+      "lat": -35.53,
+      "lng": 148.77,
+      "altM": 1760
+    },
+    "weather": [
+      {
+        "fromHour": 1539864000,
+        "toHour": 1539871200,
+        "updatedTimestamp": 1539865800,
+        "temperatureC": 6.4,
+        "dewpointTemperatureC": 5.5,
+        "humidityPercent": 94,
+        "windDirectionDeg": 292.5,
+        "windSpeedMps": 2.5000000019999997,
+        "windGustMps": 5.277777781999999,
+        "pressureHPA": null
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Narooma",
+      "lat": -36.21,
+      "lng": 150.14,
+      "altM": 25
+    },
+    "weather": [
+      {
+        "fromHour": 1539835200,
+        "toHour": 1539842400,
+        "updatedTimestamp": 1539835200,
+        "temperatureC": 19.8,
+        "dewpointTemperatureC": 14.1,
+        "humidityPercent": 69,
+        "windDirectionDeg": 45,
+        "windSpeedMps": 6.666666672,
+        "windGustMps": null,
+        "pressureHPA": null
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Nowra",
+      "lat": -34.95,
+      "lng": 150.54,
+      "altM": 109
+    },
+    "weather": [
+      {
+        "fromHour": 1539864000,
+        "toHour": 1539871200,
+        "updatedTimestamp": 1539865800,
+        "temperatureC": 16.5,
+        "dewpointTemperatureC": 16.5,
+        "humidityPercent": 100,
+        "windDirectionDeg": 292.5,
+        "windSpeedMps": 1.666666668,
+        "windGustMps": 2.5000000019999997,
+        "pressureHPA": 1016.3
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Perisher Valley",
+      "lat": -36.41,
+      "lng": 148.41,
+      "altM": 1738
+    },
+    "weather": [
+      {
+        "fromHour": 1539864000,
+        "toHour": 1539871200,
+        "updatedTimestamp": 1539865800,
+        "temperatureC": 7.1,
+        "dewpointTemperatureC": 4.8,
+        "humidityPercent": 85,
+        "windDirectionDeg": 292.5,
+        "windSpeedMps": 1.9444444459999999,
+        "windGustMps": 5.555555559999999,
+        "pressureHPA": null
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Thredbo Top Station",
+      "lat": -36.49,
+      "lng": 148.29,
+      "altM": 1957
+    },
+    "weather": [
+      {
+        "fromHour": 1539864000,
+        "toHour": 1539871200,
+        "updatedTimestamp": 1539865800,
+        "temperatureC": 5.2,
+        "dewpointTemperatureC": 4.8,
+        "humidityPercent": 97,
+        "windDirectionDeg": 337.5,
+        "windSpeedMps": 11.388888898,
+        "windGustMps": 13.333333344,
+        "pressureHPA": 1019.4
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Tuggeranong",
+      "lat": -35.42,
+      "lng": 149.09,
+      "altM": 586.7
+    },
+    "weather": [
+      {
+        "fromHour": 1539864000,
+        "toHour": 1539871200,
+        "updatedTimestamp": 1539865800,
+        "temperatureC": 11.5,
+        "dewpointTemperatureC": 7.8,
+        "humidityPercent": 78,
+        "windSpeedMps": 0,
+        "windGustMps": 0,
+        "pressureHPA": 1018.2
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Ulladulla",
+      "lat": -35.36,
+      "lng": 150.48,
+      "altM": 35.7
+    },
+    "weather": [
+      {
+        "fromHour": 1539864000,
+        "toHour": 1539871200,
+        "updatedTimestamp": 1539865800,
+        "temperatureC": 17.2,
+        "dewpointTemperatureC": 17,
+        "humidityPercent": 99,
+        "windDirectionDeg": 0,
+        "windSpeedMps": 1.9444444459999999,
+        "windGustMps": 2.5000000019999997,
+        "pressureHPA": 1016.3
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Darwin Airport",
+      "lat": -12.42,
+      "lng": 130.89,
+      "altM": 30.4
+    },
+    "weather": [
+      {
+        "fromHour": 1539864000,
+        "toHour": 1539871200,
+        "updatedTimestamp": 1539865800,
+        "temperatureC": 28.4,
+        "dewpointTemperatureC": 22.7,
+        "humidityPercent": 71,
+        "windDirectionDeg": 270,
+        "windSpeedMps": 2.5000000019999997,
+        "windGustMps": 3.0555555579999996,
+        "pressureHPA": 1012.6
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Darwin Harbour",
+      "lat": -12.47,
+      "lng": 130.85,
+      "altM": 0
+    },
+    "weather": [
+      {
+        "fromHour": 1539864000,
+        "toHour": 1539871200,
+        "updatedTimestamp": 1539865800,
+        "temperatureC": 28,
+        "dewpointTemperatureC": null,
+        "humidityPercent": null,
+        "windDirectionDeg": 225,
+        "windSpeedMps": 3.611111114,
+        "windGustMps": 4.7222222259999995,
+        "pressureHPA": 1011.8
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Batchelor",
+      "lat": -13.05,
+      "lng": 131.03,
+      "altM": 104
+    },
+    "weather": [
+      {
+        "fromHour": 1539864000,
+        "toHour": 1539871200,
+        "updatedTimestamp": 1539865800,
+        "temperatureC": 25,
+        "dewpointTemperatureC": 21.7,
+        "humidityPercent": 82,
+        "windDirectionDeg": 270,
+        "windSpeedMps": 0.555555556,
+        "windGustMps": 1.666666668,
+        "pressureHPA": 1012.2
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Black Point",
+      "lat": -11.15,
+      "lng": 132.14,
+      "altM": 5
+    },
+    "weather": [
+      {
+        "fromHour": 1539817200,
+        "toHour": 1539824400,
+        "updatedTimestamp": 1539819000,
+        "temperatureC": 29.5,
+        "dewpointTemperatureC": 22.8,
+        "humidityPercent": 67,
+        "windDirectionDeg": 67.5,
+        "windSpeedMps": 4.16666667,
+        "windGustMps": null,
+        "pressureHPA": 1012.6
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Channel Point",
+      "lat": -13.17,
+      "lng": 130.12,
+      "altM": 3
+    },
+    "weather": [
+      {
+        "fromHour": 1539817200,
+        "toHour": 1539824400,
+        "updatedTimestamp": 1539819000,
+        "temperatureC": 29.5,
+        "dewpointTemperatureC": 24.5,
+        "humidityPercent": 74,
+        "windDirectionDeg": 45,
+        "windSpeedMps": 5.277777781999999,
+        "windGustMps": null,
+        "pressureHPA": 1012.3
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Charles Point",
+      "lat": -12.39,
+      "lng": 130.63,
+      "altM": 14
+    },
+    "weather": [
+      {
+        "fromHour": 1539864000,
+        "toHour": 1539871200,
+        "updatedTimestamp": 1539865800,
+        "temperatureC": 28.5,
+        "dewpointTemperatureC": 23,
+        "humidityPercent": 72,
+        "windDirectionDeg": 225,
+        "windSpeedMps": 1.666666668,
+        "windGustMps": 3.0555555579999996,
+        "pressureHPA": 1012.6
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Middle Point",
+      "lat": -12.61,
+      "lng": 131.3,
+      "altM": 14.1
+    },
+    "weather": [
+      {
+        "fromHour": 1539864000,
+        "toHour": 1539871200,
+        "updatedTimestamp": 1539865800,
+        "temperatureC": 26.5,
+        "dewpointTemperatureC": 22.8,
+        "humidityPercent": 80,
+        "windSpeedMps": 0,
+        "windGustMps": 0,
+        "pressureHPA": 1012.5
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Noonamah",
+      "lat": -12.61,
+      "lng": 131.05,
+      "altM": 17.5
+    },
+    "weather": [
+      {
+        "fromHour": 1539864000,
+        "toHour": 1539871200,
+        "updatedTimestamp": 1539865800,
+        "temperatureC": 25.1,
+        "dewpointTemperatureC": 23.2,
+        "humidityPercent": 89,
+        "windSpeedMps": 0,
+        "windGustMps": 0,
+        "pressureHPA": 1012
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Pirlangimpi",
+      "lat": -11.4,
+      "lng": 130.42,
+      "altM": 18.3
+    },
+    "weather": [
+      {
+        "fromHour": 1539864000,
+        "toHour": 1539871200,
+        "updatedTimestamp": 1539865800,
+        "temperatureC": 24.5,
+        "dewpointTemperatureC": 22,
+        "humidityPercent": 86,
+        "windDirectionDeg": 45,
+        "windSpeedMps": 0.555555556,
+        "windGustMps": 1.111111112,
+        "pressureHPA": 1012.3
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Point Fawcett",
+      "lat": -11.76,
+      "lng": 130.03,
+      "altM": 6.5
+    },
+    "weather": [
+      {
+        "fromHour": 1539864000,
+        "toHour": 1539871200,
+        "updatedTimestamp": 1539865800,
+        "temperatureC": 27.4,
+        "dewpointTemperatureC": 23,
+        "humidityPercent": 77,
+        "windDirectionDeg": 315,
+        "windSpeedMps": 3.0555555579999996,
+        "windGustMps": 4.16666667,
+        "pressureHPA": 1012.3
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Point Stuart",
+      "lat": -12.24,
+      "lng": 131.88,
+      "altM": 1
+    },
+    "weather": [
+      {
+        "fromHour": 1539864000,
+        "toHour": 1539871200,
+        "updatedTimestamp": 1539865800,
+        "temperatureC": 28.9,
+        "dewpointTemperatureC": 23.1,
+        "humidityPercent": 71,
+        "windDirectionDeg": 0,
+        "windSpeedMps": 3.0555555579999996,
+        "windGustMps": 5.277777781999999,
+        "pressureHPA": 1012.1
+      }
+    ]
+  }
+]

@@ -18,8 +18,10 @@
   "homepage": "https://github.com/neveenatik/weather-review#readme",
   "dependencies": {
     "axios": "^0.18.0",
+    "bluebird": "^3.5.2",
     "cheerio": "^1.0.0-rc.2",
     "fs": "0.0.1-security",
+    "moment": "^2.22.2",
     "npm": "^6.4.1",
     "windrose": "^2.1.0",
     "xml2js": "^0.4.19"
