@@ -79,8 +79,8 @@ function getCityData(areaUrl) {
                         "dewpointTemperatureC": Number(arr[3]),
                         "humidityPercent": Number(arr[4]),
                         "windDirectionDeg": i,
-                        "windSpeedMps": (arr[7] * 0.277777778),
-                        "windGustMps": (arr[8] * 0.277777778),
+                        "windSpeedMps": Number((arr[7] * 0.277777778).toFixed(2)),
+                        "windGustMps": Number((arr[8] * 0.277777778).toFixed(2)),
                         "pressureHPA": Number(arr[11])
                     }
                 } else {
@@ -91,8 +91,8 @@ function getCityData(areaUrl) {
                         "temperatureC": Number(arr[1]),
                         "dewpointTemperatureC": Number(arr[3]),
                         "humidityPercent": Number(arr[4]),
-                        "windSpeedMps": (arr[7] * 0.277777778),
-                        "windGustMps": (arr[8] * 0.277777778),
+                        "windSpeedMps": Number((arr[7] * 0.277777778).toFixed(2)),
+                        "windGustMps": Number((arr[8] * 0.277777778).toFixed(2)),
                         "pressureHPA": Number(arr[11])
                     }
                 }
