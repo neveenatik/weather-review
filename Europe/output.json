@@ -1,0 +1,1208 @@
+[
+  {
+    "location": {
+      "name": "Amsterdam",
+      "lat": 52.37403,
+      "lng": 4.88969
+    },
+    "weather": [
+      {
+        "updatedTimestamp": 1539982800,
+        "fromHour": 1539982800,
+        "toHour": 1539986400,
+        "temperatureC": 6,
+        "humidityPercent": 94,
+        "pressureHPA": 1027,
+        "windDirectionDeg": 315,
+        "windSpeedMps": 1.11,
+        "symbol": "fair"
+      },
+      {
+        "updatedTimestamp": 1539982800,
+        "fromHour": 1539986400,
+        "toHour": 1539990000,
+        "temperatureC": 6,
+        "humidityPercent": 94,
+        "pressureHPA": 1027,
+        "windDirectionDeg": 315,
+        "windSpeedMps": 1.11,
+        "symbol": "fair"
+      },
+      {
+        "updatedTimestamp": 1539982800,
+        "fromHour": 1539990000,
+        "toHour": 1539993600,
+        "temperatureC": 6,
+        "humidityPercent": 94,
+        "pressureHPA": 1027,
+        "windDirectionDeg": 315,
+        "windSpeedMps": 1.11,
+        "symbol": "fair"
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Athens",
+      "lat": 37.97945,
+      "lng": 23.71622
+    },
+    "weather": [
+      {
+        "updatedTimestamp": 1539982800,
+        "fromHour": 1539982800,
+        "toHour": 1539986400,
+        "temperatureC": 17,
+        "humidityPercent": 86,
+        "pressureHPA": 1016,
+        "windSpeedMps": 0.56,
+        "symbol": "precipitation"
+      },
+      {
+        "updatedTimestamp": 1539982800,
+        "fromHour": 1539986400,
+        "toHour": 1539990000,
+        "temperatureC": 17,
+        "humidityPercent": 86,
+        "pressureHPA": 1016,
+        "windSpeedMps": 0.56,
+        "symbol": "precipitation"
+      },
+      {
+        "updatedTimestamp": 1539982800,
+        "fromHour": 1539990000,
+        "toHour": 1539993600,
+        "temperatureC": 17,
+        "humidityPercent": 86,
+        "pressureHPA": 1016,
+        "windSpeedMps": 0.56,
+        "symbol": "precipitation"
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Barcelona",
+      "lat": 41.38879,
+      "lng": 2.15899
+    },
+    "weather": [
+      {
+        "updatedTimestamp": 1539982800,
+        "fromHour": 1539982800,
+        "toHour": 1539986400,
+        "temperatureC": 19,
+        "humidityPercent": 90,
+        "pressureHPA": 1018,
+        "windDirectionDeg": 0,
+        "windSpeedMps": 1.94,
+        "symbol": "rain, not freezing, slight"
+      },
+      {
+        "updatedTimestamp": 1539982800,
+        "fromHour": 1539986400,
+        "toHour": 1539990000,
+        "temperatureC": 19,
+        "humidityPercent": 90,
+        "pressureHPA": 1018,
+        "windDirectionDeg": 0,
+        "windSpeedMps": 1.94,
+        "symbol": "rain, not freezing, slight"
+      },
+      {
+        "updatedTimestamp": 1539982800,
+        "fromHour": 1539990000,
+        "toHour": 1539993600,
+        "temperatureC": 19,
+        "humidityPercent": 90,
+        "pressureHPA": 1018,
+        "windDirectionDeg": 0,
+        "windSpeedMps": 1.94,
+        "symbol": "rain, not freezing, slight"
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Belgrade",
+      "lat": 44.80401,
+      "lng": 20.46513
+    },
+    "weather": [
+      {
+        "updatedTimestamp": 1539982800,
+        "fromHour": 1539982800,
+        "toHour": 1539986400,
+        "temperatureC": 16,
+        "humidityPercent": 75,
+        "pressureHPA": 1020,
+        "windDirectionDeg": 22.5,
+        "windSpeedMps": 1.94,
+        "symbol": "partly cloudy"
+      },
+      {
+        "updatedTimestamp": 1539982800,
+        "fromHour": 1539986400,
+        "toHour": 1539990000,
+        "temperatureC": 16,
+        "humidityPercent": 75,
+        "pressureHPA": 1020,
+        "windDirectionDeg": 22.5,
+        "windSpeedMps": 1.94,
+        "symbol": "partly cloudy"
+      },
+      {
+        "updatedTimestamp": 1539982800,
+        "fromHour": 1539990000,
+        "toHour": 1539993600,
+        "temperatureC": 16,
+        "humidityPercent": 75,
+        "pressureHPA": 1020,
+        "windDirectionDeg": 22.5,
+        "windSpeedMps": 1.94,
+        "symbol": "partly cloudy"
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Berlin",
+      "lat": 52.52437,
+      "lng": 13.41053
+    },
+    "weather": [
+      {
+        "updatedTimestamp": 1539982800,
+        "fromHour": 1539982800,
+        "toHour": 1539986400,
+        "temperatureC": 6,
+        "humidityPercent": 82,
+        "pressureHPA": 1026,
+        "windDirectionDeg": 292.5,
+        "windSpeedMps": 1.11,
+        "symbol": null
+      },
+      {
+        "updatedTimestamp": 1539982800,
+        "fromHour": 1539986400,
+        "toHour": 1539990000,
+        "temperatureC": 6,
+        "humidityPercent": 82,
+        "pressureHPA": 1026,
+        "windDirectionDeg": 292.5,
+        "windSpeedMps": 1.11,
+        "symbol": null
+      },
+      {
+        "updatedTimestamp": 1539982800,
+        "fromHour": 1539990000,
+        "toHour": 1539993600,
+        "temperatureC": 6,
+        "humidityPercent": 82,
+        "pressureHPA": 1026,
+        "windDirectionDeg": 292.5,
+        "windSpeedMps": 1.11,
+        "symbol": null
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Bratislava Letisko",
+      "lat": 48.167084,
+      "lng": 17.184491
+    },
+    "weather": [
+      {
+        "updatedTimestamp": 1539982800,
+        "fromHour": 1539982800,
+        "toHour": 1539986400,
+        "temperatureC": 11,
+        "humidityPercent": 80,
+        "pressureHPA": 1022,
+        "windSpeedMps": 1.11,
+        "symbol": "fair"
+      },
+      {
+        "updatedTimestamp": 1539982800,
+        "fromHour": 1539986400,
+        "toHour": 1539990000,
+        "temperatureC": 11,
+        "humidityPercent": 80,
+        "pressureHPA": 1022,
+        "windSpeedMps": 1.11,
+        "symbol": "fair"
+      },
+      {
+        "updatedTimestamp": 1539982800,
+        "fromHour": 1539990000,
+        "toHour": 1539993600,
+        "temperatureC": 11,
+        "humidityPercent": 80,
+        "pressureHPA": 1022,
+        "windSpeedMps": 1.11,
+        "symbol": "fair"
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Bordeaux",
+      "lat": 44.837788,
+      "lng": -0.57918
+    },
+    "weather": [
+      {
+        "updatedTimestamp": 1539982800,
+        "fromHour": 1539982800,
+        "toHour": 1539986400,
+        "temperatureC": 15,
+        "humidityPercent": 79,
+        "pressureHPA": 1021,
+        "windDirectionDeg": 45,
+        "windSpeedMps": 3.61,
+        "symbol": null
+      },
+      {
+        "updatedTimestamp": 1539982800,
+        "fromHour": 1539986400,
+        "toHour": 1539990000,
+        "temperatureC": 15,
+        "humidityPercent": 79,
+        "pressureHPA": 1021,
+        "windDirectionDeg": 45,
+        "windSpeedMps": 3.61,
+        "symbol": null
+      },
+      {
+        "updatedTimestamp": 1539982800,
+        "fromHour": 1539990000,
+        "toHour": 1539993600,
+        "temperatureC": 15,
+        "humidityPercent": 79,
+        "pressureHPA": 1021,
+        "windDirectionDeg": 45,
+        "windSpeedMps": 3.61,
+        "symbol": null
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Dublin",
+      "lat": 53.33306,
+      "lng": -6.24889
+    },
+    "weather": [
+      {
+        "updatedTimestamp": 1539982800,
+        "fromHour": 1539982800,
+        "toHour": 1539986400,
+        "temperatureC": 10,
+        "humidityPercent": 87,
+        "pressureHPA": 1026,
+        "windDirectionDeg": 225,
+        "windSpeedMps": 1.94,
+        "symbol": "few clouds"
+      },
+      {
+        "updatedTimestamp": 1539982800,
+        "fromHour": 1539986400,
+        "toHour": 1539990000,
+        "temperatureC": 10,
+        "humidityPercent": 87,
+        "pressureHPA": 1026,
+        "windDirectionDeg": 225,
+        "windSpeedMps": 1.94,
+        "symbol": "few clouds"
+      },
+      {
+        "updatedTimestamp": 1539982800,
+        "fromHour": 1539990000,
+        "toHour": 1539993600,
+        "temperatureC": 10,
+        "humidityPercent": 87,
+        "pressureHPA": 1026,
+        "windDirectionDeg": 225,
+        "windSpeedMps": 1.94,
+        "symbol": "few clouds"
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Istanbul",
+      "lat": 41.01384,
+      "lng": 28.94966
+    },
+    "weather": [
+      {
+        "updatedTimestamp": 1539982800,
+        "fromHour": 1539982800,
+        "toHour": 1539986400,
+        "temperatureC": 17,
+        "humidityPercent": 87,
+        "pressureHPA": 1017,
+        "windDirectionDeg": 0,
+        "windSpeedMps": 2.22,
+        "symbol": "few clouds"
+      },
+      {
+        "updatedTimestamp": 1539982800,
+        "fromHour": 1539986400,
+        "toHour": 1539990000,
+        "temperatureC": 17,
+        "humidityPercent": 87,
+        "pressureHPA": 1017,
+        "windDirectionDeg": 0,
+        "windSpeedMps": 2.22,
+        "symbol": "few clouds"
+      },
+      {
+        "updatedTimestamp": 1539982800,
+        "fromHour": 1539990000,
+        "toHour": 1539993600,
+        "temperatureC": 17,
+        "humidityPercent": 87,
+        "pressureHPA": 1017,
+        "windDirectionDeg": 0,
+        "windSpeedMps": 2.22,
+        "symbol": "few clouds"
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Kopenhagen",
+      "lat": 55.675758,
+      "lng": 12.56902
+    },
+    "weather": [
+      {
+        "updatedTimestamp": 1539982800,
+        "fromHour": 1539982800,
+        "toHour": 1539986400,
+        "temperatureC": 10,
+        "humidityPercent": 74,
+        "pressureHPA": 1025,
+        "windDirectionDeg": 270,
+        "windSpeedMps": 3.06,
+        "symbol": null
+      },
+      {
+        "updatedTimestamp": 1539982800,
+        "fromHour": 1539986400,
+        "toHour": 1539990000,
+        "temperatureC": 10,
+        "humidityPercent": 74,
+        "pressureHPA": 1025,
+        "windDirectionDeg": 270,
+        "windSpeedMps": 3.06,
+        "symbol": null
+      },
+      {
+        "updatedTimestamp": 1539982800,
+        "fromHour": 1539990000,
+        "toHour": 1539993600,
+        "temperatureC": 10,
+        "humidityPercent": 74,
+        "pressureHPA": 1025,
+        "windDirectionDeg": 270,
+        "windSpeedMps": 3.06,
+        "symbol": null
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Lisbon",
+      "lat": 38.71667,
+      "lng": -9.13333
+    },
+    "weather": [
+      {
+        "updatedTimestamp": 1539982800,
+        "fromHour": 1539982800,
+        "toHour": 1539986400,
+        "temperatureC": 19,
+        "humidityPercent": 75,
+        "pressureHPA": 1014,
+        "windSpeedMps": 0,
+        "symbol": null
+      },
+      {
+        "updatedTimestamp": 1539982800,
+        "fromHour": 1539986400,
+        "toHour": 1539990000,
+        "temperatureC": 19,
+        "humidityPercent": 75,
+        "pressureHPA": 1014,
+        "windSpeedMps": 0,
+        "symbol": null
+      },
+      {
+        "updatedTimestamp": 1539982800,
+        "fromHour": 1539990000,
+        "toHour": 1539993600,
+        "temperatureC": 19,
+        "humidityPercent": 75,
+        "pressureHPA": 1014,
+        "windSpeedMps": 0,
+        "symbol": null
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "London",
+      "lat": 51.50853,
+      "lng": -0.12574
+    },
+    "weather": [
+      {
+        "updatedTimestamp": 1539982800,
+        "fromHour": 1539982800,
+        "toHour": 1539986400,
+        "temperatureC": 10,
+        "humidityPercent": 83,
+        "pressureHPA": 1028,
+        "windDirectionDeg": 0,
+        "windSpeedMps": 1.11,
+        "symbol": null
+      },
+      {
+        "updatedTimestamp": 1539982800,
+        "fromHour": 1539986400,
+        "toHour": 1539990000,
+        "temperatureC": 10,
+        "humidityPercent": 83,
+        "pressureHPA": 1028,
+        "windDirectionDeg": 0,
+        "windSpeedMps": 1.11,
+        "symbol": null
+      },
+      {
+        "updatedTimestamp": 1539982800,
+        "fromHour": 1539990000,
+        "toHour": 1539993600,
+        "temperatureC": 10,
+        "humidityPercent": 83,
+        "pressureHPA": 1028,
+        "windDirectionDeg": 0,
+        "windSpeedMps": 1.11,
+        "symbol": null
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Luxemburg",
+      "lat": 49.815273,
+      "lng": 6.129583
+    },
+    "weather": [
+      {
+        "updatedTimestamp": 1539982800,
+        "fromHour": 1539982800,
+        "toHour": 1539986400,
+        "temperatureC": 11,
+        "humidityPercent": 82,
+        "pressureHPA": 1025,
+        "windDirectionDeg": 22.5,
+        "windSpeedMps": 3.89,
+        "symbol": null
+      },
+      {
+        "updatedTimestamp": 1539982800,
+        "fromHour": 1539986400,
+        "toHour": 1539990000,
+        "temperatureC": 11,
+        "humidityPercent": 82,
+        "pressureHPA": 1025,
+        "windDirectionDeg": 22.5,
+        "windSpeedMps": 3.89,
+        "symbol": null
+      },
+      {
+        "updatedTimestamp": 1539982800,
+        "fromHour": 1539990000,
+        "toHour": 1539993600,
+        "temperatureC": 11,
+        "humidityPercent": 82,
+        "pressureHPA": 1025,
+        "windDirectionDeg": 22.5,
+        "windSpeedMps": 3.89,
+        "symbol": null
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Madrid",
+      "lat": 40.4165,
+      "lng": -3.70256
+    },
+    "weather": [
+      {
+        "updatedTimestamp": 1539982800,
+        "fromHour": 1539982800,
+        "toHour": 1539986400,
+        "temperatureC": 14,
+        "humidityPercent": 84,
+        "pressureHPA": 1016,
+        "windDirectionDeg": 22.5,
+        "windSpeedMps": 3.06,
+        "symbol": "slight drizzle"
+      },
+      {
+        "updatedTimestamp": 1539982800,
+        "fromHour": 1539986400,
+        "toHour": 1539990000,
+        "temperatureC": 14,
+        "humidityPercent": 84,
+        "pressureHPA": 1016,
+        "windDirectionDeg": 22.5,
+        "windSpeedMps": 3.06,
+        "symbol": "slight drizzle"
+      },
+      {
+        "updatedTimestamp": 1539982800,
+        "fromHour": 1539990000,
+        "toHour": 1539993600,
+        "temperatureC": 14,
+        "humidityPercent": 84,
+        "pressureHPA": 1016,
+        "windDirectionDeg": 22.5,
+        "windSpeedMps": 3.06,
+        "symbol": "slight drizzle"
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Milan",
+      "lat": 45.46427,
+      "lng": 9.18951
+    },
+    "weather": [
+      {
+        "updatedTimestamp": 1539982800,
+        "fromHour": 1539982800,
+        "toHour": 1539986400,
+        "temperatureC": 14,
+        "humidityPercent": 92,
+        "pressureHPA": 1021,
+        "windDirectionDeg": 22.5,
+        "windSpeedMps": 1.39,
+        "symbol": "fair"
+      },
+      {
+        "updatedTimestamp": 1539982800,
+        "fromHour": 1539986400,
+        "toHour": 1539990000,
+        "temperatureC": 14,
+        "humidityPercent": 92,
+        "pressureHPA": 1021,
+        "windDirectionDeg": 22.5,
+        "windSpeedMps": 1.39,
+        "symbol": "fair"
+      },
+      {
+        "updatedTimestamp": 1539982800,
+        "fromHour": 1539990000,
+        "toHour": 1539993600,
+        "temperatureC": 14,
+        "humidityPercent": 92,
+        "pressureHPA": 1021,
+        "windDirectionDeg": 22.5,
+        "windSpeedMps": 1.39,
+        "symbol": "fair"
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Moskow",
+      "lat": 55.755825,
+      "lng": 37.617298
+    },
+    "weather": [
+      {
+        "updatedTimestamp": 1539982800,
+        "fromHour": 1539982800,
+        "toHour": 1539986400,
+        "temperatureC": 8,
+        "humidityPercent": 81,
+        "pressureHPA": 1018,
+        "windDirectionDeg": 315,
+        "windSpeedMps": 1.11,
+        "symbol": "fair"
+      },
+      {
+        "updatedTimestamp": 1539982800,
+        "fromHour": 1539986400,
+        "toHour": 1539990000,
+        "temperatureC": 8,
+        "humidityPercent": 81,
+        "pressureHPA": 1018,
+        "windDirectionDeg": 315,
+        "windSpeedMps": 1.11,
+        "symbol": "fair"
+      },
+      {
+        "updatedTimestamp": 1539982800,
+        "fromHour": 1539990000,
+        "toHour": 1539993600,
+        "temperatureC": 8,
+        "humidityPercent": 81,
+        "pressureHPA": 1018,
+        "windDirectionDeg": 315,
+        "windSpeedMps": 1.11,
+        "symbol": "fair"
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Munich",
+      "lat": 48.13743,
+      "lng": 11.57549
+    },
+    "weather": [
+      {
+        "updatedTimestamp": 1539982800,
+        "fromHour": 1539982800,
+        "toHour": 1539986400,
+        "temperatureC": 8,
+        "humidityPercent": 92,
+        "pressureHPA": 1024,
+        "windDirectionDeg": 22.5,
+        "windSpeedMps": 1.11,
+        "symbol": "mist"
+      },
+      {
+        "updatedTimestamp": 1539982800,
+        "fromHour": 1539986400,
+        "toHour": 1539990000,
+        "temperatureC": 8,
+        "humidityPercent": 92,
+        "pressureHPA": 1024,
+        "windDirectionDeg": 22.5,
+        "windSpeedMps": 1.11,
+        "symbol": "mist"
+      },
+      {
+        "updatedTimestamp": 1539982800,
+        "fromHour": 1539990000,
+        "toHour": 1539993600,
+        "temperatureC": 8,
+        "humidityPercent": 92,
+        "pressureHPA": 1024,
+        "windDirectionDeg": 22.5,
+        "windSpeedMps": 1.11,
+        "symbol": "mist"
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Nice",
+      "lat": 43.710175,
+      "lng": 7.261953
+    },
+    "weather": [
+      {
+        "updatedTimestamp": 1539982800,
+        "fromHour": 1539982800,
+        "toHour": 1539986400,
+        "temperatureC": 19,
+        "humidityPercent": 66,
+        "pressureHPA": 1019,
+        "windDirectionDeg": 337.5,
+        "windSpeedMps": 3.61,
+        "symbol": "fair"
+      },
+      {
+        "updatedTimestamp": 1539982800,
+        "fromHour": 1539986400,
+        "toHour": 1539990000,
+        "temperatureC": 19,
+        "humidityPercent": 66,
+        "pressureHPA": 1019,
+        "windDirectionDeg": 337.5,
+        "windSpeedMps": 3.61,
+        "symbol": "fair"
+      },
+      {
+        "updatedTimestamp": 1539982800,
+        "fromHour": 1539990000,
+        "toHour": 1539993600,
+        "temperatureC": 19,
+        "humidityPercent": 66,
+        "pressureHPA": 1019,
+        "windDirectionDeg": 337.5,
+        "windSpeedMps": 3.61,
+        "symbol": "fair"
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Palma de Mallorca",
+      "lat": 2.932247,
+      "lng": -75.255092
+    },
+    "weather": [
+      {
+        "updatedTimestamp": 1539982800,
+        "fromHour": 1539982800,
+        "toHour": 1539986400,
+        "temperatureC": 17,
+        "humidityPercent": 97,
+        "pressureHPA": 1016,
+        "windDirectionDeg": 67.5,
+        "windSpeedMps": 1.11,
+        "symbol": "few clouds"
+      },
+      {
+        "updatedTimestamp": 1539982800,
+        "fromHour": 1539986400,
+        "toHour": 1539990000,
+        "temperatureC": 17,
+        "humidityPercent": 97,
+        "pressureHPA": 1016,
+        "windDirectionDeg": 67.5,
+        "windSpeedMps": 1.11,
+        "symbol": "few clouds"
+      },
+      {
+        "updatedTimestamp": 1539982800,
+        "fromHour": 1539990000,
+        "toHour": 1539993600,
+        "temperatureC": 17,
+        "humidityPercent": 97,
+        "pressureHPA": 1016,
+        "windDirectionDeg": 67.5,
+        "windSpeedMps": 1.11,
+        "symbol": "few clouds"
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Paris",
+      "lat": 48.85341,
+      "lng": 2.3488
+    },
+    "weather": [
+      {
+        "updatedTimestamp": 1539982800,
+        "fromHour": 1539982800,
+        "toHour": 1539986400,
+        "temperatureC": 12,
+        "humidityPercent": 81,
+        "pressureHPA": 1025,
+        "windDirectionDeg": 22.5,
+        "windSpeedMps": 4.17,
+        "symbol": "fair"
+      },
+      {
+        "updatedTimestamp": 1539982800,
+        "fromHour": 1539986400,
+        "toHour": 1539990000,
+        "temperatureC": 12,
+        "humidityPercent": 81,
+        "pressureHPA": 1025,
+        "windDirectionDeg": 22.5,
+        "windSpeedMps": 4.17,
+        "symbol": "fair"
+      },
+      {
+        "updatedTimestamp": 1539982800,
+        "fromHour": 1539990000,
+        "toHour": 1539993600,
+        "temperatureC": 12,
+        "humidityPercent": 81,
+        "pressureHPA": 1025,
+        "windDirectionDeg": 22.5,
+        "windSpeedMps": 4.17,
+        "symbol": "fair"
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Prague",
+      "lat": 50.08804,
+      "lng": 14.42076
+    },
+    "weather": [
+      {
+        "updatedTimestamp": 1539982800,
+        "fromHour": 1539982800,
+        "toHour": 1539986400,
+        "temperatureC": 7,
+        "humidityPercent": 97,
+        "pressureHPA": 1025,
+        "windDirectionDeg": 292.5,
+        "windSpeedMps": 1.11,
+        "symbol": "shallow fog"
+      },
+      {
+        "updatedTimestamp": 1539982800,
+        "fromHour": 1539986400,
+        "toHour": 1539990000,
+        "temperatureC": 7,
+        "humidityPercent": 97,
+        "pressureHPA": 1025,
+        "windDirectionDeg": 292.5,
+        "windSpeedMps": 1.11,
+        "symbol": "shallow fog"
+      },
+      {
+        "updatedTimestamp": 1539982800,
+        "fromHour": 1539990000,
+        "toHour": 1539993600,
+        "temperatureC": 7,
+        "humidityPercent": 97,
+        "pressureHPA": 1025,
+        "windDirectionDeg": 292.5,
+        "windSpeedMps": 1.11,
+        "symbol": "shallow fog"
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Reykjavik",
+      "lat": 64.126518,
+      "lng": -21.817438
+    },
+    "weather": [
+      {
+        "updatedTimestamp": 1539982800,
+        "fromHour": 1539982800,
+        "toHour": 1539986400,
+        "temperatureC": 4,
+        "humidityPercent": 81,
+        "pressureHPA": 997,
+        "windDirectionDeg": 135,
+        "windSpeedMps": 3.61,
+        "symbol": "slight rain"
+      },
+      {
+        "updatedTimestamp": 1539982800,
+        "fromHour": 1539986400,
+        "toHour": 1539990000,
+        "temperatureC": 4,
+        "humidityPercent": 81,
+        "pressureHPA": 997,
+        "windDirectionDeg": 135,
+        "windSpeedMps": 3.61,
+        "symbol": "slight rain"
+      },
+      {
+        "updatedTimestamp": 1539982800,
+        "fromHour": 1539990000,
+        "toHour": 1539993600,
+        "temperatureC": 4,
+        "humidityPercent": 81,
+        "pressureHPA": 997,
+        "windDirectionDeg": 135,
+        "windSpeedMps": 3.61,
+        "symbol": "slight rain"
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Rhodes",
+      "lat": 36.434052,
+      "lng": 28.217638
+    },
+    "weather": [
+      {
+        "updatedTimestamp": 1539982800,
+        "fromHour": 1539982800,
+        "toHour": 1539986400,
+        "temperatureC": 21,
+        "humidityPercent": 86,
+        "pressureHPA": 1014,
+        "windDirectionDeg": 292.5,
+        "windSpeedMps": 4.72,
+        "symbol": "haze"
+      },
+      {
+        "updatedTimestamp": 1539982800,
+        "fromHour": 1539986400,
+        "toHour": 1539990000,
+        "temperatureC": 21,
+        "humidityPercent": 86,
+        "pressureHPA": 1014,
+        "windDirectionDeg": 292.5,
+        "windSpeedMps": 4.72,
+        "symbol": "haze"
+      },
+      {
+        "updatedTimestamp": 1539982800,
+        "fromHour": 1539990000,
+        "toHour": 1539993600,
+        "temperatureC": 21,
+        "humidityPercent": 86,
+        "pressureHPA": 1014,
+        "windDirectionDeg": 292.5,
+        "windSpeedMps": 4.72,
+        "symbol": "haze"
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Rome",
+      "lat": 41.89193,
+      "lng": 12.51133
+    },
+    "weather": [
+      {
+        "updatedTimestamp": 1539982800,
+        "fromHour": 1539982800,
+        "toHour": 1539986400,
+        "temperatureC": 17,
+        "humidityPercent": 94,
+        "pressureHPA": 1018,
+        "windDirectionDeg": 0,
+        "windSpeedMps": 1.11,
+        "symbol": "fair"
+      },
+      {
+        "updatedTimestamp": 1539982800,
+        "fromHour": 1539986400,
+        "toHour": 1539990000,
+        "temperatureC": 17,
+        "humidityPercent": 94,
+        "pressureHPA": 1018,
+        "windDirectionDeg": 0,
+        "windSpeedMps": 1.11,
+        "symbol": "fair"
+      },
+      {
+        "updatedTimestamp": 1539982800,
+        "fromHour": 1539990000,
+        "toHour": 1539993600,
+        "temperatureC": 17,
+        "humidityPercent": 94,
+        "pressureHPA": 1018,
+        "windDirectionDeg": 0,
+        "windSpeedMps": 1.11,
+        "symbol": "fair"
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Stockholm",
+      "lat": 59.33258,
+      "lng": 18.0649
+    },
+    "weather": [
+      {
+        "updatedTimestamp": 1539982800,
+        "fromHour": 1539982800,
+        "toHour": 1539986400,
+        "temperatureC": 1,
+        "humidityPercent": 98,
+        "pressureHPA": 1021,
+        "windSpeedMps": 0,
+        "symbol": null
+      },
+      {
+        "updatedTimestamp": 1539982800,
+        "fromHour": 1539986400,
+        "toHour": 1539990000,
+        "temperatureC": 1,
+        "humidityPercent": 98,
+        "pressureHPA": 1021,
+        "windSpeedMps": 0,
+        "symbol": null
+      },
+      {
+        "updatedTimestamp": 1539982800,
+        "fromHour": 1539990000,
+        "toHour": 1539993600,
+        "temperatureC": 1,
+        "humidityPercent": 98,
+        "pressureHPA": 1021,
+        "windSpeedMps": 0,
+        "symbol": null
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Strasbourg",
+      "lat": 48.573406,
+      "lng": 7.752111
+    },
+    "weather": [
+      {
+        "updatedTimestamp": 1539982800,
+        "fromHour": 1539982800,
+        "toHour": 1539986400,
+        "temperatureC": 11,
+        "humidityPercent": 83,
+        "pressureHPA": 1024,
+        "windDirectionDeg": 0,
+        "windSpeedMps": 2.5,
+        "symbol": null
+      },
+      {
+        "updatedTimestamp": 1539982800,
+        "fromHour": 1539986400,
+        "toHour": 1539990000,
+        "temperatureC": 11,
+        "humidityPercent": 83,
+        "pressureHPA": 1024,
+        "windDirectionDeg": 0,
+        "windSpeedMps": 2.5,
+        "symbol": null
+      },
+      {
+        "updatedTimestamp": 1539982800,
+        "fromHour": 1539990000,
+        "toHour": 1539993600,
+        "temperatureC": 11,
+        "humidityPercent": 83,
+        "pressureHPA": 1024,
+        "windDirectionDeg": 0,
+        "windSpeedMps": 2.5,
+        "symbol": null
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Tenerife",
+      "lat": 28.047955,
+      "lng": -16.577314
+    },
+    "weather": [
+      {
+        "updatedTimestamp": 1539982800,
+        "fromHour": 1539982800,
+        "toHour": 1539986400,
+        "temperatureC": 19,
+        "humidityPercent": 91,
+        "pressureHPA": 1015,
+        "windDirectionDeg": 292.5,
+        "windSpeedMps": 1.11,
+        "symbol": "rain, not freezing, heavy"
+      },
+      {
+        "updatedTimestamp": 1539982800,
+        "fromHour": 1539986400,
+        "toHour": 1539990000,
+        "temperatureC": 19,
+        "humidityPercent": 91,
+        "pressureHPA": 1015,
+        "windDirectionDeg": 292.5,
+        "windSpeedMps": 1.11,
+        "symbol": "rain, not freezing, heavy"
+      },
+      {
+        "updatedTimestamp": 1539982800,
+        "fromHour": 1539990000,
+        "toHour": 1539993600,
+        "temperatureC": 19,
+        "humidityPercent": 91,
+        "pressureHPA": 1015,
+        "windDirectionDeg": 292.5,
+        "windSpeedMps": 1.11,
+        "symbol": "rain, not freezing, heavy"
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Venice",
+      "lat": 45.43972,
+      "lng": 12.33194
+    },
+    "weather": [
+      {
+        "updatedTimestamp": 1539982800,
+        "fromHour": 1539982800,
+        "toHour": 1539986400,
+        "temperatureC": 16,
+        "humidityPercent": 72,
+        "pressureHPA": 1020,
+        "windDirectionDeg": 0,
+        "windSpeedMps": 2.5,
+        "symbol": "fair"
+      },
+      {
+        "updatedTimestamp": 1539982800,
+        "fromHour": 1539986400,
+        "toHour": 1539990000,
+        "temperatureC": 16,
+        "humidityPercent": 72,
+        "pressureHPA": 1020,
+        "windDirectionDeg": 0,
+        "windSpeedMps": 2.5,
+        "symbol": "fair"
+      },
+      {
+        "updatedTimestamp": 1539982800,
+        "fromHour": 1539990000,
+        "toHour": 1539993600,
+        "temperatureC": 16,
+        "humidityPercent": 72,
+        "pressureHPA": 1020,
+        "windDirectionDeg": 0,
+        "windSpeedMps": 2.5,
+        "symbol": "fair"
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Warsaw",
+      "lat": 52.22977,
+      "lng": 21.01178
+    },
+    "weather": [
+      {
+        "updatedTimestamp": 1539982800,
+        "fromHour": 1539982800,
+        "toHour": 1539986400,
+        "temperatureC": 8,
+        "humidityPercent": 99,
+        "pressureHPA": 1024,
+        "windDirectionDeg": 270,
+        "windSpeedMps": 1.94,
+        "symbol": "fog"
+      },
+      {
+        "updatedTimestamp": 1539982800,
+        "fromHour": 1539986400,
+        "toHour": 1539990000,
+        "temperatureC": 8,
+        "humidityPercent": 99,
+        "pressureHPA": 1024,
+        "windDirectionDeg": 270,
+        "windSpeedMps": 1.94,
+        "symbol": "fog"
+      },
+      {
+        "updatedTimestamp": 1539982800,
+        "fromHour": 1539990000,
+        "toHour": 1539993600,
+        "temperatureC": 8,
+        "humidityPercent": 99,
+        "pressureHPA": 1024,
+        "windDirectionDeg": 270,
+        "windSpeedMps": 1.94,
+        "symbol": "fog"
+      }
+    ]
+  }
+]

@@ -44,6 +44,9 @@ async function main() {
         let date = Date.parse(time) / 1000;
 
         const objects = data.map(arr => {
+            if (arr[5] == "-") {
+                arr[5] = null
+            }
             let degree = wind.getDegrees(arr[3])
             if (degree !== undefined) {
                 let object = []

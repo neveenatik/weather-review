@@ -44,9 +44,11 @@ async function main() {
         let date = Date.parse(time) / 1000;
 
         const objects = data.map(arr => {
+            if (arr[5] == "-") {
+                arr[5] = null
+            }
             let degree = wind.getDegrees(arr[3])
             if (degree !== undefined) {
-                let i = degree.value
                 return {
                     updatedTimestamp: date,
                     fromHour: date,
@@ -54,7 +56,7 @@ async function main() {
                     temperatureC: parseFloat(arr[0]),
                     humidityPercent: parseFloat(arr[1]),
                     pressureHPA: parseFloat(arr[2]),
-                    windDirectionDeg: i,
+                    windDirectionDeg: degree.value,
                     windSpeedMps: parseFloat(arr[4]),
                     symbol: arr[5]
                 };
@@ -67,8 +69,8 @@ async function main() {
                     temperatureC: parseFloat(arr[0]),
                     humidityPercent: parseFloat(arr[1]),
                     pressureHPA: parseFloat(arr[2]),
+                    windDirectionDeg: null,
                     windSpeedMps: parseFloat(arr[4]),
-                    symbol: arr[5]
                 }
             }
         });

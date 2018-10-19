@@ -7,15 +7,15 @@
     },
     "weather": [
       {
-        "updatedTimestamp": 1539864000,
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "temperatureC": 14,
-        "humidityPercent": 75,
-        "pressureHPA": 1024,
+        "updatedTimestamp": 1539986400,
+        "fromHour": 1539986400,
+        "toHour": 1539993600,
+        "temperatureC": 9,
+        "humidityPercent": 87,
+        "pressureHPA": 1027,
         "windDirectionDeg": 22.5,
-        "windSpeedMps": 3.89,
-        "symbol": "very cloudy"
+        "windSpeedMps": 1.11,
+        "symbol": "few clouds"
       }
     ]
   },
@@ -27,15 +27,15 @@
     },
     "weather": [
       {
-        "updatedTimestamp": 1539864000,
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "temperatureC": 18,
-        "humidityPercent": 65,
-        "pressureHPA": 1021,
-        "windDirectionDeg": 90,
-        "windSpeedMps": 3.33,
-        "symbol": "-"
+        "updatedTimestamp": 1539986400,
+        "fromHour": 1539986400,
+        "toHour": 1539993600,
+        "temperatureC": 9,
+        "humidityPercent": 89,
+        "pressureHPA": 1026,
+        "windDirectionDeg": 45,
+        "windSpeedMps": 2.5,
+        "symbol": null
       }
     ]
   },
@@ -47,15 +47,15 @@
     },
     "weather": [
       {
-        "updatedTimestamp": 1539864000,
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "temperatureC": 16,
-        "humidityPercent": 66,
-        "pressureHPA": 1024,
-        "windDirectionDeg": 45,
-        "windSpeedMps": 3.89,
-        "symbol": "-"
+        "updatedTimestamp": 1539986400,
+        "fromHour": 1539986400,
+        "toHour": 1539993600,
+        "temperatureC": 8,
+        "humidityPercent": 92,
+        "pressureHPA": 1028,
+        "windDirectionDeg": 0,
+        "windSpeedMps": 3.06,
+        "symbol": null
       }
     ]
   },
@@ -67,15 +67,15 @@
     },
     "weather": [
       {
-        "updatedTimestamp": 1539864000,
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "temperatureC": 16,
-        "humidityPercent": 65,
-        "pressureHPA": 1024,
-        "windDirectionDeg": 22.5,
-        "windSpeedMps": 3.89,
-        "symbol": "very cloudy"
+        "updatedTimestamp": 1539986400,
+        "fromHour": 1539986400,
+        "toHour": 1539993600,
+        "temperatureC": 9,
+        "humidityPercent": 80,
+        "pressureHPA": 1028,
+        "windDirectionDeg": 0,
+        "windSpeedMps": 1.94,
+        "symbol": "fair"
       }
     ]
   },
@@ -87,15 +87,15 @@
     },
     "weather": [
       {
-        "updatedTimestamp": 1539864000,
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "temperatureC": 16,
-        "humidityPercent": 72,
-        "pressureHPA": 1024,
+        "updatedTimestamp": 1539986400,
+        "fromHour": 1539986400,
+        "toHour": 1539993600,
+        "temperatureC": 10,
+        "humidityPercent": 83,
+        "pressureHPA": 1027,
         "windDirectionDeg": 22.5,
-        "windSpeedMps": 3.89,
-        "symbol": "very cloudy"
+        "windSpeedMps": 1.67,
+        "symbol": "partly cloudy"
       }
     ]
   },
@@ -107,15 +107,15 @@
     },
     "weather": [
       {
-        "updatedTimestamp": 1539864000,
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "temperatureC": 13,
-        "humidityPercent": 85,
-        "pressureHPA": 1023,
-        "windDirectionDeg": 22.5,
-        "windSpeedMps": 6.11,
-        "symbol": "very cloudy"
+        "updatedTimestamp": 1539986400,
+        "fromHour": 1539986400,
+        "toHour": 1539993600,
+        "temperatureC": 8,
+        "humidityPercent": 94,
+        "pressureHPA": 1027,
+        "windDirectionDeg": 0,
+        "windSpeedMps": 1.94,
+        "symbol": null
       }
     ]
   },
@@ -127,15 +127,14 @@
     },
     "weather": [
       {
-        "updatedTimestamp": 1539864000,
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "temperatureC": 17,
-        "humidityPercent": 66,
-        "pressureHPA": 1024,
-        "windDirectionDeg": 22.5,
-        "windSpeedMps": 3.89,
-        "symbol": "partly cloudy"
+        "updatedTimestamp": 1539986400,
+        "fromHour": 1539986400,
+        "toHour": 1539990000,
+        "temperatureC": 9,
+        "humidityPercent": 85,
+        "pressureHPA": 1027,
+        "windDirectionDeg": null,
+        "windSpeedMps": 1.11
       }
     ]
   },
@@ -147,15 +146,15 @@
     },
     "weather": [
       {
-        "updatedTimestamp": 1539864000,
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "temperatureC": 15,
-        "humidityPercent": 78,
-        "pressureHPA": 1024,
-        "windDirectionDeg": 22.5,
-        "windSpeedMps": 4.17,
-        "symbol": "-"
+        "updatedTimestamp": 1539986400,
+        "fromHour": 1539986400,
+        "toHour": 1539993600,
+        "temperatureC": 6,
+        "humidityPercent": 96,
+        "pressureHPA": 1028,
+        "windDirectionDeg": 0,
+        "windSpeedMps": 1.39,
+        "symbol": null
       }
     ]
   },
@@ -167,15 +166,15 @@
     },
     "weather": [
       {
-        "updatedTimestamp": 1539864000,
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "temperatureC": 15,
-        "humidityPercent": 70,
-        "pressureHPA": 1025,
-        "windDirectionDeg": 45,
-        "windSpeedMps": 6.94,
-        "symbol": "very cloudy"
+        "updatedTimestamp": 1539986400,
+        "fromHour": 1539986400,
+        "toHour": 1539993600,
+        "temperatureC": 11,
+        "humidityPercent": 74,
+        "pressureHPA": 1028,
+        "windDirectionDeg": 22.5,
+        "windSpeedMps": 3.06,
+        "symbol": "partly cloudy"
       }
     ]
   },
@@ -187,13 +186,14 @@
     },
     "weather": [
       {
-        "updatedTimestamp": 1539864000,
-        "fromHour": 1539864000,
-        "toHour": 1539867600,
-        "temperatureC": 13,
-        "humidityPercent": 83,
-        "pressureHPA": 1022,
-        "windSpeedMps": 1.94,
+        "updatedTimestamp": 1539986400,
+        "fromHour": 1539986400,
+        "toHour": 1539993600,
+        "temperatureC": 7,
+        "humidityPercent": 96,
+        "pressureHPA": 1027,
+        "windDirectionDeg": 67.5,
+        "windSpeedMps": 3.06,
         "symbol": "mist"
       }
     ]
@@ -206,15 +206,15 @@
     },
     "weather": [
       {
-        "updatedTimestamp": 1539864000,
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "temperatureC": 16,
-        "humidityPercent": 70,
-        "pressureHPA": 1023,
-        "windDirectionDeg": 22.5,
+        "updatedTimestamp": 1539986400,
+        "fromHour": 1539986400,
+        "toHour": 1539993600,
+        "temperatureC": 10,
+        "humidityPercent": 81,
+        "pressureHPA": 1027,
+        "windDirectionDeg": 0,
         "windSpeedMps": 3.06,
-        "symbol": "very cloudy"
+        "symbol": "few clouds"
       }
     ]
   }
