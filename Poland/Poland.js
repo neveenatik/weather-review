@@ -61,7 +61,7 @@ function getCityData(areaUrl) {
             }));
         }
         catch (error) {
-            console.log(error);
+            console.error(error);
             reject(error);
         }
     });
