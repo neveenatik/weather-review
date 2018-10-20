@@ -33,6 +33,7 @@ dbConnection.connect(function (err) {
         if (stats["size"] === 0) {
             console.log("File size :" + stats["size"]);
             fs.unlinkSync(filePATH);
+            console.log(`${filePATH} was deleted!`)
             return;
         } else {
             const data = JSON.parse(fs.readFileSync(filePATH, 'utf8'));
@@ -67,6 +68,7 @@ dbConnection.connect(function (err) {
                     }
                 });
             }
+            console.log(`input of ${filePATH} is not valid!`)
             return;
 
             });
