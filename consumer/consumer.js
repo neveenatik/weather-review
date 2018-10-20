@@ -3,11 +3,11 @@
 const geohash = require('latlon-geohash');
 const mysql = require('mysql');
 const fs = require('fs-extra');
-const translator = require('./translateSymbol');
+const {translateSymbol} = require('./translateSymbol');
 
 const { DB_CONFIG, QUERY_CHUNK_SIZE } = require("../config/config");
-const TODO_DIR_PATH = '/tmp/todo';
-const ARCHIVE_DIR_PATH = '/tmp/archive';
+const TODO_DIR_PATH = './tmp/todo';
+const ARCHIVE_DIR_PATH = './tmp/archive';
 const weatherFiles = fs.readdirSync(TODO_DIR_PATH);
 
 if (Object.keys(weatherFiles).length === 0) {
@@ -52,7 +52,9 @@ dbConnection.connect(function (err) {
                 const lng = +locationElement.location.lng.toFixed(2);
 
                 locationElement.weather.forEach(elem => {
-                    const symbol = translator.translateSymbol(elem.symbol);
+                    console.log('testing translator');
+                    const symbol = translateSymbol(elem.symbol);
+                    console.log('TCL: symbol', symbol);
                     for (let i = 0; i < (elem.toHour - elem.fromHour) / 3600; i++) {
                         const fromHour = elem.fromHour + (i * 3600);
                         values.push([geohash5, geohash3, lat, sourceApi, lng, symbol, fromHour,
