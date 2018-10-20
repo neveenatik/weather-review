@@ -5,9 +5,12 @@ const mysql = require('mysql');
 const fs = require('fs-extra');
 const {translateSymbol} = require('./translateSymbol');
 
-const { DB_CONFIG, QUERY_CHUNK_SIZE } = require("../config/config");
-const TODO_DIR_PATH = './tmp/todo';
-const ARCHIVE_DIR_PATH = './tmp/archive';
+const {
+  DB_CONFIG,
+  QUERY_CHUNK_SIZE,
+  TODO_DIR_PATH,
+  ARCHIVE_DIR_PATH
+} = require("../config/config");
 const weatherFiles = fs.readdirSync(TODO_DIR_PATH);
 
 if (Object.keys(weatherFiles).length === 0) {
