@@ -108,17 +108,17 @@ const getWeatherData = async (url, chunkSize, pausing) => {
               fromHour: Date.parse(result.validTime) / 1000 || undefined,
               toHour: Date.parse(result.validTime) / 1000 + 3600,
               updatedTimestamp: Date.parse(forecast.referenceTime) / 1000 || undefined,
-              temperatureC: extractParameter(result, "t"),
-              pressureHPA: extractParameter(result, "msl"),
-              humidityPercent: extractParameter(result, "r"),
-              windDirectionDeg: extractParameter(result, "wd"),
-              windSpeedMps: extractParameter(result, "ws"),
-              windGustMps: extractParameter(result, 'gust'),
-              cloudinessPercent: extractParameter(result, "tcc_mean"),
-              lowCloudsPercent: extractParameter(result, "lcc_mean"),
-              mediumCloudsPercent: extractParameter(result, "mcc_mean"),
-              highCloudsPercent: extractParameter(result, "hcc_mean"),
-              symbol: extractParameter(result, "Wsymb2")
+              temperatureC: extractParameter(result, "t") || undefined,
+              pressureHPA: extractParameter(result, "msl") || undefined,
+              humidityPercent: extractParameter(result, "r") || undefined,
+              windDirectionDeg: extractParameter(result, "wd") || undefined,
+              windSpeedMps: extractParameter(result, "ws") || undefined,
+              windGustMps: extractParameter(result, 'gust') || undefined,
+              cloudinessPercent: extractParameter(result, "tcc_mean") || undefined,
+              lowCloudsPercent: extractParameter(result, "lcc_mean") || undefined,
+              mediumCloudsPercent: extractParameter(result, "mcc_mean") || undefined,
+              highCloudsPercent: extractParameter(result, "hcc_mean") || undefined,
+              symbol: extractParameter(result, "Wsymb2") || undefined
             };
           })
         };

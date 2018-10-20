@@ -12,14 +12,7 @@ const fullWeatherDetails = [];
 The meaning of codes could be found on their main page , that is why
 I created these 2 objects and function to shows the meaning of those codes and  use it to describe weather in more details
 */
-const update = curl.getJSON(UK_LastUpdated_URL, null, (err, response, data) => {
-    if (err) {
-        throw (err);
-    }
-    console.error(
-        `Line 21:Weather data last update request statusCode ->${response.statusCode}`);
-        return data;
-});
+
 const weather_type_code_description = {
     NA: "Not available",
     0: "Clear night",
@@ -95,14 +88,14 @@ writeFile = (path, data) => {
 
 
 
-requestWeatherData = locations_id => {
+requestWeatherData = (locations_id, update) => {
     const WEATHER_REQUEST_URL = `http://datapoint.metoffice.gov.uk/public/data/val/wxfcs/all/json/${locations_id}?res=3hourly&key=${
         config.metOfficeUK_key
         }`;
     curl.getJSON(WEATHER_REQUEST_URL, null, (err, response, data) => {
         console.error(`Line 100:Weather data request statusCode ->${response.statusCode}`);
         if (response.statusCode === 200) {
-            handleWeatherData(data);
+            handleWeatherData(data, update);
         } else if (err) {
             console.error(err);
         }
@@ -110,7 +103,7 @@ requestWeatherData = locations_id => {
     sleep(1000);
 };
 
-handleWeatherData = (data) => {
+handleWeatherData = (data, update) => {
     const locationName = data.SiteRep.DV.Location.name;
     const country = data.SiteRep.DV.Location.country;
     const continent = data.SiteRep.DV.Location.continent;
@@ -162,23 +155,28 @@ handleWeatherData = (data) => {
         weather: weatherArray
     });    
 };
-const main = async () => {
-    await curl.getJSON(UK_LOCATIONS_API, null, (err, response, data) => {
-        console.error(`Line 166: Requesting all UK locations data. Request statusCode ->${response.statusCode}`
+
+curl.getJSON(UK_LastUpdated_URL, null, (err, response, update) => {
+    if (err) {
+        throw (err);
+    }
+    console.error(`Line 159:Weather data last update request statusCode ->${response.statusCode}`);
+
+    curl.getJSON(UK_LOCATIONS_API, null, (err, response, data) => {
+        console.error(`Line 165: Requesting all UK locations data. Request statusCode ->${response.statusCode}`
         );
 
         if (response.statusCode === 200) {
             data.Locations.Location.sort((a, b) => b.latitude - a.latitude);
             for (let i = 0; i < data.Locations.Location.length; i += config.metOfficeUK_chunk) {
-                requestWeatherData(data.Locations.Location[i].id);
-                console.error("Line 173: Requesting weather data based on locations' id");
+                requestWeatherData(data.Locations.Location[i].id, update);
+                console.error("Line 172: Requesting weather data based on locations' id");
             }
 
         } else if (err) {
             console.error(err);
         }
         console.log(JSON.stringify(fullWeatherDetails, null, 2));
-        console.error("Line 180: Saved Weather output in 'UK-weatherOutput.json' file.");
+        console.error("Line 179: Saved Weather output in 'UK-weatherOutput.json' file.");
     });
-}
-main();
+});

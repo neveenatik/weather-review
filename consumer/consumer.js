@@ -3,6 +3,7 @@
 const geohash = require('latlon-geohash');
 const mysql = require('mysql');
 const fs = require('fs-extra');
+const translator = require('./translateSymbol');
 
 const { DB_CONFIG, QUERY_CHUNK_SIZE } = require("../config/config");
 const TODO_DIR_PATH = '/tmp/todo';
@@ -51,10 +52,10 @@ dbConnection.connect(function (err) {
                 const lng = +locationElement.location.lng.toFixed(2);
 
                 locationElement.weather.forEach(elem => {
-                    // if (elem.symbol )
+                    const symbol = translator.translateSymbol(elem.symbol);
                     for (let i = 0; i < (elem.toHour - elem.fromHour) / 3600; i++) {
                         const fromHour = elem.fromHour + (i * 3600);
-                        values.push([geohash5, geohash3, lat, sourceApi, lng, elem.symbol, fromHour,
+                        values.push([geohash5, geohash3, lat, sourceApi, lng, symbol, fromHour,
                             elem.altitude, elem.fogPercent, elem.pressureHPA, elem.cloudinessPercent, elem.windDirectionDeg,
                             elem.dewpointTemperatureC, elem.windGustMps, elem.humidityPercent, elem.areaMaxWindSpeedMps,
                             elem.windSpeedMps, elem.temperatureC, elem.lowCloudPercent, elem.mediumCloudPercent,
