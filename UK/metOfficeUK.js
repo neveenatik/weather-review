@@ -48,37 +48,6 @@ const weather_type_code_description = {
     30: "Thunder"
 };
 
-ChooseUVDescription = UV_code => {
-    let UV_description;
-
-    if (UV_code === 1 || UV_code === 2) {
-        UV_description =
-            "Low exposure.No protection required.You can safely stay outside";
-    } else if (3 <= UV_code <= 5) {
-        UV_description =
-            "Moderate exposure.Seek shade during midday hours, cover up and wear sunscreen";
-    } else if (UV_code === 6 || UV_code === 7) {
-        UV_description =
-            "High exposure. Seek shade during midday hours, cover up and wear sunscreen";
-    } else if (8 <= UV_code <= 10) {
-        UV_description =
-            "Very high. Avoid being outside during midday hours. Shirt, sunscreen and hat are essential";
-    } else if (UV_code >= 11) {
-        UV_description =
-            "Extreme. Avoid being outside during midday hours. Shirt, sunscreen and hat essential.";
-    }
-    return UV_description;
-};
-
-const visibility_acronyms = {
-    EX: "Excellent(more than 40km)",
-    VG: "Very Good(20- 40km)",
-    GO: "Good(10 - 20km)",
-    MO: "Moderate(4 - 10km)",
-    PO: "Poor(1 - 4km)",
-    VP: "Very Poor(less than 1 km)",
-    UN: "Unknown"
-};
 
 writeFile = (path, data) => {
     fs.writeFileSync(path, JSON.stringify(data, null, 2), err => {
@@ -104,14 +73,9 @@ requestWeatherData = (locations_id, update) => {
 };
 
 handleWeatherData = (data, update) => {
-    const locationName = data.SiteRep.DV.Location.name;
-    const country = data.SiteRep.DV.Location.country;
-    const continent = data.SiteRep.DV.Location.continent;
     const longitude = parseFloat(data.SiteRep.DV.Location.lon);
     const latitude = parseFloat(data.SiteRep.DV.Location.lat);
-    const elevation = parseFloat(data.SiteRep.DV.Location.elevation);
-    const geohash3 = geohash.encode(longitude, latitude, (precision = 3));
-    const geohash5 = geohash.encode(longitude, latitude, (precision = 5));
+    const altitude = parseFloat(data.SiteRep.DV.Location.elevation);
     const updatedTimestamp = Date.parse(update.Resource.dataDate)/1000;
 
     const weatherArray = [];
@@ -122,22 +86,16 @@ handleWeatherData = (data, update) => {
             let toHour = Date.parse(`${period.value}${weather.$ / 60 + 3}:00`) / 1000;
 
             const obj = {
-                sourceApi: "metoffice",
-                geohash3,
-                geohash5,
                 fromHour,
                 toHour,
                 updatedTimestamp,
                 temperatureC: parseFloat(weather.T),
                 feelsLikeC: parseFloat(weather.F),
                 symbol: weather_type_code_description[weather.W],
-                UV_index: parseInt(weather.U),
-                visibility: visibility_acronyms[weather.V],
                 humidityPercent: parseFloat(weather.H),
                 windSpeedMps: parseFloat((parseFloat(weather.S) * 0.44704).toFixed(2)),
                 windGustMps: parseFloat((parseFloat(weather.G) * 0.44704).toFixed(2)),
                 windDirectionDegree: Windrose.getDegrees(weather.D).value,
-                precipitation_probabilityPercent: parseInt(weather.Pp)
             };
 
             weatherArray.push(obj);
@@ -145,12 +103,9 @@ handleWeatherData = (data, update) => {
     });
     fullWeatherDetails.push({
         location: {
-            locationName,
-            country,
-            continent,
             longitude,
             latitude,
-            elevation
+            altitude
         },
         weather: weatherArray
     });    

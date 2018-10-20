@@ -17,6 +17,7 @@ function translateSymbol(symbol){
             }
         }
     }
+    return null;
 }
 
 module.exports = {translateSymbol};

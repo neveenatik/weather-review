@@ -52,9 +52,9 @@ dbConnection.connect(function (err) {
                 const lng = +locationElement.location.lng.toFixed(2);
 
                 locationElement.weather.forEach(elem => {
-                    console.log('testing translator');
+                    console.log('TCL: elem', elem);
                     const symbol = translateSymbol(elem.symbol);
-                    console.log('TCL: symbol', symbol);
+                    console.log('TCL: (elem.toHour - elem.fromHour)', (elem.toHour - elem.fromHour));
                     for (let i = 0; i < (elem.toHour - elem.fromHour) / 3600; i++) {
                         const fromHour = elem.fromHour + (i * 3600);
                         values.push([geohash5, geohash3, lat, sourceApi, lng, symbol, fromHour,
@@ -66,8 +66,10 @@ dbConnection.connect(function (err) {
                 });
 
             });
+            console.log(values);
             for (let i = 0; i < values.length; i += QUERY_CHUNK_SIZE) {
                 const arr = values.slice(i, i + QUERY_CHUNK_SIZE);
+                console.log(`inserting data${i} to data ${i + QUERY_CHUNK_SIZE}`)
                 dbConnection.query(sql, [arr],
                     (err, result) => {
                         if (err) console.error(err);
