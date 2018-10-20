@@ -85,7 +85,7 @@ dbConnection.connect(function (err) {
 
             fs.move(`${TODO_DIR_PATH}/${file}`, `${ARCHIVE_DIR_PATH}/${file}`, (err) => {
                 if (err) throw err;
-                console.log('File moved!');
+                console.log(`File ${file} is archived!`);
             });
         }
 
