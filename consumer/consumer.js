@@ -50,11 +50,10 @@ dbConnection.connect(function (err) {
                 const geohash5 = geohash.encode(locationElement.location.lat, locationElement.location.lng, 5);
                 const lat = +locationElement.location.lat.toFixed(2);
                 const lng = +locationElement.location.lng.toFixed(2);
-
+                //checking if the fetch output is valid
+                if (locationElement.weather !== undefined) { 
                 locationElement.weather.forEach(elem => {
-                    console.log('TCL: elem', elem);
                     const symbol = translateSymbol(elem.symbol);
-                    console.log('TCL: (elem.toHour - elem.fromHour)', (elem.toHour - elem.fromHour));
                     for (let i = 0; i < (elem.toHour - elem.fromHour) / 3600; i++) {
                         const fromHour = elem.fromHour + (i * 3600);
                         values.push([geohash5, geohash3, lat, sourceApi, lng, symbol, fromHour,
@@ -64,9 +63,10 @@ dbConnection.connect(function (err) {
                             elem.highCloudPercent, elem.temperatureProbability, elem.windProbability, elem.updatedTimestamp]);
                     }
                 });
+            }
+            return;
 
             });
-            console.log(values);
             for (let i = 0; i < values.length; i += QUERY_CHUNK_SIZE) {
                 const arr = values.slice(i, i + QUERY_CHUNK_SIZE);
                 console.log(`inserting data${i} to data ${i + QUERY_CHUNK_SIZE}`)

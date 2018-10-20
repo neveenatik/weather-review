@@ -11,8 +11,8 @@
         "toHour": 1540080000,
         "symbol": "Overcast",
         "temperatureC": 8,
-        "windSpeedMps": 6,
-        "windDirectionDeg": 180,
+        "windSpeedMps": 7,
+        "windDirectionDeg": 202.5,
         "rainPrecipitationMm": 0
       },
       {
@@ -78,10 +78,10 @@
         "fromHour": 1539993600,
         "toHour": 1540080000,
         "symbol": "Light rain",
-        "temperatureC": 4,
-        "windSpeedMps": 10,
-        "windDirectionDeg": 90,
-        "rainPrecipitationMm": 0
+        "temperatureC": 8,
+        "windSpeedMps": 7,
+        "windDirectionDeg": 180,
+        "rainPrecipitationMm": 1
       },
       {
         "updatedTimestamp": 1540012699,
@@ -147,9 +147,9 @@
         "toHour": 1540080000,
         "symbol": "",
         "temperatureC": 5,
-        "windSpeedMps": 4,
+        "windSpeedMps": 5,
         "windDirectionDeg": 90,
-        "rainPrecipitationMm": 0
+        "rainPrecipitationMm": 1
       },
       {
         "updatedTimestamp": 1540012699,
@@ -214,9 +214,9 @@
         "fromHour": 1539993600,
         "toHour": 1540080000,
         "symbol": "Light rain",
-        "temperatureC": 4,
-        "windSpeedMps": 1,
-        "windDirectionDeg": 270,
+        "temperatureC": 3,
+        "windSpeedMps": 3,
+        "windDirectionDeg": 157.5,
         "rainPrecipitationMm": 0
       },
       {
@@ -282,9 +282,9 @@
         "fromHour": 1539993600,
         "toHour": 1540080000,
         "symbol": "Rain",
-        "temperatureC": 6,
-        "windSpeedMps": 2,
-        "windDirectionDeg": 135,
+        "temperatureC": 4,
+        "windSpeedMps": 4,
+        "windDirectionDeg": 22.5,
         "rainPrecipitationMm": 0
       },
       {
@@ -487,8 +487,8 @@
         "toHour": 1540080000,
         "symbol": "Overcast",
         "temperatureC": 7,
-        "windSpeedMps": 9,
-        "windDirectionDeg": 180,
+        "windSpeedMps": 13,
+        "windDirectionDeg": 202.5,
         "rainPrecipitationMm": 0
       },
       {
@@ -554,8 +554,8 @@
         "fromHour": 1539993600,
         "toHour": 1540080000,
         "symbol": "",
-        "temperatureC": 7,
-        "windSpeedMps": 11,
+        "temperatureC": 8,
+        "windSpeedMps": 14,
         "windDirectionDeg": 202.5,
         "rainPrecipitationMm": 0
       },
@@ -622,9 +622,9 @@
         "fromHour": 1539993600,
         "toHour": 1540080000,
         "symbol": "",
-        "temperatureC": 7,
-        "windSpeedMps": 1,
-        "windDirectionDeg": 270,
+        "temperatureC": 8,
+        "windSpeedMps": 2,
+        "windDirectionDeg": 180,
         "rainPrecipitationMm": 0
       },
       {

@@ -7,16 +7,16 @@
     },
     "weather": [
       {
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "updatedTimestamp": 1539866400,
-        "temperatureC": 18,
-        "dewpointTemperatureC": 11.1,
-        "humidityPercent": 64,
-        "windDirectionDeg": 337.5,
-        "windSpeedMps": 3.06,
-        "windGustMps": 3.61,
-        "pressureHPA": 1017.4
+        "fromHour": 1540018800,
+        "toHour": 1540026000,
+        "updatedTimestamp": 1540021800,
+        "temperatureC": 13.7,
+        "dewpointTemperatureC": 7.2,
+        "humidityPercent": 65,
+        "windDirectionDeg": 180,
+        "windSpeedMps": 3.61,
+        "windGustMps": 6.11,
+        "pressureHPA": 1018
       }
     ]
   },
@@ -28,38 +28,16 @@
     },
     "weather": [
       {
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "updatedTimestamp": 1539866400,
-        "temperatureC": 15.3,
-        "dewpointTemperatureC": 11.2,
-        "humidityPercent": 76,
-        "windDirectionDeg": 0,
-        "windSpeedMps": 2.5,
-        "windGustMps": 3.06,
-        "pressureHPA": 1016.9
-      }
-    ]
-  },
-  {
-    "location": {
-      "name": "Bundoora",
-      "lat": -37.72,
-      "lng": 145.05,
-      "altM": 83
-    },
-    "weather": [
-      {
-        "fromHour": 1539813600,
-        "toHour": 1539820800,
-        "updatedTimestamp": 1539813600,
-        "temperatureC": 14.5,
-        "dewpointTemperatureC": 12.7,
-        "humidityPercent": 89,
-        "windDirectionDeg": 0,
-        "windSpeedMps": 1.11,
-        "windGustMps": null,
-        "pressureHPA": null
+        "fromHour": 1540018800,
+        "toHour": 1540026000,
+        "updatedTimestamp": 1540021800,
+        "temperatureC": 12,
+        "dewpointTemperatureC": 9.2,
+        "humidityPercent": 83,
+        "windDirectionDeg": 180,
+        "windSpeedMps": 5.28,
+        "windGustMps": 5.56,
+        "pressureHPA": 1017.3
       }
     ]
   },
@@ -72,15 +50,15 @@
     },
     "weather": [
       {
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "updatedTimestamp": 1539866400,
-        "temperatureC": 14.2,
-        "dewpointTemperatureC": 12.4,
-        "humidityPercent": 89,
-        "windDirectionDeg": 202.5,
-        "windSpeedMps": 1.11,
-        "windGustMps": 1.11,
+        "fromHour": 1540018800,
+        "toHour": 1540026000,
+        "updatedTimestamp": 1540021800,
+        "temperatureC": 13.5,
+        "dewpointTemperatureC": 7.5,
+        "humidityPercent": 67,
+        "windDirectionDeg": 247.5,
+        "windSpeedMps": 4.72,
+        "windGustMps": 5.56,
         "pressureHPA": null
       }
     ]
@@ -94,15 +72,16 @@
     },
     "weather": [
       {
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "updatedTimestamp": 1539866400,
-        "temperatureC": 13.8,
-        "dewpointTemperatureC": 13.5,
-        "humidityPercent": 98,
-        "windSpeedMps": 0,
-        "windGustMps": 0,
-        "pressureHPA": 1016.9
+        "fromHour": 1540018800,
+        "toHour": 1540026000,
+        "updatedTimestamp": 1540021800,
+        "temperatureC": 13.2,
+        "dewpointTemperatureC": 6.8,
+        "humidityPercent": 65,
+        "windDirectionDeg": 225,
+        "windSpeedMps": 5.28,
+        "windGustMps": 6.67,
+        "pressureHPA": 1016.7
       }
     ]
   },
@@ -115,16 +94,16 @@
     },
     "weather": [
       {
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "updatedTimestamp": 1539866400,
-        "temperatureC": 16.6,
-        "dewpointTemperatureC": 11.7,
-        "humidityPercent": 73,
-        "windDirectionDeg": 337.5,
-        "windSpeedMps": 3.06,
-        "windGustMps": 3.06,
-        "pressureHPA": 1016.7
+        "fromHour": 1540018800,
+        "toHour": 1540026000,
+        "updatedTimestamp": 1540021800,
+        "temperatureC": 11.9,
+        "dewpointTemperatureC": 10,
+        "humidityPercent": 88,
+        "windDirectionDeg": 202.5,
+        "windSpeedMps": 4.72,
+        "windGustMps": 5.56,
+        "pressureHPA": 1017.2
       }
     ]
   },
@@ -137,15 +116,15 @@
     },
     "weather": [
       {
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "updatedTimestamp": 1539866400,
+        "fromHour": 1540018800,
+        "toHour": 1540026000,
+        "updatedTimestamp": 1540021800,
         "temperatureC": null,
         "dewpointTemperatureC": null,
         "humidityPercent": null,
-        "windDirectionDeg": 112.5,
-        "windSpeedMps": 3.06,
-        "windGustMps": 3.61,
+        "windDirectionDeg": 180,
+        "windSpeedMps": 9.17,
+        "windGustMps": 11.39,
         "pressureHPA": null
       }
     ]
@@ -159,15 +138,15 @@
     },
     "weather": [
       {
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "updatedTimestamp": 1539866400,
-        "temperatureC": 13.1,
-        "dewpointTemperatureC": 9.3,
-        "humidityPercent": 78,
-        "windDirectionDeg": 22.5,
-        "windSpeedMps": 0.56,
-        "windGustMps": 0.56,
+        "fromHour": 1540018800,
+        "toHour": 1540026000,
+        "updatedTimestamp": 1540021800,
+        "temperatureC": 9.2,
+        "dewpointTemperatureC": 6.3,
+        "humidityPercent": 82,
+        "windDirectionDeg": 247.5,
+        "windSpeedMps": 3.06,
+        "windGustMps": 4.72,
         "pressureHPA": null
       }
     ]
@@ -181,15 +160,15 @@
     },
     "weather": [
       {
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "updatedTimestamp": 1539866400,
+        "fromHour": 1540018800,
+        "toHour": 1540026000,
+        "updatedTimestamp": 1540021800,
         "temperatureC": null,
         "dewpointTemperatureC": null,
         "humidityPercent": null,
-        "windDirectionDeg": 157.5,
-        "windSpeedMps": 1.94,
-        "windGustMps": 1.94,
+        "windDirectionDeg": 225,
+        "windSpeedMps": 5.56,
+        "windGustMps": 7.22,
         "pressureHPA": null
       }
     ]
@@ -203,15 +182,15 @@
     },
     "weather": [
       {
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "updatedTimestamp": 1539866400,
-        "temperatureC": 15.8,
-        "dewpointTemperatureC": 14.6,
-        "humidityPercent": 93,
-        "windDirectionDeg": 270,
-        "windSpeedMps": 1.67,
-        "windGustMps": 1.94,
+        "fromHour": 1540018800,
+        "toHour": 1540026000,
+        "updatedTimestamp": 1540021800,
+        "temperatureC": 13.2,
+        "dewpointTemperatureC": 8.6,
+        "humidityPercent": 73,
+        "windDirectionDeg": 225,
+        "windSpeedMps": 5.56,
+        "windGustMps": 6.11,
         "pressureHPA": null
       }
     ]
@@ -225,16 +204,16 @@
     },
     "weather": [
       {
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "updatedTimestamp": 1539866400,
-        "temperatureC": 16.2,
-        "dewpointTemperatureC": 13.1,
-        "humidityPercent": 82,
-        "windDirectionDeg": 157.5,
-        "windSpeedMps": 1.11,
-        "windGustMps": 1.67,
-        "pressureHPA": 1016.7
+        "fromHour": 1540018800,
+        "toHour": 1540026000,
+        "updatedTimestamp": 1540021800,
+        "temperatureC": 13.1,
+        "dewpointTemperatureC": 9.4,
+        "humidityPercent": 78,
+        "windDirectionDeg": 225,
+        "windSpeedMps": 2.5,
+        "windGustMps": 3.06,
+        "pressureHPA": 1017.2
       }
     ]
   },
@@ -247,15 +226,16 @@
     },
     "weather": [
       {
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "updatedTimestamp": 1539866400,
-        "temperatureC": 15.5,
-        "dewpointTemperatureC": 14,
-        "humidityPercent": 91,
-        "windSpeedMps": 0,
-        "windGustMps": 0.56,
-        "pressureHPA": 1016.8
+        "fromHour": 1540018800,
+        "toHour": 1540026000,
+        "updatedTimestamp": 1540021800,
+        "temperatureC": 13.8,
+        "dewpointTemperatureC": 7.3,
+        "humidityPercent": 65,
+        "windDirectionDeg": 202.5,
+        "windSpeedMps": 7.22,
+        "windGustMps": 9.72,
+        "pressureHPA": 1017
       }
     ]
   },
@@ -268,15 +248,15 @@
     },
     "weather": [
       {
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "updatedTimestamp": 1539866400,
+        "fromHour": 1540018800,
+        "toHour": 1540026000,
+        "updatedTimestamp": 1540021800,
         "temperatureC": null,
         "dewpointTemperatureC": null,
         "humidityPercent": null,
-        "windDirectionDeg": 247.5,
-        "windSpeedMps": 1.11,
-        "windGustMps": 1.67,
+        "windDirectionDeg": 202.5,
+        "windSpeedMps": 11.39,
+        "windGustMps": 12.22,
         "pressureHPA": null
       }
     ]
@@ -290,15 +270,15 @@
     },
     "weather": [
       {
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "updatedTimestamp": 1539866400,
-        "temperatureC": 14.4,
-        "dewpointTemperatureC": 13.4,
-        "humidityPercent": 94,
-        "windDirectionDeg": 67.5,
-        "windSpeedMps": 1.11,
-        "windGustMps": 1.67,
+        "fromHour": 1540018800,
+        "toHour": 1540026000,
+        "updatedTimestamp": 1540021800,
+        "temperatureC": 13.3,
+        "dewpointTemperatureC": 8.1,
+        "humidityPercent": 71,
+        "windDirectionDeg": 225,
+        "windSpeedMps": 5.28,
+        "windGustMps": 7.22,
         "pressureHPA": null
       }
     ]
@@ -312,15 +292,15 @@
     },
     "weather": [
       {
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "updatedTimestamp": 1539866400,
-        "temperatureC": 16.5,
-        "dewpointTemperatureC": 11,
-        "humidityPercent": 70,
-        "windDirectionDeg": 22.5,
-        "windSpeedMps": 1.11,
-        "windGustMps": 1.11,
+        "fromHour": 1540018800,
+        "toHour": 1540026000,
+        "updatedTimestamp": 1540021800,
+        "temperatureC": 13.3,
+        "dewpointTemperatureC": 6.4,
+        "humidityPercent": 63,
+        "windDirectionDeg": 247.5,
+        "windSpeedMps": 3.06,
+        "windGustMps": 4.17,
         "pressureHPA": null
       }
     ]
@@ -334,15 +314,15 @@
     },
     "weather": [
       {
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "updatedTimestamp": 1539866400,
-        "temperatureC": 14.2,
-        "dewpointTemperatureC": 12.2,
-        "humidityPercent": 88,
-        "windDirectionDeg": 315,
-        "windSpeedMps": 1.67,
-        "windGustMps": 1.67,
+        "fromHour": 1540018800,
+        "toHour": 1540026000,
+        "updatedTimestamp": 1540021800,
+        "temperatureC": 12.6,
+        "dewpointTemperatureC": 4.8,
+        "humidityPercent": 59,
+        "windDirectionDeg": 247.5,
+        "windSpeedMps": 4.17,
+        "windGustMps": 5.56,
         "pressureHPA": null
       }
     ]
@@ -356,15 +336,15 @@
     },
     "weather": [
       {
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "updatedTimestamp": 1539866400,
+        "fromHour": 1540018800,
+        "toHour": 1540026000,
+        "updatedTimestamp": 1540021800,
         "temperatureC": null,
         "dewpointTemperatureC": null,
         "humidityPercent": null,
-        "windDirectionDeg": 45,
-        "windSpeedMps": 3.61,
-        "windGustMps": 3.61,
+        "windDirectionDeg": 202.5,
+        "windSpeedMps": 11.94,
+        "windGustMps": 13.33,
         "pressureHPA": null
       }
     ]
@@ -378,15 +358,15 @@
     },
     "weather": [
       {
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "updatedTimestamp": 1539866400,
+        "fromHour": 1540018800,
+        "toHour": 1540026000,
+        "updatedTimestamp": 1540021800,
         "temperatureC": null,
         "dewpointTemperatureC": null,
         "humidityPercent": null,
-        "windDirectionDeg": 180,
-        "windSpeedMps": 2.5,
-        "windGustMps": 2.5,
+        "windDirectionDeg": 202.5,
+        "windSpeedMps": 9.17,
+        "windGustMps": 10.28,
         "pressureHPA": null
       }
     ]
@@ -400,16 +380,16 @@
     },
     "weather": [
       {
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "updatedTimestamp": 1539866400,
-        "temperatureC": 17,
-        "dewpointTemperatureC": 11.1,
-        "humidityPercent": 68,
-        "windDirectionDeg": 337.5,
-        "windSpeedMps": 0.56,
-        "windGustMps": 1.67,
-        "pressureHPA": 1016.9
+        "fromHour": 1540018800,
+        "toHour": 1540026000,
+        "updatedTimestamp": 1540021800,
+        "temperatureC": 12.8,
+        "dewpointTemperatureC": 9.3,
+        "humidityPercent": 79,
+        "windDirectionDeg": 202.5,
+        "windSpeedMps": 2.5,
+        "windGustMps": 4.72,
+        "pressureHPA": 1017
       }
     ]
   },
@@ -421,16 +401,16 @@
     },
     "weather": [
       {
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "updatedTimestamp": 1539866400,
-        "temperatureC": 18.8,
-        "dewpointTemperatureC": 16,
-        "humidityPercent": 84,
-        "windDirectionDeg": 90,
-        "windSpeedMps": 1.94,
+        "fromHour": 1540018800,
+        "toHour": 1540026000,
+        "updatedTimestamp": 1540021800,
+        "temperatureC": 19.7,
+        "dewpointTemperatureC": 16.7,
+        "humidityPercent": 83,
+        "windDirectionDeg": 67.5,
+        "windSpeedMps": 7.22,
         "windGustMps": null,
-        "pressureHPA": 1017.8
+        "pressureHPA": 1011.5
       }
     ]
   },
@@ -442,16 +422,15 @@
     },
     "weather": [
       {
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "updatedTimestamp": 1539866400,
-        "temperatureC": 18.1,
-        "dewpointTemperatureC": 17.1,
-        "humidityPercent": 94,
-        "windDirectionDeg": 67.5,
-        "windSpeedMps": 4.72,
-        "windGustMps": 4.72,
-        "pressureHPA": 1017.5
+        "fromHour": 1540018800,
+        "toHour": 1540026000,
+        "updatedTimestamp": 1540021800,
+        "temperatureC": 18.8,
+        "dewpointTemperatureC": 17.5,
+        "humidityPercent": 92,
+        "windSpeedMps": null,
+        "windGustMps": null,
+        "pressureHPA": 1011.2
       }
     ]
   },
@@ -463,15 +442,15 @@
     },
     "weather": [
       {
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "updatedTimestamp": 1539866400,
-        "temperatureC": 18.8,
+        "fromHour": 1540018800,
+        "toHour": 1540026000,
+        "updatedTimestamp": 1540021800,
+        "temperatureC": 19.6,
         "dewpointTemperatureC": null,
         "humidityPercent": null,
-        "windDirectionDeg": 45,
-        "windSpeedMps": 4.17,
-        "windGustMps": 4.17,
+        "windDirectionDeg": 67.5,
+        "windSpeedMps": 6.67,
+        "windGustMps": 7.78,
         "pressureHPA": null
       }
     ]
@@ -484,15 +463,14 @@
     },
     "weather": [
       {
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "updatedTimestamp": 1539866400,
-        "temperatureC": 18,
-        "dewpointTemperatureC": 17.7,
-        "humidityPercent": 98,
-        "windDirectionDeg": 112.5,
-        "windSpeedMps": 1.94,
-        "windGustMps": 2.5,
+        "fromHour": 1540018800,
+        "toHour": 1540026000,
+        "updatedTimestamp": 1540021800,
+        "temperatureC": 19.5,
+        "dewpointTemperatureC": 18.2,
+        "humidityPercent": 92,
+        "windSpeedMps": 0,
+        "windGustMps": 1.11,
         "pressureHPA": null
       }
     ]
@@ -506,15 +484,15 @@
     },
     "weather": [
       {
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "updatedTimestamp": 1539866400,
-        "temperatureC": 16.8,
-        "dewpointTemperatureC": 16.6,
-        "humidityPercent": 99,
-        "windDirectionDeg": 45,
-        "windSpeedMps": 1.11,
-        "windGustMps": 1.11,
+        "fromHour": 1540018800,
+        "toHour": 1540026000,
+        "updatedTimestamp": 1540021800,
+        "temperatureC": 20.1,
+        "dewpointTemperatureC": 18,
+        "humidityPercent": 88,
+        "windDirectionDeg": 180,
+        "windSpeedMps": 3.06,
+        "windGustMps": 3.61,
         "pressureHPA": null
       }
     ]
@@ -528,16 +506,16 @@
     },
     "weather": [
       {
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "updatedTimestamp": 1539866400,
-        "temperatureC": 17.9,
-        "dewpointTemperatureC": 16.6,
-        "humidityPercent": 92,
-        "windDirectionDeg": 112.5,
-        "windSpeedMps": 1.11,
-        "windGustMps": 1.67,
-        "pressureHPA": 1017.5
+        "fromHour": 1540018800,
+        "toHour": 1540026000,
+        "updatedTimestamp": 1540021800,
+        "temperatureC": 20.4,
+        "dewpointTemperatureC": 18,
+        "humidityPercent": 86,
+        "windDirectionDeg": 157.5,
+        "windSpeedMps": 2.5,
+        "windGustMps": 2.5,
+        "pressureHPA": 1011.7
       }
     ]
   },
@@ -550,15 +528,15 @@
     },
     "weather": [
       {
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "updatedTimestamp": 1539866400,
-        "temperatureC": 17.4,
-        "dewpointTemperatureC": 15.9,
-        "humidityPercent": 91,
-        "windDirectionDeg": 0,
-        "windSpeedMps": 2.5,
-        "windGustMps": 3.61,
+        "fromHour": 1540018800,
+        "toHour": 1540026000,
+        "updatedTimestamp": 1540021800,
+        "temperatureC": 18,
+        "dewpointTemperatureC": 16.3,
+        "humidityPercent": 90,
+        "windDirectionDeg": 22.5,
+        "windSpeedMps": 5.28,
+        "windGustMps": 5.56,
         "pressureHPA": null
       }
     ]
@@ -572,14 +550,15 @@
     },
     "weather": [
       {
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "updatedTimestamp": 1539866400,
-        "temperatureC": 16.5,
-        "dewpointTemperatureC": 15.5,
-        "humidityPercent": 94,
-        "windSpeedMps": 0,
-        "windGustMps": 0,
+        "fromHour": 1540018800,
+        "toHour": 1540026000,
+        "updatedTimestamp": 1540021800,
+        "temperatureC": 19.2,
+        "dewpointTemperatureC": 17,
+        "humidityPercent": 87,
+        "windDirectionDeg": 157.5,
+        "windSpeedMps": 1.94,
+        "windGustMps": 1.94,
         "pressureHPA": null
       }
     ]
@@ -593,14 +572,15 @@
     },
     "weather": [
       {
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "updatedTimestamp": 1539866400,
-        "temperatureC": 17.2,
-        "dewpointTemperatureC": 16.2,
-        "humidityPercent": 94,
-        "windSpeedMps": 0,
-        "windGustMps": 0,
+        "fromHour": 1540018800,
+        "toHour": 1540026000,
+        "updatedTimestamp": 1540021800,
+        "temperatureC": 19.5,
+        "dewpointTemperatureC": 17.8,
+        "humidityPercent": 90,
+        "windDirectionDeg": 157.5,
+        "windSpeedMps": 1.94,
+        "windGustMps": 3.06,
         "pressureHPA": null
       }
     ]
@@ -614,15 +594,15 @@
     },
     "weather": [
       {
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "updatedTimestamp": 1539866400,
+        "fromHour": 1540018800,
+        "toHour": 1540026000,
+        "updatedTimestamp": 1540021800,
         "temperatureC": null,
         "dewpointTemperatureC": null,
         "humidityPercent": null,
-        "windDirectionDeg": 90,
-        "windSpeedMps": 1.94,
-        "windGustMps": 1.94,
+        "windDirectionDeg": 67.5,
+        "windSpeedMps": 7.22,
+        "windGustMps": 8.89,
         "pressureHPA": null
       }
     ]
@@ -636,15 +616,15 @@
     },
     "weather": [
       {
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "updatedTimestamp": 1539866400,
-        "temperatureC": 18.1,
-        "dewpointTemperatureC": 17.4,
-        "humidityPercent": 96,
-        "windDirectionDeg": 22.5,
-        "windSpeedMps": 0.56,
-        "windGustMps": 0.56,
+        "fromHour": 1540018800,
+        "toHour": 1540026000,
+        "updatedTimestamp": 1540021800,
+        "temperatureC": 20,
+        "dewpointTemperatureC": 18.4,
+        "humidityPercent": 90,
+        "windDirectionDeg": 337.5,
+        "windSpeedMps": 3.06,
+        "windGustMps": 3.61,
         "pressureHPA": null
       }
     ]
@@ -658,16 +638,16 @@
     },
     "weather": [
       {
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "updatedTimestamp": 1539866400,
-        "temperatureC": 18,
-        "dewpointTemperatureC": 16.9,
-        "humidityPercent": 93,
-        "windDirectionDeg": 90,
-        "windSpeedMps": 1.94,
-        "windGustMps": 2.5,
-        "pressureHPA": 1017.7
+        "fromHour": 1540018800,
+        "toHour": 1540026000,
+        "updatedTimestamp": 1540021800,
+        "temperatureC": 19.4,
+        "dewpointTemperatureC": 17.5,
+        "humidityPercent": 89,
+        "windDirectionDeg": 202.5,
+        "windSpeedMps": 4.72,
+        "windGustMps": 5.56,
+        "pressureHPA": 1012.2
       }
     ]
   },
@@ -680,15 +660,15 @@
     },
     "weather": [
       {
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "updatedTimestamp": 1539866400,
-        "temperatureC": 16.3,
-        "dewpointTemperatureC": 15.6,
-        "humidityPercent": 96,
-        "windDirectionDeg": 22.5,
-        "windSpeedMps": 1.11,
-        "windGustMps": 1.11,
+        "fromHour": 1540018800,
+        "toHour": 1540026000,
+        "updatedTimestamp": 1540021800,
+        "temperatureC": 18.4,
+        "dewpointTemperatureC": 17.5,
+        "humidityPercent": 94,
+        "windDirectionDeg": 202.5,
+        "windSpeedMps": 1.94,
+        "windGustMps": 3.06,
         "pressureHPA": null
       }
     ]
@@ -702,12 +682,12 @@
     },
     "weather": [
       {
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "updatedTimestamp": 1539866400,
-        "temperatureC": 17.3,
-        "dewpointTemperatureC": 17.3,
-        "humidityPercent": 100,
+        "fromHour": 1540018800,
+        "toHour": 1540026000,
+        "updatedTimestamp": 1540021800,
+        "temperatureC": 19.6,
+        "dewpointTemperatureC": 17.5,
+        "humidityPercent": 88,
         "windSpeedMps": 0,
         "windGustMps": 0,
         "pressureHPA": null
@@ -723,13 +703,14 @@
     },
     "weather": [
       {
-        "fromHour": 1539813600,
-        "toHour": 1539820800,
-        "updatedTimestamp": 1539813600,
-        "temperatureC": 14,
-        "dewpointTemperatureC": 11.9,
-        "humidityPercent": 87,
-        "windSpeedMps": 0,
+        "fromHour": 1539986400,
+        "toHour": 1539993600,
+        "updatedTimestamp": 1539986400,
+        "temperatureC": 19.8,
+        "dewpointTemperatureC": 12.1,
+        "humidityPercent": 61,
+        "windDirectionDeg": 270,
+        "windSpeedMps": 8.33,
         "windGustMps": null,
         "pressureHPA": null
       }
@@ -744,15 +725,15 @@
     },
     "weather": [
       {
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "updatedTimestamp": 1539866400,
+        "fromHour": 1540018800,
+        "toHour": 1540026000,
+        "updatedTimestamp": 1540021800,
         "temperatureC": null,
         "dewpointTemperatureC": null,
         "humidityPercent": null,
-        "windDirectionDeg": 45,
-        "windSpeedMps": 3.61,
-        "windGustMps": 4.17,
+        "windDirectionDeg": 112.5,
+        "windSpeedMps": 4.72,
+        "windGustMps": 5.56,
         "pressureHPA": null
       }
     ]
@@ -766,14 +747,15 @@
     },
     "weather": [
       {
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "updatedTimestamp": 1539866400,
-        "temperatureC": 17.2,
-        "dewpointTemperatureC": 16.4,
-        "humidityPercent": 95,
-        "windSpeedMps": 0,
-        "windGustMps": 0,
+        "fromHour": 1540018800,
+        "toHour": 1540026000,
+        "updatedTimestamp": 1540021800,
+        "temperatureC": 18.4,
+        "dewpointTemperatureC": 17,
+        "humidityPercent": 91,
+        "windDirectionDeg": 157.5,
+        "windSpeedMps": 1.11,
+        "windGustMps": 1.67,
         "pressureHPA": null
       }
     ]
@@ -787,15 +769,15 @@
     },
     "weather": [
       {
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "updatedTimestamp": 1539866400,
+        "fromHour": 1540018800,
+        "toHour": 1540026000,
+        "updatedTimestamp": 1540021800,
         "temperatureC": null,
         "dewpointTemperatureC": null,
         "humidityPercent": null,
-        "windDirectionDeg": 22.5,
-        "windSpeedMps": 1.94,
-        "windGustMps": 2.5,
+        "windDirectionDeg": 90,
+        "windSpeedMps": 2.5,
+        "windGustMps": 3.06,
         "pressureHPA": null
       }
     ]
@@ -809,16 +791,16 @@
     },
     "weather": [
       {
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "updatedTimestamp": 1539865800,
-        "temperatureC": 17.3,
-        "dewpointTemperatureC": 15.9,
-        "humidityPercent": 91,
-        "windDirectionDeg": 22.5,
-        "windSpeedMps": 2.5,
-        "windGustMps": 3.61,
-        "pressureHPA": 1017.8
+        "fromHour": 1540018800,
+        "toHour": 1540026000,
+        "updatedTimestamp": 1540020600,
+        "temperatureC": 18.9,
+        "dewpointTemperatureC": 17,
+        "humidityPercent": 89,
+        "windDirectionDeg": 45,
+        "windSpeedMps": 4.17,
+        "windGustMps": 6.67,
+        "pressureHPA": 1011.5
       }
     ]
   },
@@ -831,13 +813,13 @@
     },
     "weather": [
       {
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "updatedTimestamp": 1539866400,
-        "temperatureC": 17.4,
-        "dewpointTemperatureC": 17.7,
-        "humidityPercent": null,
-        "windDirectionDeg": 45,
+        "fromHour": 1540018800,
+        "toHour": 1540026000,
+        "updatedTimestamp": 1540021800,
+        "temperatureC": 17.9,
+        "dewpointTemperatureC": 16.2,
+        "humidityPercent": 90,
+        "windDirectionDeg": 292.5,
         "windSpeedMps": 1.67,
         "windGustMps": 1.94,
         "pressureHPA": null
@@ -853,15 +835,15 @@
     },
     "weather": [
       {
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "updatedTimestamp": 1539866400,
-        "temperatureC": 14.2,
-        "dewpointTemperatureC": 12.4,
-        "humidityPercent": 89,
-        "windDirectionDeg": 0,
+        "fromHour": 1540018800,
+        "toHour": 1540026000,
+        "updatedTimestamp": 1540021800,
+        "temperatureC": 16.3,
+        "dewpointTemperatureC": 9,
+        "humidityPercent": 62,
+        "windDirectionDeg": 270,
         "windSpeedMps": 3.61,
-        "windGustMps": 4.17,
+        "windGustMps": 5.28,
         "pressureHPA": null
       }
     ]
@@ -874,36 +856,15 @@
     },
     "weather": [
       {
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "updatedTimestamp": 1539866400,
-        "temperatureC": 18.6,
-        "dewpointTemperatureC": 12.8,
+        "fromHour": 1540018800,
+        "toHour": 1540026000,
+        "updatedTimestamp": 1540021800,
+        "temperatureC": 20.2,
+        "dewpointTemperatureC": 14.3,
         "humidityPercent": 69,
-        "windDirectionDeg": 45,
-        "windSpeedMps": 5.28,
-        "windGustMps": 6.11,
-        "pressureHPA": null
-      }
-    ]
-  },
-  {
-    "location": {
-      "name": "Newcastle University",
-      "lat": -27.75796,
-      "lng": 29.9318
-    },
-    "weather": [
-      {
-        "fromHour": 1539813600,
-        "toHour": 1539820800,
-        "updatedTimestamp": 1539813600,
-        "temperatureC": 20.8,
-        "dewpointTemperatureC": 16.2,
-        "humidityPercent": 75,
-        "windDirectionDeg": 0,
+        "windDirectionDeg": 67.5,
         "windSpeedMps": 2.5,
-        "windGustMps": null,
+        "windGustMps": 3.61,
         "pressureHPA": null
       }
     ]
@@ -917,15 +878,15 @@
     },
     "weather": [
       {
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "updatedTimestamp": 1539866400,
-        "temperatureC": 17.6,
-        "dewpointTemperatureC": 17.6,
-        "humidityPercent": 100,
-        "windDirectionDeg": 22.5,
-        "windSpeedMps": 7.78,
-        "windGustMps": 8.33,
+        "fromHour": 1540018800,
+        "toHour": 1540026000,
+        "updatedTimestamp": 1540021800,
+        "temperatureC": 18.5,
+        "dewpointTemperatureC": 18.3,
+        "humidityPercent": 99,
+        "windDirectionDeg": 292.5,
+        "windSpeedMps": 2.5,
+        "windGustMps": 4.17,
         "pressureHPA": null
       }
     ]
@@ -939,15 +900,15 @@
     },
     "weather": [
       {
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "updatedTimestamp": 1539866400,
+        "fromHour": 1540018800,
+        "toHour": 1540026000,
+        "updatedTimestamp": 1540021800,
         "temperatureC": null,
         "dewpointTemperatureC": null,
         "humidityPercent": null,
-        "windDirectionDeg": 22.5,
-        "windSpeedMps": 4.17,
-        "windGustMps": 4.72,
+        "windDirectionDeg": 112.5,
+        "windSpeedMps": 3.06,
+        "windGustMps": 3.61,
         "pressureHPA": null
       }
     ]
@@ -961,12 +922,12 @@
     },
     "weather": [
       {
-        "fromHour": 1539813600,
-        "toHour": 1539820800,
-        "updatedTimestamp": 1539813600,
-        "temperatureC": 16.5,
-        "dewpointTemperatureC": 15.3,
-        "humidityPercent": 93,
+        "fromHour": 1539986400,
+        "toHour": 1539993600,
+        "updatedTimestamp": 1539986400,
+        "temperatureC": 19.7,
+        "dewpointTemperatureC": 15.5,
+        "humidityPercent": 77,
         "windSpeedMps": 0,
         "windGustMps": null,
         "pressureHPA": null
@@ -982,15 +943,15 @@
     },
     "weather": [
       {
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "updatedTimestamp": 1539866400,
-        "temperatureC": 17.5,
-        "dewpointTemperatureC": 17.5,
-        "humidityPercent": 100,
-        "windDirectionDeg": 45,
-        "windSpeedMps": 1.67,
-        "windGustMps": 1.94,
+        "fromHour": 1540018800,
+        "toHour": 1540026000,
+        "updatedTimestamp": 1540021800,
+        "temperatureC": 18.6,
+        "dewpointTemperatureC": 17.9,
+        "humidityPercent": 96,
+        "windDirectionDeg": 337.5,
+        "windSpeedMps": 1.11,
+        "windGustMps": 1.67,
         "pressureHPA": null
       }
     ]
@@ -1003,15 +964,15 @@
     },
     "weather": [
       {
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "updatedTimestamp": 1539866400,
-        "temperatureC": 20.4,
-        "dewpointTemperatureC": 17.2,
-        "humidityPercent": 82,
-        "windDirectionDeg": 112.5,
-        "windSpeedMps": 1.67,
-        "windGustMps": 1.94,
+        "fromHour": 1540018800,
+        "toHour": 1540026000,
+        "updatedTimestamp": 1540021800,
+        "temperatureC": 22.4,
+        "dewpointTemperatureC": 15.9,
+        "humidityPercent": 66,
+        "windDirectionDeg": 45,
+        "windSpeedMps": 1.94,
+        "windGustMps": 2.5,
         "pressureHPA": null
       }
     ]
@@ -1024,16 +985,16 @@
     },
     "weather": [
       {
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "updatedTimestamp": 1539866400,
-        "temperatureC": 20.9,
-        "dewpointTemperatureC": 18.2,
-        "humidityPercent": 84,
-        "windDirectionDeg": 90,
-        "windSpeedMps": 1.94,
-        "windGustMps": 3.06,
-        "pressureHPA": 1020.1
+        "fromHour": 1540018800,
+        "toHour": 1540026000,
+        "updatedTimestamp": 1540021800,
+        "temperatureC": 21.2,
+        "dewpointTemperatureC": 16.8,
+        "humidityPercent": 76,
+        "windDirectionDeg": 0,
+        "windSpeedMps": 7.78,
+        "windGustMps": 8.33,
+        "pressureHPA": 1014.3
       }
     ]
   },
@@ -1046,16 +1007,16 @@
     },
     "weather": [
       {
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "updatedTimestamp": 1539866400,
-        "temperatureC": 20.2,
-        "dewpointTemperatureC": 17.4,
-        "humidityPercent": 84,
-        "windDirectionDeg": 90,
-        "windSpeedMps": 2.5,
-        "windGustMps": 3.06,
-        "pressureHPA": 1019.8
+        "fromHour": 1540008000,
+        "toHour": 1540015200,
+        "updatedTimestamp": 1540009800,
+        "temperatureC": 28.7,
+        "dewpointTemperatureC": 15.9,
+        "humidityPercent": 45,
+        "windDirectionDeg": 45,
+        "windSpeedMps": 3.61,
+        "windGustMps": 6.67,
+        "pressureHPA": 1013.1
       }
     ]
   },
@@ -1068,16 +1029,16 @@
     },
     "weather": [
       {
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "updatedTimestamp": 1539866400,
-        "temperatureC": 19.8,
-        "dewpointTemperatureC": 17,
-        "humidityPercent": 84,
-        "windDirectionDeg": 90,
-        "windSpeedMps": 3.06,
-        "windGustMps": 3.61,
-        "pressureHPA": 1020.1
+        "fromHour": 1540018800,
+        "toHour": 1540026000,
+        "updatedTimestamp": 1540021800,
+        "temperatureC": 22.3,
+        "dewpointTemperatureC": 15.9,
+        "humidityPercent": 67,
+        "windDirectionDeg": 45,
+        "windSpeedMps": 5.56,
+        "windGustMps": 7.22,
+        "pressureHPA": 1014.2
       }
     ]
   },
@@ -1090,15 +1051,15 @@
     },
     "weather": [
       {
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "updatedTimestamp": 1539866400,
+        "fromHour": 1540018800,
+        "toHour": 1540026000,
+        "updatedTimestamp": 1540021800,
         "temperatureC": null,
         "dewpointTemperatureC": null,
         "humidityPercent": null,
-        "windDirectionDeg": 90,
-        "windSpeedMps": 4.17,
-        "windGustMps": 4.72,
+        "windDirectionDeg": 22.5,
+        "windSpeedMps": 5.56,
+        "windGustMps": 6.67,
         "pressureHPA": null
       }
     ]
@@ -1112,14 +1073,15 @@
     },
     "weather": [
       {
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "updatedTimestamp": 1539865800,
-        "temperatureC": 19,
-        "dewpointTemperatureC": 17.5,
-        "humidityPercent": 91,
-        "windSpeedMps": 0,
-        "windGustMps": 0,
+        "fromHour": 1540018800,
+        "toHour": 1540026000,
+        "updatedTimestamp": 1540020600,
+        "temperatureC": 21.9,
+        "dewpointTemperatureC": 15,
+        "humidityPercent": 65,
+        "windDirectionDeg": 22.5,
+        "windSpeedMps": 1.94,
+        "windGustMps": 4.17,
         "pressureHPA": null
       }
     ]
@@ -1133,14 +1095,15 @@
     },
     "weather": [
       {
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "updatedTimestamp": 1539866400,
-        "temperatureC": 20,
-        "dewpointTemperatureC": 17.4,
-        "humidityPercent": 85,
-        "windSpeedMps": 0,
-        "windGustMps": 0,
+        "fromHour": 1540018800,
+        "toHour": 1540026000,
+        "updatedTimestamp": 1540021800,
+        "temperatureC": 23.9,
+        "dewpointTemperatureC": 16.6,
+        "humidityPercent": 63,
+        "windDirectionDeg": 45,
+        "windSpeedMps": 2.5,
+        "windGustMps": 3.06,
         "pressureHPA": null
       }
     ]
@@ -1154,16 +1117,16 @@
     },
     "weather": [
       {
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "updatedTimestamp": 1539866400,
-        "temperatureC": 20.5,
-        "dewpointTemperatureC": 19,
-        "humidityPercent": 91,
-        "windDirectionDeg": 112.5,
-        "windSpeedMps": 7.22,
-        "windGustMps": 8.33,
-        "pressureHPA": 1020.2
+        "fromHour": 1540018800,
+        "toHour": 1540026000,
+        "updatedTimestamp": 1540021800,
+        "temperatureC": 20.8,
+        "dewpointTemperatureC": 17.2,
+        "humidityPercent": 80,
+        "windDirectionDeg": 45,
+        "windSpeedMps": 5.28,
+        "windGustMps": 6.11,
+        "pressureHPA": 1015
       }
     ]
   },
@@ -1176,16 +1139,16 @@
     },
     "weather": [
       {
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "updatedTimestamp": 1539866340,
-        "temperatureC": 21.2,
+        "fromHour": 1540018800,
+        "toHour": 1540026000,
+        "updatedTimestamp": 1540021740,
+        "temperatureC": 22.5,
         "dewpointTemperatureC": 17,
-        "humidityPercent": 77,
-        "windDirectionDeg": 67.5,
-        "windSpeedMps": 4.17,
-        "windGustMps": 5.28,
-        "pressureHPA": 1020.9
+        "humidityPercent": 71,
+        "windDirectionDeg": 0,
+        "windSpeedMps": 6.11,
+        "windGustMps": 6.67,
+        "pressureHPA": 1014.5
       }
     ]
   },
@@ -1198,15 +1161,15 @@
     },
     "weather": [
       {
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "updatedTimestamp": 1539866400,
-        "temperatureC": 19.9,
-        "dewpointTemperatureC": 17.1,
-        "humidityPercent": 84,
-        "windDirectionDeg": 112.5,
-        "windSpeedMps": 3.61,
-        "windGustMps": 4.72,
+        "fromHour": 1540018800,
+        "toHour": 1540026000,
+        "updatedTimestamp": 1540021800,
+        "temperatureC": 25.4,
+        "dewpointTemperatureC": 17.3,
+        "humidityPercent": 61,
+        "windDirectionDeg": 67.5,
+        "windSpeedMps": 4.72,
+        "windGustMps": 5.56,
         "pressureHPA": null
       }
     ]
@@ -1219,16 +1182,16 @@
     },
     "weather": [
       {
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "updatedTimestamp": 1539866400,
-        "temperatureC": 20.9,
-        "dewpointTemperatureC": 19.7,
-        "humidityPercent": 93,
-        "windDirectionDeg": 90,
-        "windSpeedMps": 6.67,
-        "windGustMps": 7.22,
-        "pressureHPA": 1020.6
+        "fromHour": 1540018800,
+        "toHour": 1540026000,
+        "updatedTimestamp": 1540021800,
+        "temperatureC": 22.1,
+        "dewpointTemperatureC": 17,
+        "humidityPercent": 73,
+        "windDirectionDeg": 22.5,
+        "windSpeedMps": 7.78,
+        "windGustMps": 8.89,
+        "pressureHPA": 1014.4
       }
     ]
   },
@@ -1241,15 +1204,15 @@
     },
     "weather": [
       {
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "updatedTimestamp": 1539866400,
-        "temperatureC": 19.5,
-        "dewpointTemperatureC": 18.5,
-        "humidityPercent": 94,
-        "windDirectionDeg": 157.5,
-        "windSpeedMps": 1.11,
-        "windGustMps": 1.11,
+        "fromHour": 1540018800,
+        "toHour": 1540026000,
+        "updatedTimestamp": 1540021800,
+        "temperatureC": 23.4,
+        "dewpointTemperatureC": 16.6,
+        "humidityPercent": 65,
+        "windDirectionDeg": 45,
+        "windSpeedMps": 0.56,
+        "windGustMps": 0.56,
         "pressureHPA": null
       }
     ]
@@ -1263,15 +1226,15 @@
     },
     "weather": [
       {
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "updatedTimestamp": 1539866400,
+        "fromHour": 1540018800,
+        "toHour": 1540026000,
+        "updatedTimestamp": 1540021800,
         "temperatureC": null,
         "dewpointTemperatureC": null,
         "humidityPercent": null,
-        "windDirectionDeg": 90,
-        "windSpeedMps": 5.56,
-        "windGustMps": 5.56,
+        "windDirectionDeg": 22.5,
+        "windSpeedMps": 7.22,
+        "windGustMps": 7.78,
         "pressureHPA": null
       }
     ]
@@ -1285,16 +1248,16 @@
     },
     "weather": [
       {
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "updatedTimestamp": 1539866400,
-        "temperatureC": 18,
-        "dewpointTemperatureC": 15.4,
-        "humidityPercent": 85,
-        "windDirectionDeg": 90,
+        "fromHour": 1540018800,
+        "toHour": 1540026000,
+        "updatedTimestamp": 1540021800,
+        "temperatureC": 24.2,
+        "dewpointTemperatureC": 14.6,
+        "humidityPercent": 55,
+        "windDirectionDeg": 22.5,
         "windSpeedMps": 4.17,
-        "windGustMps": 4.72,
-        "pressureHPA": 1020.6
+        "windGustMps": 5.28,
+        "pressureHPA": 1014.7
       }
     ]
   },
@@ -1307,14 +1270,14 @@
     },
     "weather": [
       {
-        "fromHour": 1539838800,
-        "toHour": 1539846000,
-        "updatedTimestamp": 1539838800,
-        "temperatureC": 23.4,
-        "dewpointTemperatureC": 17.1,
-        "humidityPercent": 67,
-        "windDirectionDeg": 90,
-        "windSpeedMps": 3.06,
+        "fromHour": 1539990000,
+        "toHour": 1539997200,
+        "updatedTimestamp": 1539990000,
+        "temperatureC": 23,
+        "dewpointTemperatureC": 15.5,
+        "humidityPercent": 62,
+        "windDirectionDeg": 0,
+        "windSpeedMps": 1.11,
         "windGustMps": null,
         "pressureHPA": null
       }
@@ -1329,14 +1292,15 @@
     },
     "weather": [
       {
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "updatedTimestamp": 1539866400,
-        "temperatureC": 18.5,
-        "dewpointTemperatureC": 17.1,
-        "humidityPercent": 91,
-        "windSpeedMps": 0,
-        "windGustMps": 0,
+        "fromHour": 1540018800,
+        "toHour": 1540026000,
+        "updatedTimestamp": 1540021800,
+        "temperatureC": 21.5,
+        "dewpointTemperatureC": 15.3,
+        "humidityPercent": 68,
+        "windDirectionDeg": 67.5,
+        "windSpeedMps": 1.67,
+        "windGustMps": 1.94,
         "pressureHPA": null
       }
     ]
@@ -1350,16 +1314,16 @@
     },
     "weather": [
       {
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "updatedTimestamp": 1539866400,
-        "temperatureC": 17.9,
-        "dewpointTemperatureC": 15.7,
-        "humidityPercent": 87,
-        "windDirectionDeg": 67.5,
-        "windSpeedMps": 5.28,
-        "windGustMps": 6.11,
-        "pressureHPA": 1019.8
+        "fromHour": 1540018800,
+        "toHour": 1540026000,
+        "updatedTimestamp": 1540021800,
+        "temperatureC": 25.7,
+        "dewpointTemperatureC": 14.2,
+        "humidityPercent": 49,
+        "windDirectionDeg": 45,
+        "windSpeedMps": 5.56,
+        "windGustMps": 6.67,
+        "pressureHPA": 1013.9
       }
     ]
   },
@@ -1372,16 +1336,16 @@
     },
     "weather": [
       {
-        "fromHour": 1539817200,
-        "toHour": 1539824400,
-        "updatedTimestamp": 1539817200,
-        "temperatureC": 24.7,
-        "dewpointTemperatureC": 19.9,
-        "humidityPercent": 74,
+        "fromHour": 1539990000,
+        "toHour": 1539997200,
+        "updatedTimestamp": 1539990000,
+        "temperatureC": 23.6,
+        "dewpointTemperatureC": 18.4,
+        "humidityPercent": 72,
         "windDirectionDeg": 135,
-        "windSpeedMps": 7.78,
+        "windSpeedMps": 4.17,
         "windGustMps": null,
-        "pressureHPA": 1018.3
+        "pressureHPA": 1018.4
       }
     ]
   },
@@ -1394,16 +1358,16 @@
     },
     "weather": [
       {
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "updatedTimestamp": 1539866400,
-        "temperatureC": 21.3,
-        "dewpointTemperatureC": 17.3,
-        "humidityPercent": 78,
-        "windDirectionDeg": 90,
-        "windSpeedMps": 5.56,
-        "windGustMps": 6.11,
-        "pressureHPA": 1020.1
+        "fromHour": 1540018800,
+        "toHour": 1540026000,
+        "updatedTimestamp": 1540021800,
+        "temperatureC": 22.1,
+        "dewpointTemperatureC": 16.6,
+        "humidityPercent": 71,
+        "windDirectionDeg": 22.5,
+        "windSpeedMps": 8.89,
+        "windGustMps": 8.89,
+        "pressureHPA": 1014.4
       }
     ]
   },
@@ -1416,15 +1380,15 @@
     },
     "weather": [
       {
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "updatedTimestamp": 1539866400,
+        "fromHour": 1540018800,
+        "toHour": 1540026000,
+        "updatedTimestamp": 1540021800,
         "temperatureC": null,
         "dewpointTemperatureC": null,
         "humidityPercent": null,
-        "windDirectionDeg": 67.5,
-        "windSpeedMps": 4.17,
-        "windGustMps": 4.17,
+        "windDirectionDeg": 22.5,
+        "windSpeedMps": 6.67,
+        "windGustMps": 7.22,
         "pressureHPA": null
       }
     ]
@@ -1438,16 +1402,16 @@
     },
     "weather": [
       {
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "updatedTimestamp": 1539866400,
-        "temperatureC": 21.3,
-        "dewpointTemperatureC": 18.7,
-        "humidityPercent": 85,
-        "windDirectionDeg": 90,
-        "windSpeedMps": 4.72,
-        "windGustMps": 6.11,
-        "pressureHPA": 1019.7
+        "fromHour": 1540018800,
+        "toHour": 1540026000,
+        "updatedTimestamp": 1540021800,
+        "temperatureC": 21.7,
+        "dewpointTemperatureC": 17.1,
+        "humidityPercent": 75,
+        "windDirectionDeg": 45,
+        "windSpeedMps": 5.28,
+        "windGustMps": 5.56,
+        "pressureHPA": 1014.5
       }
     ]
   },
@@ -1460,16 +1424,16 @@
     },
     "weather": [
       {
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "updatedTimestamp": 1539866400,
-        "temperatureC": 21.4,
-        "dewpointTemperatureC": 19,
-        "humidityPercent": 86,
-        "windDirectionDeg": 112.5,
-        "windSpeedMps": 3.06,
-        "windGustMps": 3.61,
-        "pressureHPA": 1019.6
+        "fromHour": 1540018800,
+        "toHour": 1540026000,
+        "updatedTimestamp": 1540021800,
+        "temperatureC": 21.9,
+        "dewpointTemperatureC": 18.1,
+        "humidityPercent": 79,
+        "windDirectionDeg": 45,
+        "windSpeedMps": 1.94,
+        "windGustMps": 2.5,
+        "pressureHPA": 1014.6
       }
     ]
   },
@@ -1482,15 +1446,15 @@
     },
     "weather": [
       {
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "updatedTimestamp": 1539866400,
-        "temperatureC": 19.3,
-        "dewpointTemperatureC": 17.9,
-        "humidityPercent": 92,
-        "windDirectionDeg": 135,
-        "windSpeedMps": 0.56,
-        "windGustMps": 0.56,
+        "fromHour": 1540018800,
+        "toHour": 1540026000,
+        "updatedTimestamp": 1540021800,
+        "temperatureC": 21.8,
+        "dewpointTemperatureC": 16.7,
+        "humidityPercent": 73,
+        "windDirectionDeg": 67.5,
+        "windSpeedMps": 2.5,
+        "windGustMps": 3.06,
         "pressureHPA": null
       }
     ]
@@ -1504,16 +1468,16 @@
     },
     "weather": [
       {
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "updatedTimestamp": 1539866400,
-        "temperatureC": 16.1,
-        "dewpointTemperatureC": 15.9,
-        "humidityPercent": 99,
-        "windDirectionDeg": 90,
-        "windSpeedMps": 8.89,
-        "windGustMps": 9.72,
-        "pressureHPA": 1021.3
+        "fromHour": 1540018800,
+        "toHour": 1540026000,
+        "updatedTimestamp": 1540021800,
+        "temperatureC": 23.1,
+        "dewpointTemperatureC": 14.4,
+        "humidityPercent": 58,
+        "windDirectionDeg": 67.5,
+        "windSpeedMps": 3.61,
+        "windGustMps": 4.72,
+        "pressureHPA": 1016.5
       }
     ]
   },
@@ -1526,16 +1490,16 @@
     },
     "weather": [
       {
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "updatedTimestamp": 1539866400,
-        "temperatureC": 17.2,
-        "dewpointTemperatureC": 14.6,
-        "humidityPercent": 85,
-        "windDirectionDeg": 90,
-        "windSpeedMps": 3.61,
-        "windGustMps": 5.28,
-        "pressureHPA": 1020.1
+        "fromHour": 1540018800,
+        "toHour": 1540026000,
+        "updatedTimestamp": 1540021800,
+        "temperatureC": 23.8,
+        "dewpointTemperatureC": 15.3,
+        "humidityPercent": 59,
+        "windDirectionDeg": 45,
+        "windSpeedMps": 6.67,
+        "windGustMps": 7.78,
+        "pressureHPA": 1013.7
       }
     ]
   },
@@ -1548,16 +1512,16 @@
     },
     "weather": [
       {
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "updatedTimestamp": 1539866400,
-        "temperatureC": 18.1,
-        "dewpointTemperatureC": 16.4,
-        "humidityPercent": 90,
-        "windDirectionDeg": 90,
-        "windSpeedMps": 8.89,
-        "windGustMps": 10.28,
-        "pressureHPA": 1019.6
+        "fromHour": 1540018800,
+        "toHour": 1540026000,
+        "updatedTimestamp": 1540021800,
+        "temperatureC": 25.4,
+        "dewpointTemperatureC": 15.2,
+        "humidityPercent": 53,
+        "windDirectionDeg": 67.5,
+        "windSpeedMps": 4.72,
+        "windGustMps": 6.11,
+        "pressureHPA": 1014.4
       }
     ]
   },
@@ -1569,16 +1533,16 @@
     },
     "weather": [
       {
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "updatedTimestamp": 1539866400,
-        "temperatureC": 12.8,
-        "dewpointTemperatureC": 8.5,
-        "humidityPercent": 75,
-        "windDirectionDeg": 180,
-        "windSpeedMps": 1.94,
-        "windGustMps": 3.06,
-        "pressureHPA": 1015.1
+        "fromHour": 1540018800,
+        "toHour": 1540026000,
+        "updatedTimestamp": 1540021800,
+        "temperatureC": 18.8,
+        "dewpointTemperatureC": 10.4,
+        "humidityPercent": 58,
+        "windDirectionDeg": 315,
+        "windSpeedMps": 4.72,
+        "windGustMps": 6.67,
+        "pressureHPA": 1017.6
       }
     ]
   },
@@ -1590,16 +1554,16 @@
     },
     "weather": [
       {
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "updatedTimestamp": 1539866400,
-        "temperatureC": 11.6,
-        "dewpointTemperatureC": 9.6,
-        "humidityPercent": 87,
-        "windDirectionDeg": 225,
-        "windSpeedMps": 3.06,
-        "windGustMps": 3.61,
-        "pressureHPA": 1015.1
+        "fromHour": 1540018800,
+        "toHour": 1540026000,
+        "updatedTimestamp": 1540021800,
+        "temperatureC": 18,
+        "dewpointTemperatureC": 10.7,
+        "humidityPercent": 62,
+        "windDirectionDeg": 270,
+        "windSpeedMps": 5.56,
+        "windGustMps": 7.22,
+        "pressureHPA": 1017.5
       }
     ]
   },
@@ -1612,15 +1576,15 @@
     },
     "weather": [
       {
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "updatedTimestamp": 1539866400,
-        "temperatureC": 8,
+        "fromHour": 1540018800,
+        "toHour": 1540026000,
+        "updatedTimestamp": 1540021800,
+        "temperatureC": 14.7,
         "dewpointTemperatureC": null,
         "humidityPercent": null,
-        "windDirectionDeg": 225,
-        "windSpeedMps": 3.61,
-        "windGustMps": 4.72,
+        "windDirectionDeg": 270,
+        "windSpeedMps": 7.78,
+        "windGustMps": 10.83,
         "pressureHPA": null
       }
     ]
@@ -1634,16 +1598,16 @@
     },
     "weather": [
       {
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "updatedTimestamp": 1539866400,
-        "temperatureC": 14.9,
-        "dewpointTemperatureC": 8.6,
-        "humidityPercent": 66,
-        "windDirectionDeg": 225,
-        "windSpeedMps": 8.89,
-        "windGustMps": 11.39,
-        "pressureHPA": 1015.1
+        "fromHour": 1540018800,
+        "toHour": 1540026000,
+        "updatedTimestamp": 1540021800,
+        "temperatureC": 18.2,
+        "dewpointTemperatureC": 12.6,
+        "humidityPercent": 70,
+        "windDirectionDeg": 292.5,
+        "windSpeedMps": 7.22,
+        "windGustMps": 9.17,
+        "pressureHPA": 1017.6
       }
     ]
   },
@@ -1656,15 +1620,15 @@
     },
     "weather": [
       {
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "updatedTimestamp": 1539866400,
-        "temperatureC": 9.5,
-        "dewpointTemperatureC": 8.9,
-        "humidityPercent": 96,
-        "windDirectionDeg": 225,
-        "windSpeedMps": 3.61,
-        "windGustMps": 4.17,
+        "fromHour": 1540018800,
+        "toHour": 1540026000,
+        "updatedTimestamp": 1540021800,
+        "temperatureC": 15.8,
+        "dewpointTemperatureC": 11.7,
+        "humidityPercent": 76,
+        "windDirectionDeg": 247.5,
+        "windSpeedMps": 5.56,
+        "windGustMps": 7.78,
         "pressureHPA": null
       }
     ]
@@ -1678,14 +1642,14 @@
     },
     "weather": [
       {
-        "fromHour": 1539824400,
-        "toHour": 1539831600,
-        "updatedTimestamp": 1539824400,
-        "temperatureC": 17,
-        "dewpointTemperatureC": 13.5,
-        "humidityPercent": 80,
-        "windDirectionDeg": 315,
-        "windSpeedMps": 11.39,
+        "fromHour": 1539997200,
+        "toHour": 1540004400,
+        "updatedTimestamp": 1539997200,
+        "temperatureC": 16.5,
+        "dewpointTemperatureC": 14.8,
+        "humidityPercent": 90,
+        "windDirectionDeg": 0,
+        "windSpeedMps": 1.67,
         "windGustMps": null,
         "pressureHPA": null
       }
@@ -1700,16 +1664,16 @@
     },
     "weather": [
       {
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "updatedTimestamp": 1539866400,
-        "temperatureC": 12.4,
-        "dewpointTemperatureC": 9.2,
-        "humidityPercent": 81,
-        "windDirectionDeg": 180,
-        "windSpeedMps": 5.28,
-        "windGustMps": 6.11,
-        "pressureHPA": 1015.1
+        "fromHour": 1540018800,
+        "toHour": 1540026000,
+        "updatedTimestamp": 1540021800,
+        "temperatureC": 18.8,
+        "dewpointTemperatureC": 11.1,
+        "humidityPercent": 61,
+        "windDirectionDeg": 270,
+        "windSpeedMps": 6.67,
+        "windGustMps": 7.78,
+        "pressureHPA": 1017.4
       }
     ]
   },
@@ -1722,15 +1686,15 @@
     },
     "weather": [
       {
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "updatedTimestamp": 1539866400,
-        "temperatureC": 12.8,
-        "dewpointTemperatureC": 9.8,
+        "fromHour": 1540018800,
+        "toHour": 1540026000,
+        "updatedTimestamp": 1540021800,
+        "temperatureC": 17.5,
+        "dewpointTemperatureC": 14.5,
         "humidityPercent": 82,
-        "windDirectionDeg": 202.5,
-        "windSpeedMps": 3.06,
-        "windGustMps": 3.61,
+        "windDirectionDeg": 315,
+        "windSpeedMps": 7.22,
+        "windGustMps": 8.89,
         "pressureHPA": null
       }
     ]
@@ -1744,15 +1708,15 @@
     },
     "weather": [
       {
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "updatedTimestamp": 1539866400,
+        "fromHour": 1540018800,
+        "toHour": 1540026000,
+        "updatedTimestamp": 1540021800,
         "temperatureC": null,
         "dewpointTemperatureC": null,
         "humidityPercent": null,
-        "windDirectionDeg": 225,
-        "windSpeedMps": 7.22,
-        "windGustMps": 8.89,
+        "windDirectionDeg": 270,
+        "windSpeedMps": 5.56,
+        "windGustMps": 7.78,
         "pressureHPA": null
       }
     ]
@@ -1766,15 +1730,15 @@
     },
     "weather": [
       {
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "updatedTimestamp": 1539866400,
+        "fromHour": 1540018800,
+        "toHour": 1540026000,
+        "updatedTimestamp": 1540021800,
         "temperatureC": null,
         "dewpointTemperatureC": null,
         "humidityPercent": null,
-        "windDirectionDeg": 225,
-        "windSpeedMps": 9.72,
-        "windGustMps": 10.28,
+        "windDirectionDeg": 292.5,
+        "windSpeedMps": 6.67,
+        "windGustMps": 8.33,
         "pressureHPA": null
       }
     ]
@@ -1788,15 +1752,16 @@
     },
     "weather": [
       {
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "updatedTimestamp": 1539866400,
-        "temperatureC": 10,
-        "dewpointTemperatureC": 8.1,
-        "humidityPercent": 88,
-        "windSpeedMps": 1.94,
-        "windGustMps": 1.94,
-        "pressureHPA": 1015.1
+        "fromHour": 1540018800,
+        "toHour": 1540026000,
+        "updatedTimestamp": 1540021800,
+        "temperatureC": 17.5,
+        "dewpointTemperatureC": 12,
+        "humidityPercent": 70,
+        "windDirectionDeg": 270,
+        "windSpeedMps": 7.22,
+        "windGustMps": 8.33,
+        "pressureHPA": 1017.9
       }
     ]
   },
@@ -1809,16 +1774,16 @@
     },
     "weather": [
       {
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "updatedTimestamp": 1539866400,
-        "temperatureC": 13.9,
-        "dewpointTemperatureC": 8.1,
-        "humidityPercent": 68,
-        "windDirectionDeg": 225,
-        "windSpeedMps": 11.39,
-        "windGustMps": 12.78,
-        "pressureHPA": 1014.7
+        "fromHour": 1540018800,
+        "toHour": 1540026000,
+        "updatedTimestamp": 1540021800,
+        "temperatureC": 17.9,
+        "dewpointTemperatureC": 10.5,
+        "humidityPercent": 62,
+        "windDirectionDeg": 315,
+        "windSpeedMps": 9.17,
+        "windGustMps": 9.72,
+        "pressureHPA": 1017.3
       }
     ]
   },
@@ -1831,15 +1796,15 @@
     },
     "weather": [
       {
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "updatedTimestamp": 1539866400,
-        "temperatureC": 14,
-        "dewpointTemperatureC": 6.1,
-        "humidityPercent": 59,
-        "windDirectionDeg": 225,
-        "windSpeedMps": 7.22,
-        "windGustMps": 9.72,
+        "fromHour": 1540018800,
+        "toHour": 1540026000,
+        "updatedTimestamp": 1540021800,
+        "temperatureC": 18.3,
+        "dewpointTemperatureC": 11.6,
+        "humidityPercent": 65,
+        "windDirectionDeg": 292.5,
+        "windSpeedMps": 4.72,
+        "windGustMps": 5.56,
         "pressureHPA": null
       }
     ]
@@ -1852,16 +1817,16 @@
     },
     "weather": [
       {
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "updatedTimestamp": 1539866400,
-        "temperatureC": 16.9,
-        "dewpointTemperatureC": 7.3,
-        "humidityPercent": 53,
-        "windDirectionDeg": 45,
-        "windSpeedMps": 2.5,
-        "windGustMps": 3.06,
-        "pressureHPA": 1013.1
+        "fromHour": 1540018800,
+        "toHour": 1540026000,
+        "updatedTimestamp": 1540021800,
+        "temperatureC": 15.7,
+        "dewpointTemperatureC": 8.2,
+        "humidityPercent": 61,
+        "windDirectionDeg": 225,
+        "windSpeedMps": 4.17,
+        "windGustMps": 5.56,
+        "pressureHPA": 1020.4
       }
     ]
   },
@@ -1873,15 +1838,16 @@
     },
     "weather": [
       {
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "updatedTimestamp": 1539866400,
-        "temperatureC": 13.4,
-        "dewpointTemperatureC": 9.1,
-        "humidityPercent": 75,
-        "windSpeedMps": 0,
-        "windGustMps": 0,
-        "pressureHPA": 1013.6
+        "fromHour": 1540018800,
+        "toHour": 1540026000,
+        "updatedTimestamp": 1540021800,
+        "temperatureC": 16.1,
+        "dewpointTemperatureC": 7.9,
+        "humidityPercent": 58,
+        "windDirectionDeg": 247.5,
+        "windSpeedMps": 3.06,
+        "windGustMps": 3.61,
+        "pressureHPA": 1020.6
       }
     ]
   },
@@ -1893,15 +1859,16 @@
     },
     "weather": [
       {
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "updatedTimestamp": 1539866400,
-        "temperatureC": 14.3,
-        "dewpointTemperatureC": 8.3,
-        "humidityPercent": 67,
-        "windSpeedMps": 0,
-        "windGustMps": 0,
-        "pressureHPA": 1013.3
+        "fromHour": 1540018800,
+        "toHour": 1540026000,
+        "updatedTimestamp": 1540021800,
+        "temperatureC": 15.6,
+        "dewpointTemperatureC": 8.2,
+        "humidityPercent": 61,
+        "windDirectionDeg": 225,
+        "windSpeedMps": 5.56,
+        "windGustMps": 6.67,
+        "pressureHPA": 1020.6
       }
     ]
   },
@@ -1914,16 +1881,16 @@
     },
     "weather": [
       {
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "updatedTimestamp": 1539866400,
-        "temperatureC": 18.5,
-        "dewpointTemperatureC": 6,
-        "humidityPercent": 44,
-        "windDirectionDeg": 67.5,
-        "windSpeedMps": 3.61,
-        "windGustMps": 4.17,
-        "pressureHPA": 1013.3
+        "fromHour": 1540018800,
+        "toHour": 1540026000,
+        "updatedTimestamp": 1540021800,
+        "temperatureC": 16.9,
+        "dewpointTemperatureC": 7,
+        "humidityPercent": 52,
+        "windDirectionDeg": 225,
+        "windSpeedMps": 5.56,
+        "windGustMps": 6.11,
+        "pressureHPA": 1020.4
       }
     ]
   },
@@ -1936,16 +1903,16 @@
     },
     "weather": [
       {
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "updatedTimestamp": 1539866400,
-        "temperatureC": 11.7,
-        "dewpointTemperatureC": 9.4,
-        "humidityPercent": 86,
-        "windDirectionDeg": 0,
-        "windSpeedMps": 3.61,
-        "windGustMps": 4.17,
-        "pressureHPA": 1014.4
+        "fromHour": 1540018800,
+        "toHour": 1540026000,
+        "updatedTimestamp": 1540021800,
+        "temperatureC": 15.6,
+        "dewpointTemperatureC": 8.1,
+        "humidityPercent": 61,
+        "windDirectionDeg": 202.5,
+        "windSpeedMps": 5.28,
+        "windGustMps": 5.56,
+        "pressureHPA": 1020.6
       }
     ]
   },
@@ -1958,16 +1925,16 @@
     },
     "weather": [
       {
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "updatedTimestamp": 1539866400,
-        "temperatureC": 11.4,
-        "dewpointTemperatureC": 9.5,
-        "humidityPercent": 88,
-        "windDirectionDeg": 67.5,
-        "windSpeedMps": 5.28,
-        "windGustMps": 6.11,
-        "pressureHPA": 1013.2
+        "fromHour": 1540018800,
+        "toHour": 1540026000,
+        "updatedTimestamp": 1540021800,
+        "temperatureC": 13.4,
+        "dewpointTemperatureC": 8,
+        "humidityPercent": 70,
+        "windDirectionDeg": 247.5,
+        "windSpeedMps": 4.72,
+        "windGustMps": 5.56,
+        "pressureHPA": 1019.1
       }
     ]
   },
@@ -1980,14 +1947,14 @@
     },
     "weather": [
       {
-        "fromHour": 1539813600,
-        "toHour": 1539820800,
-        "updatedTimestamp": 1539815400,
-        "temperatureC": 10.4,
-        "dewpointTemperatureC": 9.8,
-        "humidityPercent": 96,
-        "windDirectionDeg": 225,
-        "windSpeedMps": 1.11,
+        "fromHour": 1539986400,
+        "toHour": 1539993600,
+        "updatedTimestamp": 1539988200,
+        "temperatureC": 12.7,
+        "dewpointTemperatureC": 7.5,
+        "humidityPercent": 70,
+        "windDirectionDeg": 202.5,
+        "windSpeedMps": 4.17,
         "windGustMps": null,
         "pressureHPA": null
       }
@@ -2002,16 +1969,16 @@
     },
     "weather": [
       {
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "updatedTimestamp": 1539866400,
-        "temperatureC": 12.6,
-        "dewpointTemperatureC": 8.1,
-        "humidityPercent": 74,
-        "windDirectionDeg": 90,
-        "windSpeedMps": 5.56,
-        "windGustMps": 6.11,
-        "pressureHPA": 1014.9
+        "fromHour": 1540018800,
+        "toHour": 1540026000,
+        "updatedTimestamp": 1540021800,
+        "temperatureC": 14.1,
+        "dewpointTemperatureC": 7.2,
+        "humidityPercent": 63,
+        "windDirectionDeg": 247.5,
+        "windSpeedMps": 3.61,
+        "windGustMps": 4.72,
+        "pressureHPA": 1019.7
       }
     ]
   },
@@ -2024,15 +1991,15 @@
     },
     "weather": [
       {
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "updatedTimestamp": 1539866400,
-        "temperatureC": 15.5,
-        "dewpointTemperatureC": 2.6,
-        "humidityPercent": 42,
-        "windDirectionDeg": 67.5,
-        "windSpeedMps": 3.06,
-        "windGustMps": 5.28,
+        "fromHour": 1540018800,
+        "toHour": 1540026000,
+        "updatedTimestamp": 1540021800,
+        "temperatureC": 10.1,
+        "dewpointTemperatureC": 6.2,
+        "humidityPercent": 77,
+        "windDirectionDeg": 225,
+        "windSpeedMps": 1.11,
+        "windGustMps": 1.67,
         "pressureHPA": null
       }
     ]
@@ -2046,13 +2013,14 @@
     },
     "weather": [
       {
-        "fromHour": 1539813600,
-        "toHour": 1539820800,
-        "updatedTimestamp": 1539815400,
-        "temperatureC": 13.9,
-        "dewpointTemperatureC": 11.7,
-        "humidityPercent": 86,
-        "windSpeedMps": 0,
+        "fromHour": 1539986400,
+        "toHour": 1539993600,
+        "updatedTimestamp": 1539988200,
+        "temperatureC": 15,
+        "dewpointTemperatureC": 10.9,
+        "humidityPercent": 76,
+        "windDirectionDeg": 225,
+        "windSpeedMps": 8.33,
         "windGustMps": null,
         "pressureHPA": null
       }
@@ -2067,15 +2035,15 @@
     },
     "weather": [
       {
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "updatedTimestamp": 1539866400,
-        "temperatureC": 16.2,
-        "dewpointTemperatureC": 7.1,
-        "humidityPercent": 55,
-        "windDirectionDeg": 90,
+        "fromHour": 1540018800,
+        "toHour": 1540026000,
+        "updatedTimestamp": 1540021800,
+        "temperatureC": 15.8,
+        "dewpointTemperatureC": 8.5,
+        "humidityPercent": 62,
+        "windDirectionDeg": 270,
         "windSpeedMps": 3.06,
-        "windGustMps": 3.61,
+        "windGustMps": 5.28,
         "pressureHPA": null
       }
     ]
@@ -2089,16 +2057,16 @@
     },
     "weather": [
       {
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "updatedTimestamp": 1539866400,
-        "temperatureC": 14.7,
-        "dewpointTemperatureC": 8.4,
-        "humidityPercent": 66,
-        "windDirectionDeg": 67.5,
-        "windSpeedMps": 3.06,
-        "windGustMps": 3.61,
-        "pressureHPA": 1015.1
+        "fromHour": 1540018800,
+        "toHour": 1540026000,
+        "updatedTimestamp": 1540021800,
+        "temperatureC": 16.2,
+        "dewpointTemperatureC": 3.5,
+        "humidityPercent": 42,
+        "windDirectionDeg": 247.5,
+        "windSpeedMps": 5.28,
+        "windGustMps": 5.56,
+        "pressureHPA": 1020
       }
     ]
   },
@@ -2111,16 +2079,16 @@
     },
     "weather": [
       {
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "updatedTimestamp": 1539866400,
-        "temperatureC": 12.5,
-        "dewpointTemperatureC": 9.8,
-        "humidityPercent": 83,
-        "windDirectionDeg": 270,
-        "windSpeedMps": 3.61,
-        "windGustMps": 4.17,
-        "pressureHPA": 1015.4
+        "fromHour": 1540018800,
+        "toHour": 1540026000,
+        "updatedTimestamp": 1540021800,
+        "temperatureC": 16.3,
+        "dewpointTemperatureC": 5.4,
+        "humidityPercent": 48,
+        "windDirectionDeg": 180,
+        "windSpeedMps": 6.67,
+        "windGustMps": 8.33,
+        "pressureHPA": 1020.3
       }
     ]
   },
@@ -2133,16 +2101,16 @@
     },
     "weather": [
       {
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "updatedTimestamp": 1539866400,
-        "temperatureC": 17.2,
+        "fromHour": 1540018800,
+        "toHour": 1540026000,
+        "updatedTimestamp": 1540021800,
+        "temperatureC": 16.6,
         "dewpointTemperatureC": 7.3,
-        "humidityPercent": 52,
-        "windDirectionDeg": 67.5,
-        "windSpeedMps": 4.17,
-        "windGustMps": 4.72,
-        "pressureHPA": 1013
+        "humidityPercent": 54,
+        "windDirectionDeg": 202.5,
+        "windSpeedMps": 4.72,
+        "windGustMps": 5.56,
+        "pressureHPA": 1020.3
       }
     ]
   },
@@ -2155,13 +2123,13 @@
     },
     "weather": [
       {
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "updatedTimestamp": 1539866400,
-        "temperatureC": 11.7,
-        "dewpointTemperatureC": 8,
-        "humidityPercent": 78,
-        "windDirectionDeg": 45,
+        "fromHour": 1540018800,
+        "toHour": 1540026000,
+        "updatedTimestamp": 1540021800,
+        "temperatureC": 11.5,
+        "dewpointTemperatureC": 8.7,
+        "humidityPercent": 83,
+        "windDirectionDeg": 180,
         "windSpeedMps": 1.94,
         "windGustMps": 2.5,
         "pressureHPA": null
@@ -2177,16 +2145,16 @@
     },
     "weather": [
       {
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "updatedTimestamp": 1539866400,
-        "temperatureC": 15.2,
-        "dewpointTemperatureC": 10,
-        "humidityPercent": 71,
-        "windDirectionDeg": 67.5,
-        "windSpeedMps": 6.11,
-        "windGustMps": 7.22,
-        "pressureHPA": 1012.9
+        "fromHour": 1540018800,
+        "toHour": 1540026000,
+        "updatedTimestamp": 1540021800,
+        "temperatureC": 17.7,
+        "dewpointTemperatureC": 3.6,
+        "humidityPercent": 39,
+        "windDirectionDeg": 202.5,
+        "windSpeedMps": 4.17,
+        "windGustMps": 5.28,
+        "pressureHPA": 1019.7
       }
     ]
   },
@@ -2199,15 +2167,15 @@
     },
     "weather": [
       {
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "updatedTimestamp": 1539866400,
+        "fromHour": 1540018800,
+        "toHour": 1540026000,
+        "updatedTimestamp": 1540021800,
         "temperatureC": null,
         "dewpointTemperatureC": null,
         "humidityPercent": null,
-        "windDirectionDeg": 112.5,
+        "windDirectionDeg": 247.5,
         "windSpeedMps": 1.94,
-        "windGustMps": 3.06,
+        "windGustMps": 2.5,
         "pressureHPA": null
       }
     ]
@@ -2221,16 +2189,16 @@
     },
     "weather": [
       {
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "updatedTimestamp": 1539866400,
-        "temperatureC": 10,
-        "dewpointTemperatureC": 8.1,
-        "humidityPercent": 88,
-        "windDirectionDeg": 337.5,
-        "windSpeedMps": 3.61,
-        "windGustMps": 4.17,
-        "pressureHPA": 1014.7
+        "fromHour": 1540018800,
+        "toHour": 1540026000,
+        "updatedTimestamp": 1540021800,
+        "temperatureC": 15.8,
+        "dewpointTemperatureC": 6,
+        "humidityPercent": 52,
+        "windDirectionDeg": 202.5,
+        "windSpeedMps": 5.56,
+        "windGustMps": 6.67,
+        "pressureHPA": 1020.2
       }
     ]
   },
@@ -2243,12 +2211,12 @@
     },
     "weather": [
       {
-        "fromHour": 1539813600,
-        "toHour": 1539820800,
-        "updatedTimestamp": 1539815400,
-        "temperatureC": 11.8,
-        "dewpointTemperatureC": 11.8,
-        "humidityPercent": 100,
+        "fromHour": 1539986400,
+        "toHour": 1539993600,
+        "updatedTimestamp": 1539988200,
+        "temperatureC": 14.5,
+        "dewpointTemperatureC": 7.4,
+        "humidityPercent": 62,
         "windDirectionDeg": 270,
         "windSpeedMps": 1.11,
         "windGustMps": null,
@@ -2265,14 +2233,14 @@
     },
     "weather": [
       {
-        "fromHour": 1539813600,
-        "toHour": 1539820800,
-        "updatedTimestamp": 1539815400,
-        "temperatureC": 12.4,
-        "dewpointTemperatureC": 10.3,
-        "humidityPercent": 87,
-        "windDirectionDeg": 270,
-        "windSpeedMps": 2.5,
+        "fromHour": 1539986400,
+        "toHour": 1539993600,
+        "updatedTimestamp": 1539988200,
+        "temperatureC": 13.9,
+        "dewpointTemperatureC": 7.2,
+        "humidityPercent": 64,
+        "windDirectionDeg": 247.5,
+        "windSpeedMps": 4.72,
         "windGustMps": null,
         "pressureHPA": null
       }
@@ -2287,16 +2255,16 @@
     },
     "weather": [
       {
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "updatedTimestamp": 1539866400,
-        "temperatureC": 14.8,
-        "dewpointTemperatureC": 13.3,
-        "humidityPercent": 91,
-        "windDirectionDeg": 337.5,
-        "windSpeedMps": 2.5,
-        "windGustMps": 3.61,
-        "pressureHPA": 1011.2
+        "fromHour": 1540018800,
+        "toHour": 1540026000,
+        "updatedTimestamp": 1540021800,
+        "temperatureC": 16.3,
+        "dewpointTemperatureC": 3.7,
+        "humidityPercent": 43,
+        "windDirectionDeg": 270,
+        "windSpeedMps": 4.72,
+        "windGustMps": 8.89,
+        "pressureHPA": 1012.1
       }
     ]
   },
@@ -2309,16 +2277,16 @@
     },
     "weather": [
       {
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "updatedTimestamp": 1539866400,
-        "temperatureC": 14.6,
-        "dewpointTemperatureC": 12.8,
-        "humidityPercent": 89,
-        "windDirectionDeg": 337.5,
-        "windSpeedMps": 1.94,
-        "windGustMps": 3.06,
-        "pressureHPA": 1011.6
+        "fromHour": 1540018800,
+        "toHour": 1540026000,
+        "updatedTimestamp": 1540021800,
+        "temperatureC": 16.5,
+        "dewpointTemperatureC": 2.3,
+        "humidityPercent": 38,
+        "windDirectionDeg": 292.5,
+        "windSpeedMps": 5.28,
+        "windGustMps": 7.22,
+        "pressureHPA": 1012.5
       }
     ]
   },
@@ -2331,14 +2299,15 @@
     },
     "weather": [
       {
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "updatedTimestamp": 1539866400,
-        "temperatureC": 14.3,
-        "dewpointTemperatureC": 13.8,
-        "humidityPercent": 97,
-        "windSpeedMps": 0,
-        "windGustMps": 0,
+        "fromHour": 1540018800,
+        "toHour": 1540026000,
+        "updatedTimestamp": 1540021800,
+        "temperatureC": 14.4,
+        "dewpointTemperatureC": 4.8,
+        "humidityPercent": 52,
+        "windDirectionDeg": 225,
+        "windSpeedMps": 3.61,
+        "windGustMps": 4.72,
         "pressureHPA": null
       }
     ]
@@ -2352,15 +2321,15 @@
     },
     "weather": [
       {
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "updatedTimestamp": 1539866400,
-        "temperatureC": 14.3,
-        "dewpointTemperatureC": 12.9,
-        "humidityPercent": 91,
-        "windDirectionDeg": 0,
-        "windSpeedMps": 2.5,
-        "windGustMps": 2.5,
+        "fromHour": 1540018800,
+        "toHour": 1540026000,
+        "updatedTimestamp": 1540021800,
+        "temperatureC": 15.2,
+        "dewpointTemperatureC": 5.7,
+        "humidityPercent": 53,
+        "windDirectionDeg": 247.5,
+        "windSpeedMps": 5.56,
+        "windGustMps": 6.67,
         "pressureHPA": null
       }
     ]
@@ -2374,16 +2343,16 @@
     },
     "weather": [
       {
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "updatedTimestamp": 1539866400,
-        "temperatureC": 12.8,
-        "dewpointTemperatureC": 12,
-        "humidityPercent": 95,
+        "fromHour": 1540018800,
+        "toHour": 1540026000,
+        "updatedTimestamp": 1540021800,
+        "temperatureC": 11.7,
+        "dewpointTemperatureC": 7.2,
+        "humidityPercent": 74,
         "windDirectionDeg": 247.5,
-        "windSpeedMps": 4.17,
-        "windGustMps": 4.72,
-        "pressureHPA": 1011.2
+        "windSpeedMps": 7.78,
+        "windGustMps": 9.17,
+        "pressureHPA": 1013
       }
     ]
   },
@@ -2396,15 +2365,15 @@
     },
     "weather": [
       {
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "updatedTimestamp": 1539866400,
-        "temperatureC": 14.6,
-        "dewpointTemperatureC": 13.9,
-        "humidityPercent": 96,
-        "windDirectionDeg": 90,
-        "windSpeedMps": 1.94,
-        "windGustMps": 1.94,
+        "fromHour": 1540018800,
+        "toHour": 1540026000,
+        "updatedTimestamp": 1540021800,
+        "temperatureC": 15,
+        "dewpointTemperatureC": 5.7,
+        "humidityPercent": 53,
+        "windDirectionDeg": 247.5,
+        "windSpeedMps": 7.78,
+        "windGustMps": 8.89,
         "pressureHPA": null
       }
     ]
@@ -2418,13 +2387,14 @@
     },
     "weather": [
       {
-        "fromHour": 1539813600,
-        "toHour": 1539820800,
-        "updatedTimestamp": 1539813600,
-        "temperatureC": 13.5,
-        "dewpointTemperatureC": 13.5,
-        "humidityPercent": 100,
-        "windSpeedMps": 0,
+        "fromHour": 1539986400,
+        "toHour": 1539993600,
+        "updatedTimestamp": 1539986400,
+        "temperatureC": 14,
+        "dewpointTemperatureC": 8,
+        "humidityPercent": 67,
+        "windDirectionDeg": 315,
+        "windSpeedMps": 9.17,
         "windGustMps": null,
         "pressureHPA": null
       }
@@ -2439,15 +2409,15 @@
     },
     "weather": [
       {
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "updatedTimestamp": 1539866400,
-        "temperatureC": 14.5,
-        "dewpointTemperatureC": 13.2,
-        "humidityPercent": 92,
-        "windDirectionDeg": 270,
-        "windSpeedMps": 1.11,
-        "windGustMps": 1.11,
+        "fromHour": 1540018800,
+        "toHour": 1540026000,
+        "updatedTimestamp": 1540021800,
+        "temperatureC": 14.2,
+        "dewpointTemperatureC": 9,
+        "humidityPercent": 71,
+        "windDirectionDeg": 180,
+        "windSpeedMps": 5.56,
+        "windGustMps": 6.11,
         "pressureHPA": null
       }
     ]
@@ -2461,14 +2431,15 @@
     },
     "weather": [
       {
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "updatedTimestamp": 1539866400,
+        "fromHour": 1540018800,
+        "toHour": 1540026000,
+        "updatedTimestamp": 1540021800,
         "temperatureC": 14.1,
-        "dewpointTemperatureC": 13.7,
-        "humidityPercent": 97,
-        "windSpeedMps": 0,
-        "windGustMps": 0,
+        "dewpointTemperatureC": 4.9,
+        "humidityPercent": 54,
+        "windDirectionDeg": 225,
+        "windSpeedMps": 3.61,
+        "windGustMps": 4.17,
         "pressureHPA": null
       }
     ]
@@ -2482,15 +2453,15 @@
     },
     "weather": [
       {
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "updatedTimestamp": 1539866400,
-        "temperatureC": 14.5,
-        "dewpointTemperatureC": 11.8,
-        "humidityPercent": 84,
-        "windDirectionDeg": 270,
-        "windSpeedMps": 2.5,
-        "windGustMps": 2.5,
+        "fromHour": 1540018800,
+        "toHour": 1540026000,
+        "updatedTimestamp": 1540021800,
+        "temperatureC": 13.2,
+        "dewpointTemperatureC": 9.6,
+        "humidityPercent": 79,
+        "windDirectionDeg": 90,
+        "windSpeedMps": 4.72,
+        "windGustMps": 5.28,
         "pressureHPA": null
       }
     ]
@@ -2504,13 +2475,13 @@
     },
     "weather": [
       {
-        "fromHour": 1539813600,
-        "toHour": 1539820800,
-        "updatedTimestamp": 1539813600,
-        "temperatureC": 15.6,
-        "dewpointTemperatureC": 14,
-        "humidityPercent": 90,
-        "windDirectionDeg": 0,
+        "fromHour": 1539986400,
+        "toHour": 1539993600,
+        "updatedTimestamp": 1539986400,
+        "temperatureC": 17,
+        "dewpointTemperatureC": 13.6,
+        "humidityPercent": 80,
+        "windDirectionDeg": 315,
         "windSpeedMps": 1.11,
         "windGustMps": null,
         "pressureHPA": null
@@ -2526,15 +2497,15 @@
     },
     "weather": [
       {
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "updatedTimestamp": 1539866400,
-        "temperatureC": 12.2,
-        "dewpointTemperatureC": 12,
-        "humidityPercent": 99,
-        "windDirectionDeg": 270,
-        "windSpeedMps": 3.06,
-        "windGustMps": 4.72,
+        "fromHour": 1540018800,
+        "toHour": 1540026000,
+        "updatedTimestamp": 1540021800,
+        "temperatureC": 10.4,
+        "dewpointTemperatureC": 7.6,
+        "humidityPercent": 83,
+        "windDirectionDeg": 202.5,
+        "windSpeedMps": 6.67,
+        "windGustMps": 11.39,
         "pressureHPA": null
       }
     ]
@@ -2548,15 +2519,16 @@
     },
     "weather": [
       {
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "updatedTimestamp": 1539866400,
-        "temperatureC": 11.5,
-        "dewpointTemperatureC": 7.6,
-        "humidityPercent": 77,
-        "windSpeedMps": 0,
-        "windGustMps": 0,
-        "pressureHPA": 1019
+        "fromHour": 1540018800,
+        "toHour": 1540026000,
+        "updatedTimestamp": 1540021800,
+        "temperatureC": 17.4,
+        "dewpointTemperatureC": 15.6,
+        "humidityPercent": 89,
+        "windDirectionDeg": 0,
+        "windSpeedMps": 3.61,
+        "windGustMps": 3.61,
+        "pressureHPA": 1012.3
       }
     ]
   },
@@ -2569,14 +2541,13 @@
     },
     "weather": [
       {
-        "fromHour": 1539813600,
-        "toHour": 1539820800,
-        "updatedTimestamp": 1539813600,
-        "temperatureC": 17.4,
-        "dewpointTemperatureC": 16.7,
-        "humidityPercent": 96,
-        "windDirectionDeg": 0,
-        "windSpeedMps": 0.56,
+        "fromHour": 1539986400,
+        "toHour": 1539993600,
+        "updatedTimestamp": 1539986400,
+        "temperatureC": 15,
+        "dewpointTemperatureC": 14.8,
+        "humidityPercent": 99,
+        "windSpeedMps": 0,
         "windGustMps": null,
         "pressureHPA": null
       }
@@ -2591,14 +2562,15 @@
     },
     "weather": [
       {
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "updatedTimestamp": 1539866400,
-        "temperatureC": 13.6,
-        "dewpointTemperatureC": 7.8,
-        "humidityPercent": 68,
-        "windSpeedMps": 0,
-        "windGustMps": 0,
+        "fromHour": 1540018800,
+        "toHour": 1540026000,
+        "updatedTimestamp": 1540021800,
+        "temperatureC": 15.5,
+        "dewpointTemperatureC": 14,
+        "humidityPercent": 91,
+        "windDirectionDeg": 90,
+        "windSpeedMps": 1.94,
+        "windGustMps": 2.5,
         "pressureHPA": null
       }
     ]
@@ -2612,15 +2584,15 @@
     },
     "weather": [
       {
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "updatedTimestamp": 1539866400,
-        "temperatureC": 8.3,
-        "dewpointTemperatureC": 8.2,
+        "fromHour": 1540018800,
+        "toHour": 1540026000,
+        "updatedTimestamp": 1540021800,
+        "temperatureC": 8.9,
+        "dewpointTemperatureC": 8.8,
         "humidityPercent": 99,
-        "windDirectionDeg": 337.5,
-        "windSpeedMps": 1.94,
-        "windGustMps": 2.5,
+        "windDirectionDeg": 270,
+        "windSpeedMps": 3.06,
+        "windGustMps": 4.72,
         "pressureHPA": null
       }
     ]
@@ -2634,16 +2606,16 @@
     },
     "weather": [
       {
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "updatedTimestamp": 1539866400,
-        "temperatureC": 9.1,
-        "dewpointTemperatureC": 6.2,
-        "humidityPercent": 82,
-        "windDirectionDeg": 157.5,
-        "windSpeedMps": 1.94,
-        "windGustMps": 1.94,
-        "pressureHPA": 1019.5
+        "fromHour": 1540018800,
+        "toHour": 1540026000,
+        "updatedTimestamp": 1540021800,
+        "temperatureC": 9.3,
+        "dewpointTemperatureC": 8.8,
+        "humidityPercent": 97,
+        "windDirectionDeg": 225,
+        "windSpeedMps": 3.06,
+        "windGustMps": 3.61,
+        "pressureHPA": 1014.2
       }
     ]
   },
@@ -2656,16 +2628,16 @@
     },
     "weather": [
       {
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "updatedTimestamp": 1539866400,
-        "temperatureC": 11.5,
-        "dewpointTemperatureC": 9.9,
-        "humidityPercent": 90,
-        "windDirectionDeg": 247.5,
-        "windSpeedMps": 1.67,
-        "windGustMps": 1.67,
-        "pressureHPA": 1019.2
+        "fromHour": 1540018800,
+        "toHour": 1540026000,
+        "updatedTimestamp": 1540021800,
+        "temperatureC": 15.6,
+        "dewpointTemperatureC": 13.3,
+        "humidityPercent": 86,
+        "windDirectionDeg": 0,
+        "windSpeedMps": 2.5,
+        "windGustMps": 3.06,
+        "pressureHPA": 1012.7
       }
     ]
   },
@@ -2678,15 +2650,15 @@
     },
     "weather": [
       {
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "updatedTimestamp": 1539866400,
-        "temperatureC": 16.8,
-        "dewpointTemperatureC": 16.6,
+        "fromHour": 1540018800,
+        "toHour": 1540026000,
+        "updatedTimestamp": 1540021800,
+        "temperatureC": 12.5,
+        "dewpointTemperatureC": 12.3,
         "humidityPercent": 99,
-        "windDirectionDeg": 0,
-        "windSpeedMps": 6.11,
-        "windGustMps": 6.67,
+        "windDirectionDeg": 180,
+        "windSpeedMps": 15.56,
+        "windGustMps": 18.06,
         "pressureHPA": null
       }
     ]
@@ -2700,15 +2672,16 @@
     },
     "weather": [
       {
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "updatedTimestamp": 1539866400,
-        "temperatureC": 14.5,
-        "dewpointTemperatureC": 13.5,
-        "humidityPercent": 94,
-        "windSpeedMps": 0,
-        "windGustMps": 0,
-        "pressureHPA": 1015.7
+        "fromHour": 1540018800,
+        "toHour": 1540026000,
+        "updatedTimestamp": 1540021800,
+        "temperatureC": 13.8,
+        "dewpointTemperatureC": 12.7,
+        "humidityPercent": 93,
+        "windDirectionDeg": 180,
+        "windSpeedMps": 9.17,
+        "windGustMps": 10.28,
+        "pressureHPA": 1013.5
       }
     ]
   },
@@ -2721,15 +2694,15 @@
     },
     "weather": [
       {
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "updatedTimestamp": 1539866400,
-        "temperatureC": 6.2,
-        "dewpointTemperatureC": 5.3,
+        "fromHour": 1540018800,
+        "toHour": 1540026000,
+        "updatedTimestamp": 1540021800,
+        "temperatureC": 8.5,
+        "dewpointTemperatureC": 7.6,
         "humidityPercent": 94,
-        "windDirectionDeg": 292.5,
-        "windSpeedMps": 3.06,
-        "windGustMps": 4.72,
+        "windDirectionDeg": 270,
+        "windSpeedMps": 4.17,
+        "windGustMps": 6.11,
         "pressureHPA": null
       }
     ]
@@ -2743,14 +2716,14 @@
     },
     "weather": [
       {
-        "fromHour": 1539835200,
-        "toHour": 1539842400,
-        "updatedTimestamp": 1539835200,
-        "temperatureC": 19.8,
-        "dewpointTemperatureC": 14.1,
-        "humidityPercent": 69,
-        "windDirectionDeg": 45,
-        "windSpeedMps": 6.67,
+        "fromHour": 1540008000,
+        "toHour": 1540015200,
+        "updatedTimestamp": 1540008000,
+        "temperatureC": 17.6,
+        "dewpointTemperatureC": 16.3,
+        "humidityPercent": 92,
+        "windDirectionDeg": 270,
+        "windSpeedMps": 2.5,
         "windGustMps": null,
         "pressureHPA": null
       }
@@ -2765,16 +2738,16 @@
     },
     "weather": [
       {
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "updatedTimestamp": 1539866400,
-        "temperatureC": 16.9,
-        "dewpointTemperatureC": 16.1,
-        "humidityPercent": 95,
-        "windDirectionDeg": 292.5,
-        "windSpeedMps": 1.67,
-        "windGustMps": 1.67,
-        "pressureHPA": 1016.6
+        "fromHour": 1540018800,
+        "toHour": 1540026000,
+        "updatedTimestamp": 1540021800,
+        "temperatureC": 18.9,
+        "dewpointTemperatureC": 15.9,
+        "humidityPercent": 83,
+        "windDirectionDeg": 315,
+        "windSpeedMps": 1.94,
+        "windGustMps": 2.5,
+        "pressureHPA": 1010.8
       }
     ]
   },
@@ -2787,15 +2760,15 @@
     },
     "weather": [
       {
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "updatedTimestamp": 1539866400,
-        "temperatureC": 7.1,
-        "dewpointTemperatureC": 4.5,
-        "humidityPercent": 83,
-        "windDirectionDeg": 292.5,
+        "fromHour": 1540018800,
+        "toHour": 1540026000,
+        "updatedTimestamp": 1540021800,
+        "temperatureC": 6.8,
+        "dewpointTemperatureC": 5.7,
+        "humidityPercent": 93,
+        "windDirectionDeg": 270,
         "windSpeedMps": 2.5,
-        "windGustMps": 4.17,
+        "windGustMps": 5.28,
         "pressureHPA": null
       }
     ]
@@ -2809,16 +2782,16 @@
     },
     "weather": [
       {
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "updatedTimestamp": 1539866400,
-        "temperatureC": 5.2,
-        "dewpointTemperatureC": 4.6,
-        "humidityPercent": 96,
+        "fromHour": 1540018800,
+        "toHour": 1540026000,
+        "updatedTimestamp": 1540021800,
+        "temperatureC": 5.1,
+        "dewpointTemperatureC": 4.8,
+        "humidityPercent": 98,
         "windDirectionDeg": 337.5,
-        "windSpeedMps": 12.22,
-        "windGustMps": 15,
-        "pressureHPA": 1020.8
+        "windSpeedMps": 10.28,
+        "windGustMps": 12.78,
+        "pressureHPA": 1014.9
       }
     ]
   },
@@ -2831,15 +2804,16 @@
     },
     "weather": [
       {
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "updatedTimestamp": 1539866400,
-        "temperatureC": 11.5,
-        "dewpointTemperatureC": 8,
-        "humidityPercent": 79,
-        "windSpeedMps": 0,
-        "windGustMps": 0,
-        "pressureHPA": 1019
+        "fromHour": 1540018800,
+        "toHour": 1540026000,
+        "updatedTimestamp": 1540021800,
+        "temperatureC": 17,
+        "dewpointTemperatureC": 16.4,
+        "humidityPercent": 96,
+        "windDirectionDeg": 112.5,
+        "windSpeedMps": 1.67,
+        "windGustMps": 1.94,
+        "pressureHPA": 1012.3
       }
     ]
   },
@@ -2852,15 +2826,15 @@
     },
     "weather": [
       {
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "updatedTimestamp": 1539866400,
-        "temperatureC": 17.2,
-        "dewpointTemperatureC": 17.2,
-        "humidityPercent": 100,
-        "windDirectionDeg": 0,
-        "windSpeedMps": 3.06,
-        "windGustMps": 3.06,
+        "fromHour": 1540018800,
+        "toHour": 1540026000,
+        "updatedTimestamp": 1540021800,
+        "temperatureC": 17.3,
+        "dewpointTemperatureC": 16.8,
+        "humidityPercent": 97,
+        "windDirectionDeg": 180,
+        "windSpeedMps": 8.89,
+        "windGustMps": 10.83,
         "pressureHPA": null
       }
     ]
@@ -2874,16 +2848,16 @@
     },
     "weather": [
       {
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "updatedTimestamp": 1539866400,
-        "temperatureC": 28.2,
-        "dewpointTemperatureC": 22.3,
-        "humidityPercent": 70,
-        "windDirectionDeg": 247.5,
-        "windSpeedMps": 3.06,
-        "windGustMps": 3.06,
-        "pressureHPA": 1012.8
+        "fromHour": 1540018800,
+        "toHour": 1540026000,
+        "updatedTimestamp": 1540021800,
+        "temperatureC": 28,
+        "dewpointTemperatureC": 22.6,
+        "humidityPercent": 72,
+        "windDirectionDeg": 0,
+        "windSpeedMps": 1.67,
+        "windGustMps": 1.94,
+        "pressureHPA": 1009.1
       }
     ]
   },
@@ -2896,15 +2870,15 @@
     },
     "weather": [
       {
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "updatedTimestamp": 1539866400,
-        "temperatureC": 27.9,
+        "fromHour": 1540018800,
+        "toHour": 1540026000,
+        "updatedTimestamp": 1540021800,
+        "temperatureC": 32.4,
         "dewpointTemperatureC": null,
         "humidityPercent": null,
-        "windDirectionDeg": 202.5,
-        "windSpeedMps": 4.72,
-        "windGustMps": 5.28,
+        "windDirectionDeg": 292.5,
+        "windSpeedMps": 3.61,
+        "windGustMps": 4.72,
         "pressureHPA": null
       }
     ]
@@ -2918,15 +2892,15 @@
     },
     "weather": [
       {
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "updatedTimestamp": 1539866400,
-        "temperatureC": 24.9,
-        "dewpointTemperatureC": 21.6,
-        "humidityPercent": 82,
-        "windDirectionDeg": 225,
-        "windSpeedMps": 1.11,
-        "windGustMps": 1.67,
+        "fromHour": 1540018800,
+        "toHour": 1540026000,
+        "updatedTimestamp": 1540021800,
+        "temperatureC": 32.4,
+        "dewpointTemperatureC": 22.2,
+        "humidityPercent": 55,
+        "windDirectionDeg": 247.5,
+        "windSpeedMps": 1.67,
+        "windGustMps": 1.94,
         "pressureHPA": null
       }
     ]
@@ -2940,16 +2914,16 @@
     },
     "weather": [
       {
-        "fromHour": 1539817200,
-        "toHour": 1539824400,
-        "updatedTimestamp": 1539819000,
+        "fromHour": 1539990000,
+        "toHour": 1539997200,
+        "updatedTimestamp": 1539991800,
         "temperatureC": 29.5,
-        "dewpointTemperatureC": 22.8,
-        "humidityPercent": 67,
-        "windDirectionDeg": 67.5,
-        "windSpeedMps": 4.17,
+        "dewpointTemperatureC": 23.7,
+        "humidityPercent": 71,
+        "windDirectionDeg": 225,
+        "windSpeedMps": 2.5,
         "windGustMps": null,
-        "pressureHPA": 1012.6
+        "pressureHPA": 1013.5
       }
     ]
   },
@@ -2962,16 +2936,16 @@
     },
     "weather": [
       {
-        "fromHour": 1539817200,
-        "toHour": 1539824400,
-        "updatedTimestamp": 1539819000,
-        "temperatureC": 29.5,
-        "dewpointTemperatureC": 24.5,
-        "humidityPercent": 74,
-        "windDirectionDeg": 45,
-        "windSpeedMps": 5.28,
+        "fromHour": 1539990000,
+        "toHour": 1539997200,
+        "updatedTimestamp": 1539991800,
+        "temperatureC": 27.5,
+        "dewpointTemperatureC": 26.4,
+        "humidityPercent": 94,
+        "windDirectionDeg": 0,
+        "windSpeedMps": 2.5,
         "windGustMps": null,
-        "pressureHPA": 1012.3
+        "pressureHPA": 1013.4
       }
     ]
   },
@@ -2984,15 +2958,15 @@
     },
     "weather": [
       {
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "updatedTimestamp": 1539866400,
-        "temperatureC": 28.5,
-        "dewpointTemperatureC": 23.1,
-        "humidityPercent": 72,
-        "windDirectionDeg": 270,
-        "windSpeedMps": 1.67,
-        "windGustMps": 1.94,
+        "fromHour": 1540018800,
+        "toHour": 1540026000,
+        "updatedTimestamp": 1540021800,
+        "temperatureC": 31.3,
+        "dewpointTemperatureC": 24.9,
+        "humidityPercent": 69,
+        "windDirectionDeg": 292.5,
+        "windSpeedMps": 3.61,
+        "windGustMps": 4.72,
         "pressureHPA": null
       }
     ]
@@ -3006,15 +2980,15 @@
     },
     "weather": [
       {
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "updatedTimestamp": 1539866400,
-        "temperatureC": 26.7,
-        "dewpointTemperatureC": 23.3,
-        "humidityPercent": 81,
-        "windDirectionDeg": 135,
-        "windSpeedMps": 1.11,
-        "windGustMps": 1.11,
+        "fromHour": 1540018800,
+        "toHour": 1540026000,
+        "updatedTimestamp": 1540021800,
+        "temperatureC": 29.3,
+        "dewpointTemperatureC": 22,
+        "humidityPercent": 64,
+        "windDirectionDeg": 0,
+        "windSpeedMps": 5.28,
+        "windGustMps": 5.56,
         "pressureHPA": null
       }
     ]
@@ -3028,14 +3002,15 @@
     },
     "weather": [
       {
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "updatedTimestamp": 1539866400,
-        "temperatureC": 25,
-        "dewpointTemperatureC": 22.8,
-        "humidityPercent": 87,
-        "windSpeedMps": 0,
-        "windGustMps": 0,
+        "fromHour": 1540018800,
+        "toHour": 1540026000,
+        "updatedTimestamp": 1540021800,
+        "temperatureC": 29.8,
+        "dewpointTemperatureC": 23,
+        "humidityPercent": 67,
+        "windDirectionDeg": 337.5,
+        "windSpeedMps": 1.94,
+        "windGustMps": 2.5,
         "pressureHPA": null
       }
     ]
@@ -3049,15 +3024,15 @@
     },
     "weather": [
       {
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "updatedTimestamp": 1539866400,
-        "temperatureC": 24.4,
-        "dewpointTemperatureC": 21.9,
-        "humidityPercent": 86,
-        "windDirectionDeg": 45,
-        "windSpeedMps": 1.11,
-        "windGustMps": 1.11,
+        "fromHour": 1540018800,
+        "toHour": 1540026000,
+        "updatedTimestamp": 1540021800,
+        "temperatureC": 24.6,
+        "dewpointTemperatureC": 22.4,
+        "humidityPercent": 87,
+        "windDirectionDeg": 225,
+        "windSpeedMps": 1.67,
+        "windGustMps": 1.94,
         "pressureHPA": null
       }
     ]
@@ -3071,16 +3046,16 @@
     },
     "weather": [
       {
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "updatedTimestamp": 1539866400,
-        "temperatureC": 27.4,
-        "dewpointTemperatureC": 23,
-        "humidityPercent": 77,
-        "windDirectionDeg": 315,
-        "windSpeedMps": 3.06,
-        "windGustMps": 3.06,
-        "pressureHPA": 1012.5
+        "fromHour": 1540018800,
+        "toHour": 1540026000,
+        "updatedTimestamp": 1540021800,
+        "temperatureC": 32.3,
+        "dewpointTemperatureC": 24.6,
+        "humidityPercent": 64,
+        "windDirectionDeg": 247.5,
+        "windSpeedMps": 3.61,
+        "windGustMps": 5.28,
+        "pressureHPA": 1009.1
       }
     ]
   },
@@ -3093,16 +3068,16 @@
     },
     "weather": [
       {
-        "fromHour": 1539864000,
-        "toHour": 1539871200,
-        "updatedTimestamp": 1539866400,
-        "temperatureC": 28.8,
-        "dewpointTemperatureC": 23.2,
-        "humidityPercent": 71,
-        "windDirectionDeg": 337.5,
-        "windSpeedMps": 3.06,
-        "windGustMps": 3.61,
-        "pressureHPA": 1012.5
+        "fromHour": 1540018800,
+        "toHour": 1540026000,
+        "updatedTimestamp": 1540021800,
+        "temperatureC": 32,
+        "dewpointTemperatureC": 20.9,
+        "humidityPercent": 52,
+        "windDirectionDeg": 292.5,
+        "windSpeedMps": 6.67,
+        "windGustMps": 7.78,
+        "pressureHPA": 1007.8
       }
     ]
   }
