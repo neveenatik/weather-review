@@ -5096,8 +5096,8 @@
     },
     {
         "name": "Palma de Mallorca",
-        "lat": 2.932247,
-        "lng": -75.255092
+        "lat": 2.650160,
+        "lng":  39.56960
     },
     {
         "name": "Reykjavik",
@@ -5191,8 +5191,8 @@
     },
     {
         "name": "Cerklje Airport (at Krka river)",
-        "lat": 45.884290,
-        "lng": 15.519950
+        "lat": 45.8995,
+        "lng": 15.5295
     },
     {
         "name": "Crnomelj",
@@ -5201,18 +5201,18 @@
     },
     {
         "name": "Kredarica",
-        "lat": 46.380571,
-        "lng": 13.922479
+        "lat": 46.3789,
+        "lng": 13.8488
     },
     {
         "name": "Lesce",
-        "lat": 51.352520,
-        "lng": 22.400940
+        "lat": 46.3610,
+        "lng": 14.1593
     },
     {
         "name": "Lisca",
-        "lat": 43.778300,
-        "lng": 11.071740
+        "lat": 46.0681,
+        "lng": 15.2847
     },
     {
         "name": "Ljubljana",
@@ -5226,13 +5226,13 @@
     },
     {
         "name": "Maribor Edvard Rusjan Airport",
-        "lat": 46.331699,
-        "lng": 15.384801
+        "lat": 46.4789,
+        "lng": 15.6838
     },
     {
         "name": "Murska Sobota",
-        "lat": 46.661362,
-        "lng": 16.166201
+        "lat": 46.6581,
+        "lng": 16.1610
     },
     {
         "name": "Nova Gorica",
@@ -5246,13 +5246,13 @@
     },
     {
         "name": "Portorož Airport",
-        "lat": 45.282407,
-        "lng": 13.365392
+        "lat": 45.4738,
+        "lng": 13.6151
     },
     {
         "name": "Ogulin",
-        "lat": 1,
-        "lng": 2
+        "lat": 45.463425,
+        "lng": 15.251
     },
     {
         "name": "Postojna",
@@ -5266,18 +5266,18 @@
     },
     {
         "name": "Slovenj Gradec",
-        "lat": 46.511131,
-        "lng": 15.080320
+        "lat": 46.5076,
+        "lng": 15.0768
     },
     {
         "name": "Vogel",
-        "lat": 46.141813,
-        "lng": 13.484939
+        "lat": 46.2383,
+        "lng": 13.8125
     },
     {
         "name": "Vojsko",
-        "lat": 46.12509,
-        "lng": 13.541225
+        "lat": 46.0226,
+        "lng": 13.9039
     },
     {
         "name": "Katarina",
