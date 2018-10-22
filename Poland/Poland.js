@@ -1,6 +1,6 @@
 const cheerio = require('cheerio');
 const axios = require('axios');
-const polandLocations = require('../data.json');
+const polandLocations = require('./data.json');
 const Promise = require('bluebird');
 const moment = require('moment');
 const fs = require("fs");
