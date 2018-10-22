@@ -23,7 +23,7 @@ async function main() {
     for (let i = 0; i < SOURCE_APIS.length; i++) {
       const result = await dbConnection.query(sql, [SOURCE_APIS[i], hourTimestamp]);
       if (result.length > 0)
-        await insertStats(dbConnection, SOURCE_APIS[i], hourTimestamp, result[0]);
+        await insertStats(dbConnection, SOURCE_APIS[i].toLowerCase(), hourTimestamp, result[0]);
     }
 
   }

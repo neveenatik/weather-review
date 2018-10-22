@@ -3,13 +3,13 @@
 const geohash = require('latlon-geohash');
 const mysql = require('mysql');
 const fs = require('fs-extra');
-const {translateSymbol} = require('./translateSymbol');
+const { translateSymbol } = require('./translateSymbol');
 
 const {
-  DB_CONFIG,
-  QUERY_CHUNK_SIZE,
-  TODO_DIR_PATH,
-  ARCHIVE_DIR_PATH
+    DB_CONFIG,
+    QUERY_CHUNK_SIZE,
+    TODO_DIR_PATH,
+    ARCHIVE_DIR_PATH
 } = require("../config/config");
 const weatherFiles = fs.readdirSync(TODO_DIR_PATH);
 
@@ -38,7 +38,7 @@ dbConnection.connect(function (err) {
         } else {
             const data = JSON.parse(fs.readFileSync(filePATH, 'utf8'));
 
-            const sourceApi = file.split('.')[0];
+            const sourceApi = file.split('.')[0].toLowerCase();
 
             const sql =
                 'REPLACE INTO weather (geohash5, geohash3, lat, sourceApi, lng, symbol, fromHour, altitude,\
@@ -55,21 +55,21 @@ dbConnection.connect(function (err) {
                 const lat = +locationElement.location.lat.toFixed(2);
                 const lng = +locationElement.location.lng.toFixed(2);
                 //checking if the fetch output is valid
-                if (locationElement.weather !== undefined) { 
-                locationElement.weather.forEach(elem => {
-                    const symbol = translateSymbol(elem.symbol);
-                    for (let i = 0; i < (elem.toHour - elem.fromHour) / 3600; i++) {
-                        const fromHour = elem.fromHour + (i * 3600);
-                        values.push([geohash5, geohash3, lat, sourceApi, lng, symbol, fromHour,
-                            elem.altitude, elem.fogPercent, elem.pressureHPA, elem.cloudinessPercent, elem.windDirectionDeg,
-                            elem.dewpointTemperatureC, elem.windGustMps, elem.humidityPercent, elem.areaMaxWindSpeedMps,
-                            elem.windSpeedMps, elem.temperatureC, elem.lowCloudPercent, elem.mediumCloudPercent,
-                            elem.highCloudPercent, elem.temperatureProbability, elem.windProbability, elem.updatedTimestamp]);
-                    }
-                });
-            }
-            console.log(`input of ${filePATH} is not valid!`)
-            return;
+                if (locationElement.weather !== undefined) {
+                    locationElement.weather.forEach(elem => {
+                        const symbol = translateSymbol(elem.symbol);
+                        for (let i = 0; i < (elem.toHour - elem.fromHour) / 3600; i++) {
+                            const fromHour = elem.fromHour + (i * 3600);
+                            values.push([geohash5, geohash3, lat, sourceApi, lng, symbol, fromHour,
+                                elem.altitude, elem.fogPercent, elem.pressureHPA, elem.cloudinessPercent, elem.windDirectionDeg,
+                                elem.dewpointTemperatureC, elem.windGustMps, elem.humidityPercent, elem.areaMaxWindSpeedMps,
+                                elem.windSpeedMps, elem.temperatureC, elem.lowCloudPercent, elem.mediumCloudPercent,
+                                elem.highCloudPercent, elem.temperatureProbability, elem.windProbability, elem.updatedTimestamp]);
+                        }
+                    });
+                }
+                console.log(`input of ${filePATH} is not valid!`)
+                return;
 
             });
             for (let i = 0; i < values.length; i += QUERY_CHUNK_SIZE) {

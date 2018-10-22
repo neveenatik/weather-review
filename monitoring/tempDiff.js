@@ -38,15 +38,12 @@ async function tempDiff(hourTimestamp) {
         const orderedLocations = geolib.orderByDistance(
           { latitude: monitoredCity.lat, longitude: monitoredCity.lng }, locationsArray);
 
-        const closestvalue = orderedLocations[0].distance;
         const closestIndex = orderedLocations[0].key;
 
         citiesDiff.push({
           sourceApi: sameGeohash3Cities[closestIndex].sourceApi,
           tempDiff: monitoredCity.temperatureC - sameGeohash3Cities[closestIndex].temperatureC
         });
-        if (sameGeohash3Cities[closestIndex].sourceApi === 'poland')
-          console.log(monitoredCity.geohash5, sameGeohash3Cities[closestIndex].geohash5, closestvalue);
       }
 
     }
