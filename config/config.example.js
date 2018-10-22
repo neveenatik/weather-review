@@ -3,6 +3,8 @@ const config = {};
 config.TODO_DIR_PATH = "relative/path/rout/to/consumer.js"; // define the path where output will be saved
 config.ARCHIVE_DIR_PATH = "relative/path/rout/to/consumer.js"; //define the path where output will be archived
 
+config.SOURCE_APIS = ['array of source apia names'];
+
 config.DB_CONFIG = {
     host: 'host', //fill hostname default localhost
     user: 'user', // fill database user 

@@ -2,7 +2,6 @@ const curl = require("curl");
 const fs = require("fs");
 const config = require("../config/config");
 const sleep = require("system-sleep");
-const geohash = require("ngeohash");
 const Windrose = require("windrose");
 const UK_LOCATIONS_API = `http://datapoint.metoffice.gov.uk/public/data/val/wxfcs/all/json/sitelist?&key=${config.metOfficeUK_key}`;
 const UK_LastUpdated_URL = `http://datapoint.metoffice.gov.uk/public/data/val/wxfcs/all/json/capabilities?res=3hourly&key=${config.metOfficeUK_key}`;
@@ -73,10 +72,10 @@ requestWeatherData = (locations_id, update) => {
 };
 
 handleWeatherData = (data, update) => {
-    const longitude = parseFloat(data.SiteRep.DV.Location.lon);
-    const latitude = parseFloat(data.SiteRep.DV.Location.lat);
-    const altitude = parseFloat(data.SiteRep.DV.Location.elevation);
-    const updatedTimestamp = Date.parse(update.Resource.dataDate)/1000;
+    const lng = parseFloat(data.SiteRep.DV.Location.lon);
+    const lat = parseFloat(data.SiteRep.DV.Location.lat);
+    const alt = parseFloat(data.SiteRep.DV.Location.elevation);
+    const updatedTimestamp = Date.parse(update.Resource.dataDate) / 1000;
 
     const weatherArray = [];
 
@@ -90,12 +89,11 @@ handleWeatherData = (data, update) => {
                 toHour,
                 updatedTimestamp,
                 temperatureC: parseFloat(weather.T),
-                feelsLikeC: parseFloat(weather.F),
                 symbol: weather_type_code_description[weather.W],
                 humidityPercent: parseFloat(weather.H),
                 windSpeedMps: parseFloat((parseFloat(weather.S) * 0.44704).toFixed(2)),
                 windGustMps: parseFloat((parseFloat(weather.G) * 0.44704).toFixed(2)),
-                windDirectionDegree: Windrose.getDegrees(weather.D).value,
+                windDirectionDeg: Windrose.getDegrees(weather.D).value,
             };
 
             weatherArray.push(obj);
@@ -103,12 +101,12 @@ handleWeatherData = (data, update) => {
     });
     fullWeatherDetails.push({
         location: {
-            longitude,
-            latitude,
-            altitude
+            lng,
+            lat,
+            alt
         },
         weather: weatherArray
-    });    
+    });
 };
 
 curl.getJSON(UK_LastUpdated_URL, null, (err, response, update) => {
