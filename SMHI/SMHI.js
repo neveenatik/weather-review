@@ -128,7 +128,7 @@ const getWeatherData = async (url, chunkSize, pausing) => {
         if (result.location !== undefined){
           finalResults.push(result);
           
-          fs.writeFileSync('smhi.json', JSON.stringify(finalResults, null, 2));
+          // fs.writeFileSync('smhi.json', JSON.stringify(finalResults, null, 2));
         }
       });
     }

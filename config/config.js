@@ -14,6 +14,7 @@ config.DB_CONFIG = {
 config.STATS_API_PORT = 3000;
 config.QUERY_CHUNK_SIZE = 500;
 config.SLEEP_IN_SECOND = 2;
+config.smhi_downsample = 17;
 config.USA_API_USERAGENT = 'freeWeatherapi / v1.0(http://freeweatherapi.com;)';
 config.metOfficeUK_key = '9faed075-1026-4785-83d4-3a6ccd5e4306';
 config.metOfficeUK_chunk = 9;
