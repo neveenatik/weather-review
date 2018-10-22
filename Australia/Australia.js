@@ -2,7 +2,7 @@ const cheerio = require('cheerio');
 const axios = require('axios');
 const moment = require('moment');
 const Promise = require('bluebird');
-const australiaLocations = require("../data.json");
+const australiaLocations = require("./data.json");
 const fs = require("fs");
 const wind = require('windrose')
 
