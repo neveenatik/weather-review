@@ -4,17 +4,18 @@ const mysql = require('mysql');
 const { promisify } = require('util');
 
 const { DB_CONFIG, SOURCE_APIS } = require('../config/config');
+const tempDiff = require('./tempDiff');
 
 async function main() {
 
   let dbConnection;
+  const runTimestamp = Math.floor(Date.now() / 1000);
+  const hourTimestamp = parseInt(runTimestamp / 3600) * 3600;
+
   try {
 
     dbConnection = mysql.createConnection({ ...DB_CONFIG });
     dbConnection.query = promisify(dbConnection.query);
-
-    const runTimestamp = Math.floor(Date.now() / 1000);
-    const hourTimestamp = parseInt(runTimestamp / 3600) * 3600;
 
     const sql = 'SELECT COUNT(geohash5) AS count, SUM(temperatureC), SUM(windSpeedMps), SUM(pressureHPA),\
     MAX(updatedTimestamp) FROM weather WHERE sourceApi = ? AND fromHour = ? ';
@@ -30,11 +31,10 @@ async function main() {
     console.log(error)
   } finally {
     dbConnection.end();
+    tempDiff(hourTimestamp);
   }
 
 }
-
-main();
 
 function insertStats(connection, sourceApi, hourTimestamp, sourceData) {
 
@@ -49,7 +49,9 @@ function insertStats(connection, sourceApi, hourTimestamp, sourceData) {
   connection.query(insertSql, insertValues,
     (err, result) => {
       if (err) console.log(err);
-      else console.log(result.affectedRows + ' rows inserted for ' + sourceApi + ' API');
+      else console.log(result.affectedRows + ' rows updated in stats for ' + sourceApi + ' API');
     });
 
 }
+
+main();

@@ -3,7 +3,8 @@ const config = {};
 config.TODO_DIR_PATH = "../tmp/todo/"; // define the path where output will be saved
 config.ARCHIVE_DIR_PATH = "../tmp/archive/";
 
-config.SOURCE_APIS = ['netherlands', 'iceland', 'usa', 'metOfficeUK'];
+config.SOURCE_APIS = ['rmi_belgium', 'netherlands', 'iceland', 'usa', 'metOfficeUK', 'australia',
+  'rmi_europe', 'poland', 'slovenia', 'southKorea', 'smhi'];
 config.DB_CONFIG = {
   host: 'localhost',
   user: 'root',

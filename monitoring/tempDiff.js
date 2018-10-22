@@ -6,18 +6,15 @@ const { promisify } = require('util');
 
 const { DB_CONFIG, SOURCE_APIS } = require('../config/config');
 
-const sourceDiff = [];
+const citiesDiff = [];
 
-async function main() {
+async function tempDiff(hourTimestamp) {
 
   let dbConnection;
   try {
 
     dbConnection = mysql.createConnection({ ...DB_CONFIG });
     dbConnection.query = promisify(dbConnection.query);
-
-    const runTimestamp = Math.floor(Date.now() / 1000);
-    const hourTimestamp = parseInt(runTimestamp / 3600) * 3600;
 
     const sqlMonitoringTable =
       'SELECT geohash5, geohash3, lat, lng, temperatureC FROM weather_monitoring WHERE fromHour = ? ';
@@ -29,50 +26,46 @@ async function main() {
 
     for (let i = 0; i < monitoringResults.length; i++) {
 
-      const city = monitoringResults[i]
-      const weatherResults = await dbConnection.query(sqlWeatherTable, [hourTimestamp, city.geohash3]);
+      const monitoredCity = monitoringResults[i]
+      const sameGeohash3Cities = await dbConnection.query(sqlWeatherTable, [hourTimestamp, monitoredCity.geohash3]);
 
-      if (weatherResults.length > 0) {
+      if (sameGeohash3Cities.length > 0) {
 
-        let closest = geolib.getDistance({ latitude: weatherResults[0].lat, longitude: weatherResults[0].lng },
-          { latitude: city.lat, longitude: city.lng });
-        let closestIndex = 0;
+        const locationsArray = sameGeohash3Cities.map(city =>
+          ({ latitude: city.lat, longitude: city.lng })
+        );
 
-        for (let index = 1; index < weatherResults.length; index++) {
-          const distance = geolib.getDistance(
-            { latitude: weatherResults[index].lat, longitude: weatherResults[index].lng },
-            { latitude: city.lat, longitude: city.lng });
-          if (distance < closest) {
-            closest = distance;
-            closestIndex = index;
-          }
-        }
+        const orderedLocations = geolib.orderByDistance(
+          { latitude: monitoredCity.lat, longitude: monitoredCity.lng }, locationsArray);
 
-        sourceDiff.push({
-          sourceApi: weatherResults[closestIndex].sourceApi,
-          tempDiff: city.temperatureC - weatherResults[closestIndex].temperatureC
+        const closestvalue = orderedLocations[0].distance;
+        const closestIndex = orderedLocations[0].key;
+
+        citiesDiff.push({
+          sourceApi: sameGeohash3Cities[closestIndex].sourceApi,
+          tempDiff: monitoredCity.temperatureC - sameGeohash3Cities[closestIndex].temperatureC
         });
-
+        if (sameGeohash3Cities[closestIndex].sourceApi === 'poland')
+          console.log(monitoredCity.geohash5, sameGeohash3Cities[closestIndex].geohash5, closestvalue);
       }
 
     }
 
     let diffArray = SOURCE_APIS.map(source => {
-      let count = 0;
-      const tempDiffC = sourceDiff.reduce((acc, elem) => {
+      let citiesCount = 0;
+      const sumOfTempDiff = citiesDiff.reduce((acc, elem) => {
         if (elem.sourceApi === source) {
-          count++
+          citiesCount++
           return acc + elem.tempDiff
         }
         return acc
       }, 0);
       return {
         sourceApi: source,
-        tempDiffC,
-        count
+        sumOfTempDiff,
+        citiesCount
       };
     });
-    console.log(diffArray);
     insertTempDiff(dbConnection, hourTimestamp, diffArray);
 
   }
@@ -84,18 +77,20 @@ async function main() {
 
 }
 
-main();
-
 function insertTempDiff(connection, hourTimestamp, diffArray) {
 
   const insertSql = 'UPDATE stats SET sumOfTempCDiff = ?, tempDiffCount = ? WHERE sourceApi = ? AND runTimestamp = ?';
 
   diffArray.map(elem =>
-    connection.query(insertSql, [+elem.tempDiffC.toFixed(2), elem.count, elem.sourceApi, hourTimestamp],
+
+    connection.query(insertSql, [+elem.sumOfTempDiff.toFixed(2), elem.citiesCount, elem.sourceApi, hourTimestamp],
       (err, result) => {
         if (err) throw err;
-        console.log(result.affectedRows + ' rows updated for ' + elem.sourceApi);
+        console.log(result.affectedRows + ' tempDiff updated for ' + elem.sourceApi);
       })
+
   );
 
 }
+
+module.exports = tempDiff;
